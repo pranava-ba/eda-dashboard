@@ -63,4 +63,16 @@ Set **types first**, then handle {doc}`missing-data`, then analyse. Changing a c
 re-reads it from the originally loaded values, so do type fixes before imputing blanks.
 ```
 
+## Worked example: does the type change the story?
+
+Take **Missed Payments** (values 0–5) in the sample. As a **categorical** variable with the target
+on, you get a grouped bar per level and a chi-square test — the natural way to ask *"does each
+count-level churn differently?"* As a **numeric** variable, you'd instead get boxplots and a t-test
+comparing the *average* number of missed payments between stayers and leavers.
+
+Both are legitimate questions, and here both happen to come back **not significant** — but the point
+stands: the type you choose decides *which question you're asking*. Pick the framing that matches
+what you actually want to know: "do these groups differ?" (categorical) vs "is there more/less of
+this quantity?" (numeric).
+
 **Next:** explore one variable at a time → {doc}`univariate`.

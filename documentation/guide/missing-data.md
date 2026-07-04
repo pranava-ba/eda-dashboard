@@ -59,6 +59,19 @@ Replacing blanks (called *imputation*) lets you keep rows, but you're inventing 
 empty — sometimes dropping it is more honest than filling it.
 ```
 
+## Worked example: choosing a strategy
+
+Imagine your file has **Income** with 30 blanks (3% of rows) and **Occupation** with 12 blanks.
+
+- **Income** is numeric and skewed (a few very high earners). Filling with the **mean** would bias
+  those 30 rows upward; filling with the **median** is safer. Or, since only 3% are affected, simply
+  **drop those rows** and lose almost nothing.
+- **Occupation** is a category, so mean/median make no sense — fill with the **most frequent** value
+  (mode), or drop the rows if the category is important and you don't want to guess.
+
+Notice the reasoning is always the same: *how many are missing, is the column numeric or
+categorical, and how much would filling distort it?*
+
 ## Resetting
 
 Changed your mind? **Reset data** restores the dataset exactly as it was first loaded, so you

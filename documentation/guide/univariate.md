@@ -1,98 +1,123 @@
 # Univariate Analysis
 
-*"Univariate"* means **one variable at a time**. This tab answers the first question of any
-analysis: *what does each column look like on its own?* You pick a variable and get a summary
-table plus a chart tailored to its type.
+*"Univariate"* means **one variable at a time**. This is where every analysis should begin: before
+you compare anything, understand each column on its own. This tab gives you a summary table and a
+chart matched to the variable's type, and — with the target on — a first comparison plus a
+statistical test.
 
-Use the **KPI group** dropdown to narrow the list, then the **Variable** dropdown to choose a
-column.
+Pick a **KPI group** to narrow the list, then a **Variable**.
+
+---
 
 ## Numeric variables
 
-For a number column (income, age, credit score…) you get:
+For a number column you get a statistics table and a histogram.
 
-### The summary table
+### Reading the statistics table
 
-A list of descriptive statistics. Here's how to read each one:
+Every row, in plain words:
 
-| Statistic | Meaning in plain words |
-|-----------|------------------------|
-| **Count** | how many values there are |
-| **Missing** | how many rows are blank |
-| **Min / Max** | the smallest and largest values |
-| **Q1, Median, Q3** | the 25th, 50th, 75th percentiles — e.g. Median = the middle value |
-| **Mean** | the arithmetic average |
-| **Std Dev** | the spread — how far values typically sit from the mean |
-| **Skewness** | lopsidedness: `0` ≈ symmetric, positive = a long tail to the right |
-| **Kurtosis** | how heavy the tails are (how often extreme values occur) |
+| Statistic | Meaning | Why you care |
+|-----------|---------|--------------|
+| **Count** | how many values | your effective sample size |
+| **Missing** | how many blanks | high = handle it on {doc}`missing-data` |
+| **Min / Max** | smallest / largest | spot impossible values (a negative age?) |
+| **Q1 / Median / Q3** | 25th / 50th / 75th percentiles | the median is the "typical" value |
+| **Mean** | arithmetic average | compare to the median (see below) |
+| **Std Dev** | typical distance from the mean | small = consistent, large = varied |
+| **Skewness** | lopsidedness | 0 ≈ symmetric; + = long right tail |
+| **Kurtosis** | tail heaviness | high = frequent extreme values |
 
-```{admonition} Mean vs. median — a quick tell
+### Worked example: a skewed variable
+
+Load the sample and open **Financial → Bank Balance**:
+
+- Median **₹99,450**, but Mean **₹140,099** — the mean is **41% higher** than the median.
+- Skewness **3.85**, Max **₹1.53 million**.
+
+The histogram shows a tall stack of modest balances on the left and a long thin tail stretching
+right. That gap between mean and median is the signature of **right skew**: a few very rich
+customers pull the average up, even though a *typical* customer has far less.
+
+```{admonition} Mean vs median — the 10-second diagnostic
 :class: tip
-If the **mean is much bigger than the median**, a few very large values are pulling the average
-up (positive skew). Income usually does this: most people cluster low, a few earn a lot. That
-gap is itself a useful insight.
+**Mean ≫ median** → right-skewed (long tail of large values: income, balances, prices).
+**Mean ≈ median** → roughly symmetric (e.g. Credit Score here, mean ≈ median ≈ 683).
+**Mean ≪ median** → left-skewed (long tail of small values).
+For skewed data, the **median** is the more honest "typical value".
 ```
 
-### The histogram
+### The histogram and the normal curve
 
-A **histogram** shows the *distribution* — the shape of the data. The range of values is sliced
-into bins along the bottom; the height of each bar is how many values fall in that bin. Tall
-bars mark the most common values; a long low tail marks rare extremes.
+The **histogram** slices the value range into bins along the x-axis; each bar's height is how many
+values land in that bin. Tall bars = common values; a long low tail = rare extremes.
 
-The orange line laid over it is a **normal curve** (a "bell curve") with the same mean and
-spread. It's a reference: if the bars roughly follow the curve, the data is bell-shaped; if they
-lean to one side, it's skewed.
+The orange **normal curve** overlaid on top is a bell curve with the *same* mean and spread. It's a
+yardstick: if the bars hug the curve, the data is bell-shaped; if they bunch to one side of it, the
+data is skewed. It is **not** a claim that your data *is* normal — just a reference shape.
+
+---
 
 ## Categorical variables
 
-For a label column (gender, occupation, policy type…) you get a **counts table** — each category
-with its count and percentage — and a chart chosen automatically by how many categories there
-are:
+For a label column you get a counts table (each category with its count and %) and a chart chosen
+automatically by how many categories there are:
 
-- **2 categories** → a **pie** chart
-- **3–4 categories** → a **donut** chart
-- **5+ categories** → a **bar** chart (easier to compare many slices)
+| Categories | Chart | Why |
+|------------|-------|-----|
+| 2 | **pie** | two slices are easy to compare |
+| 3–4 | **donut** | still readable as parts of a whole |
+| 5+ | **bar** | bars compare many groups better than a crowded pie |
 
-![A categorical variable shown as a donut chart](../images/i3.png)
+![A categorical variable as a donut chart](../images/i3.png)
 
-The top-bar **Measure** control switches these between **Count** (how many) and **Proportion**
-(what share of the total).
+The top-bar **Measure** control flips these between **Count** (how many) and **Proportion** (what
+share). Use **Proportion** when the total is less interesting than the mix.
+
+```{admonition} Watch for tiny categories
+:class: note
+A category with very few rows (e.g. *Gender = Trans* or *Do not wish to disclose*, a handful of
+customers each) will produce unstable percentages and unreliable comparisons later. Note which
+categories are thin — it explains a lot of "weird" results downstream.
+```
+
+---
 
 ## Turning on "With target"
 
-Flip the **Target** control to **With target** and the view splits by the outcome so you can
-*compare groups*. This is where insights live.
+Flip the **Target** control to **With target** and each view splits by the outcome so you can
+*compare groups*. This is where you start hunting for drivers.
 
-### Numeric variable, with target
+### Numeric variable, split by target
 
-You choose the chart style:
+Choose a chart style:
 
-Boxplot
-: A compact summary of a distribution for each target group, drawn as a box. The **box** spans
-the middle 50% of values (Q1 to Q3); the **line inside** is the median; the **whiskers** reach
-the typical range; **dots** beyond them are outliers. Two boxes side by side let you compare, at
-a glance, whether one group tends higher than the other and which is more spread out.
+**Boxplot** — a compact five-number summary per group. The **box** is the middle 50% (Q1–Q3), the
+**line** inside is the median, the **whiskers** reach the normal range, and **dots** beyond them
+are outliers. Two boxes side by side answer at a glance: *is one group generally higher? more
+spread out?* If the boxes overlap heavily and their medians line up, the groups are similar.
 
-Overlapping histogram
-: The two groups' distributions drawn on the same axes in different colours, so you can see where
-they overlap and where they diverge.
+**Overlapping histogram** — both groups' full distributions on shared axes, so you can see exactly
+where they coincide and where they part.
 
 ![Income boxplots for stayed vs left, with a t-test](../images/i2.png)
 
-Below the chart, a **statistical test** card tells you whether the difference between groups is
-real or could be chance — see {doc}`statistical-tests`.
+Below the chart, a **test card** (here a Welch's t-test) tells you whether the visible difference
+is real or chance — always read it. See {doc}`statistical-tests`.
 
-### Categorical variable, with target
+### Categorical variable, split by target
 
-You get a **grouped bar chart**: each category split into the target's groups, so you can see,
-say, whether "Gig Work" customers churn more than "Employed" ones. It comes with a chi-square
-test.
+You get a **grouped bar chart** — each category broken into the target's groups — plus a chi-square
+test. The question it answers: *does the churn rate differ across these categories?* With a 48.6%
+baseline, look for any category sitting well above or below that line **and** a significant test.
 
-```{admonition} How to actually use this screen
-:class: note
-Walk through your variables one by one with **With target** on. Any time the two groups look
-clearly different *and* the test says "significant", you've found a factor worth noting. The
-{doc}`multivariate` tab then lets you study several such factors together.
-```
+---
 
-**Next:** compare multiple variables at once → {doc}`multivariate`.
+## How to actually use this tab
+
+1. Skim **every** variable once to learn its shape and spot data-quality issues.
+2. Turn on **With target** and look for groups that separate.
+3. Trust the **test card**, not just your eyes — small groups create fake-looking trends.
+4. Note the promising variables, then study them together on {doc}`multivariate`.
+
+A full walkthrough of this in action is in the {doc}`../tutorial`.

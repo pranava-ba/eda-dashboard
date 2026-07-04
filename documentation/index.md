@@ -1,11 +1,11 @@
 # EDA Dashboard
 
-**EDA Dashboard** is a point-and-click tool for understanding a spreadsheet of data. You give
-it an Excel or CSV file; it gives you tables, charts, and plain-language statistics that reveal
-what's *in* the data and how the columns relate to one another — no coding required.
+**EDA Dashboard** is a point-and-click tool for understanding a spreadsheet of data. You give it an
+Excel or CSV file; it gives you tables, charts, and plain-language statistics that reveal what's
+*in* the data and how the columns relate to one another — **no coding required**.
 
-It comes bundled with an example about **customer churn** (whether insurance customers leave),
-but it works with **any** tabular dataset.
+It ships with an example about **customer churn** (whether insurance customers leave), but it works
+with **any** tabular dataset.
 
 ```{admonition} Try it right now — nothing to install
 :class: tip
@@ -15,32 +15,43 @@ Open the live demo: **<https://pranava-ba.github.io/eda-dashboard/>** and click
 
 ![The dashboard analysing a variable, split by the target](images/i2.png)
 
-## New here? Start with the ideas, not the buttons
+## Choose your starting point
 
-If words like *variable*, *distribution*, *churn*, or *p-value* are unfamiliar, that's fine —
-this documentation explains every one of them from scratch. Read the pages in order:
+::::{grid} 1 1 2 2
+:gutter: 3
 
-1. **{doc}`concepts`** — what data analysis is, in everyday language.
-2. **{doc}`installation`** — get the app (or just use the browser demo).
-3. **{doc}`quickstart`** — your first analysis, step by step.
-4. The **User Guide** — a deep dive into each screen, what every chart means, and how to read it.
+:::{grid-item-card} 🧠 I'm new to data analysis
+Start with {doc}`concepts` — it explains datasets, variables, "churn", and p-values from scratch,
+assuming zero background. Then follow the {doc}`tutorial`.
+:::
+
+:::{grid-item-card} 🚀 I just want to use it
+Jump to {doc}`installation` and the five-minute {doc}`quickstart`. Reach for the **User Guide** when
+you want detail on a specific screen.
+:::
+
+:::{grid-item-card} 📊 I want a worked example
+The {doc}`tutorial` investigates "what makes customers leave?" end to end — with real numbers, real
+findings, and how to avoid over-reading a coincidence.
+:::
+
+:::{grid-item-card} 📖 I need a reference
+The {doc}`reference/dataset` documents every column of the sample; the {doc}`glossary` defines every
+term; the {doc}`faq` covers common questions.
+:::
+
+::::
 
 ## What you can do with it
 
-:::{card} Describe one column at a time
-See the average, spread, and shape of a number column, or the category breakdown of a text
-column. → {doc}`guide/univariate`
-:::
-
-:::{card} Compare two or more columns
-Find out whether two things move together (e.g. income and credit score), or whether groups
-differ (e.g. do people who leave have lower balances?). → {doc}`guide/multivariate`
-:::
-
-:::{card} Get real statistics, explained
-Every comparison comes with a proper statistical test and a sentence telling you what it means.
-→ {doc}`guide/statistical-tests`
-:::
+- **Describe one column at a time** — the shape, average, and spread of a number, or the category
+  breakdown of a label. → {doc}`guide/univariate`
+- **Compare two or more columns** — do income and credit score move together? do leavers differ from
+  stayers? → {doc}`guide/multivariate`
+- **Get real statistics, explained** — every comparison carries the right test and a sentence saying
+  what it means. → {doc}`guide/statistical-tests`
+- **Clean and export** — handle missing values and save any view to PDF/HTML. →
+  {doc}`guide/missing-data`, {doc}`guide/exporting`
 
 ```{toctree}
 :maxdepth: 2
@@ -50,6 +61,14 @@ Every comparison comes with a proper statistical test and a sentence telling you
 concepts
 installation
 quickstart
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: Tutorial
+:hidden:
+
+tutorial
 ```
 
 ```{toctree}
@@ -71,6 +90,8 @@ guide/exporting
 :caption: Reference
 :hidden:
 
+reference/dataset
 glossary
+faq
 architecture
 ```
