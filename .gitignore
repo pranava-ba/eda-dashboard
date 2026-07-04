@@ -21,6 +21,9 @@ installer_output/
 .DS_Store
 Thumbs.db
 
+# Sphinx / Read the Docs build output
+documentation/_build/
+
 # Local test artifacts
 _preview/
 *.log
