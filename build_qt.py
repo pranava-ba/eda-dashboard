@@ -38,9 +38,7 @@ def main():
     exe = os.path.join(ROOT, "dist", "EDA_Dashboard", "EDA_Dashboard.exe")
     if os.path.exists(exe):
         print(f"\nBUILD SUCCESSFUL\n  {exe}")
-        print("\nNext steps:")
-        print("  • Run it directly, or")
-        print("  • Compile installer_eda_qt.iss in Inno Setup to make a setup.exe")
+        print("\nNext: zip the dist/EDA_Dashboard/ folder and attach it to a GitHub Release.")
     else:
         print("\n[X] Executable not found — check the log above.")
         sys.exit(1)

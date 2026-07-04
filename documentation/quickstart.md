@@ -1,52 +1,66 @@
 # Quick Start
 
-The app is organised as a left-to-right workflow across five tabs. Two **global controls**
-sit in the top bar and affect every tab:
+This is a five-minute tour that takes you from an empty screen to a real finding. We'll use the
+built-in sample, so you can follow along even without your own data.
 
-- **Measure** — show **Count** or **Proportion** (%) in categorical charts.
-- **Target** — analyse **With target** (split by the Quantity of Interest) or **Without target**.
+## The layout
 
-## 1. Load data
+The app is a row of **tabs** you move through left to right, plus two **global controls** in the
+top bar that affect every tab:
 
-Open the **Load** tab and either **Browse files** (Excel/CSV) or click **Use sample data** to
-try the bundled insurance-churn dataset. You'll see row/column counts, missing-cell totals,
-and a per-column overview.
+- **Measure** — show category charts as raw **Count**s or as **Proportion**s (%).
+- **Target** — **With target** splits everything by the outcome column; **Without target** looks
+  at variables on their own. (See the target concept in {doc}`concepts`.)
 
-If the file matches the known churn schema, the target is set to `Churn` automatically;
-otherwise you'll be prompted to choose a target.
+## Step 1 — Load the sample
 
-## 2. Confirm variable types
+Open the **Load** tab and click **Use sample data**. The app reads a 1,000-row insurance
+dataset, recognises it, and sets the target to **Churn** automatically. You'll see summary
+cards (rows, columns, missing values) and a table describing every column.
 
-On the **Types** tab, review each column's detected dtype and its analysis role
-(**numeric** or **categorical**). Override anything that's misclassified, choose the target
-column, then **Apply**.
+→ Details: {doc}`guide/loading-data`
 
-```{warning}
-Forcing a text column (e.g. "7+ months") to **numeric** will blank it out — set roles
-thoughtfully before analysing.
-```
+## Step 2 — Check the variable types
 
-## 3. Univariate analysis
+Open the **Types** tab. Each column is marked **numeric** or **categorical**. The guesses are
+usually right; if anything looks wrong, change it and click **Apply**. This is also where you'd
+pick a different target for your own data.
 
-On the **Univariate** tab, choose a KPI group and variable:
+→ Details: {doc}`guide/variable-types`
 
-- **Numeric** variables show a statistics table and a histogram with a fitted normal curve.
-- **Categorical** variables show counts/proportions as a pie, donut, or bar chart.
-- Turn on **With target** to split the view (boxplots / overlapping histograms / grouped
-  bars) and get a **statistical test** with a significance callout.
+## Step 3 — Look at one variable
 
-## 4. Multivariate analysis
+Open the **Univariate** tab, choose the group **Financial** and the variable
+**Income (INR p.a.)**. You'll get a statistics table and a histogram showing the shape of
+incomes.
 
-On the **Multivariate** tab, pick **2–4** variables. Every relevant pairing renders
-automatically:
+Now flip the top-bar **Target** control to **With target**. The chart becomes two boxplots —
+income for customers who *stayed* vs those who *left* — and a **Welch's t-test** card appears
+telling you whether the difference is statistically real.
 
-- **Numeric × Numeric** — scatter + regression line, plus a correlation heatmap.
-- **Numeric × Categorical** — grouped boxplots + group summary.
-- **Categorical × Categorical** — grouped/stacked bars + cross-tabulation.
-- With **With target** on, each variable is also compared against the target.
+![Univariate income, split by the target, with a t-test](images/i2.png)
 
-## 5. Missing data & export
+→ Details: {doc}`guide/univariate`
 
-- The **Missing** tab lists missing values per column and lets you drop or impute
-  (mean / median / mode / zero).
-- Use **⬇ PDF** or **⬇ HTML** in the top bar to export the current view as a report.
+## Step 4 — Compare several variables
+
+Open the **Multivariate** tab, set the count to **3 vars**, and pick e.g. *Income*, *Credit
+Score*, and *Gender*. Click **Analyze**. The app automatically produces every relevant
+comparison — a scatter plot, a correlation heatmap, boxplots by gender — each with its own
+statistical test.
+
+![Multivariate scatter, summary and correlation](images/i4.png)
+
+→ Details: {doc}`guide/multivariate`
+
+## Step 5 — Read the verdict
+
+Every chart that compares groups is paired with a **test card**: the name of the test, the key
+numbers, and a sentence like *"No statistically significant association (p = 0.874)."* That
+sentence is the takeaway — {doc}`guide/statistical-tests` explains exactly how to read it.
+
+## Where to go next
+
+- Handle blanks in real-world data → {doc}`guide/missing-data`
+- Save a report to share → {doc}`guide/exporting`
+- Unsure about a word? → {doc}`glossary`

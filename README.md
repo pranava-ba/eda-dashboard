@@ -54,14 +54,9 @@ compiled to WebAssembly). First load fetches ~20 MB, cached afterwards.
 <summary><strong>🖥️ Windows — Standalone App</strong></summary>
 <br/>
 
-Build the executable (no Python needed to run the result):
-
-```bash
-python build_qt.py     # → dist/EDA_Dashboard/EDA_Dashboard.exe  (one-folder)
-```
-
-Distribute the whole `dist/EDA_Dashboard/` folder, or compile `installer_eda_qt.iss` in
-[Inno Setup](https://jrsoftware.org/isdl.php) for a setup wizard.
+Download the latest **`EDA_Dashboard.zip`** from the
+[**Releases**](https://github.com/pranava-ba/eda-dashboard/releases/latest) page, unzip it,
+and run **`EDA_Dashboard.exe`**. No Python or setup required.
 
 </details>
 

@@ -1,40 +1,45 @@
-# Installation
+# Getting the App
 
-There are three ways to use the EDA Dashboard, depending on whether you want zero-install,
-a packaged desktop app, or to run from source.
+There are three ways to use the EDA Dashboard. If you just want to try it, the **live demo**
+needs nothing at all.
 
-## Live web demo (no install)
+## Option 1 — Live web demo (nothing to install)
 
-Open **<https://pranava-ba.github.io/eda-dashboard/>** in any modern browser.
+Open **<https://pranava-ba.github.io/eda-dashboard/>** in any modern browser (Chrome, Edge,
+Firefox, Safari).
 
-The entire app runs client-side via [Pyodide](https://pyodide.org) — Python, pandas and
-scipy are compiled to WebAssembly and executed in the page. The first visit downloads
-~20 MB of runtime and packages (cached by the browser afterwards); nothing is uploaded to a
-server, and your data never leaves your machine.
+The entire app runs *inside the page* using [Pyodide](https://pyodide.org), which is Python
+compiled to run in a browser. The first visit downloads about 20 MB of runtime (cached
+afterwards, so later visits are quick). Everything happens on your computer — **your data is
+never uploaded anywhere**.
 
-## Windows — standalone executable
-
-The desktop app is packaged with [PyInstaller](https://pyinstaller.org) into a one-folder
-build (no Python required on the target machine).
-
-```bash
-pip install -r requirements_qt.txt
-python build_qt.py
+```{admonition} Best for
+:class: tip
+Trying the app, exploring the bundled sample, or analysing a file quickly on any machine —
+including one where you can't install software.
 ```
 
-This produces `dist/EDA_Dashboard/EDA_Dashboard.exe`. Distribute the whole
-`dist/EDA_Dashboard/` folder, or build an installer by compiling `installer_eda_qt.iss` with
-[Inno Setup](https://jrsoftware.org/isdl.php).
+## Option 2 — Windows desktop app (recommended for regular use)
 
-```{note}
-The build is **one-folder**, not one-file, on purpose: a one-file bundle re-extracts the
-embedded Chromium (QtWebEngine) on every launch, which is slow and fragile. The folder build
-starts instantly.
+1. Go to the [**Releases**](https://github.com/pranava-ba/eda-dashboard/releases/latest) page.
+2. Download **`EDA_Dashboard.zip`**.
+3. Unzip it anywhere (e.g. your Desktop).
+4. Open the unzipped folder and double-click **`EDA_Dashboard.exe`**.
+
+No Python, no installer, no admin rights required. The app opens in its own window.
+
+```{admonition} Keep the folder together
+:class: warning
+`EDA_Dashboard.exe` relies on the other files unzipped beside it. Move or create a shortcut to
+the **whole folder**, not the `.exe` on its own.
 ```
 
-## Run from source
+Where your work lives: the app reads the files you open and writes only the reports you choose
+to export. Nothing is installed system-wide.
 
-Requires **Python 3.10+**.
+## Option 3 — Run from source (for developers)
+
+Requires **Python 3.10 or newer**.
 
 ```bash
 git clone https://github.com/pranava-ba/eda-dashboard.git
@@ -43,12 +48,8 @@ pip install -r requirements_qt.txt
 python run_qt.py
 ```
 
-### Dependencies
+This launches the same desktop app from the source code.
 
-| Package | Purpose |
-|---------|---------|
-| `PyQt6`, `PyQt6-WebEngine` | native window + embedded web UI |
-| `pandas`, `numpy` | data handling |
-| `scipy` | statistical tests |
-| `openpyxl` | Excel reading |
-| `pyinstaller` | building the `.exe` (optional) |
+---
+
+However you run it, the interface and workflow are identical. Continue to {doc}`quickstart`.
