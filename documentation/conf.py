@@ -31,31 +31,32 @@ html_css_files = ["lavender.css"]
 # Pastel-lavender palette, expressed through Furo's CSS variables.
 _LAVENDER = {
     "light_css_variables": {
-        "color-brand-primary": "#6b4fb0",     # headings / brand
-        "color-brand-content": "#7a5cc9",     # links
-        "color-background-primary": "#fdfcff",
-        "color-background-secondary": "#f3effc",  # sidebar / code blocks
-        "color-background-hover": "#ece4fa",
-        "color-background-border": "#e6ddf7",
-        "color-foreground-primary": "#2c2543",    # body text
-        "color-foreground-secondary": "#6a6284",
-        "color-foreground-muted": "#8a83a3",
-        "color-highlight-on-target": "#efe8fc",
-        "color-api-background": "#f3effc",
-        "color-inline-code-background": "#efe8fc",
-        "color-admonition-title-background--note": "#ede6fb",
-        "color-admonition-title--note": "#6b4fb0",
+        "color-brand-primary": "#463089",     # headings / brand (deep, high-contrast)
+        "color-brand-content": "#553bad",     # links
+        "color-background-primary": "#ffffff",     # white content = max readability
+        "color-background-secondary": "#f6f3fc",   # sidebar / code blocks (subtle)
+        "color-background-hover": "#ece5fa",
+        "color-background-border": "#e3daf5",
+        "color-foreground-primary": "#1c1830",     # body text (near-black)
+        "color-foreground-secondary": "#4c4665",
+        "color-foreground-muted": "#645d7c",
+        "color-highlight-on-target": "#f0eafc",
+        "color-api-background": "#f6f3fc",
+        "color-inline-code-background": "#f0ecfa",
+        "color-inline-code-foreground": "#5b3fae",
     },
     "dark_css_variables": {
-        "color-brand-primary": "#c7b6f2",
-        "color-brand-content": "#cbbaf6",
-        "color-background-primary": "#161320",
+        "color-brand-primary": "#cdc0f6",     # headings / brand
+        "color-brand-content": "#d3c6f9",     # links
+        "color-background-primary": "#15121f",
         "color-background-secondary": "#1e1930",
         "color-background-hover": "#2a2340",
-        "color-background-border": "#2c2542",
-        "color-foreground-primary": "#e9e4f7",
-        "color-foreground-secondary": "#b3aacb",
-        "color-inline-code-background": "#241d38",
+        "color-background-border": "#2f2748",
+        "color-foreground-primary": "#ece8f8",     # body text (bright)
+        "color-foreground-secondary": "#bcb4d6",
+        "color-foreground-muted": "#a49cc0",
+        "color-inline-code-background": "#251e3a",
+        "color-inline-code-foreground": "#cdbdf8",
         "color-api-background": "#1e1930",
     },
     "sidebar_hide_name": False,

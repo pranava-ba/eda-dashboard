@@ -1,14 +1,15 @@
 /* lavender.css — pastel-lavender polish on top of Furo */
 
 :root {
-  --lav-50:  #f7f4fd;
-  --lav-100: #efe8fc;
-  --lav-200: #e2d6f8;
-  --lav-300: #cdb9f0;
-  --lav-400: #a98fe0;
-  --lav-500: #8a6fd0;
-  --lav-600: #6b4fb0;
-  --lav-700: #543d8c;
+  --lav-50:  #f6f3fc;
+  --lav-100: #ece5fa;
+  --lav-200: #ddd0f5;
+  --lav-300: #c3aeee;
+  --lav-400: #9d7fdd;
+  --lav-500: #7657c5;
+  --lav-600: #553bad;   /* accents, links */
+  --lav-700: #463089;   /* headings (deep, ~9:1 on white) */
+  --lav-800: #362466;
 }
 
 /* Sidebar: soft lavender wash + tinted border */
@@ -32,34 +33,61 @@ body[data-theme="dark"] .sidebar-drawer {
   padding-left: 0.5rem;
 }
 
-/* Headings tinted lavender, h1/h2 with an underline swatch */
-h1, h2, h3, h4 { color: var(--lav-600); }
+/* Headings in a deep lavender (high contrast), h1/h2 with an underline swatch */
+h1, h2, h3, h4 { color: var(--lav-700); }
 body[data-theme="dark"] h1,
 body[data-theme="dark"] h2,
 body[data-theme="dark"] h3,
-body[data-theme="dark"] h4 { color: var(--lav-300); }
+body[data-theme="dark"] h4 { color: #cec1f6; }
 h1 { border-bottom: 3px solid var(--lav-200); padding-bottom: .3em; }
 h2 { border-bottom: 1px solid var(--lav-100); padding-bottom: .2em; }
 
 /* Tables: lavender header row */
 table.docutils thead th {
   background: var(--lav-100);
-  color: var(--lav-700);
-  border-bottom: 2px solid var(--lav-300) !important;
+  color: var(--lav-800);
+  border-bottom: 2px solid var(--lav-400) !important;
 }
 table.docutils tbody tr:nth-child(even) { background: var(--lav-50); }
 body[data-theme="dark"] table.docutils thead th { background: #241d38; color: var(--lav-300); }
 body[data-theme="dark"] table.docutils tbody tr:nth-child(even) { background: #1b1730; }
 
-/* Admonitions: lavender accent for the generic/note/tip family */
-.admonition, div.admonition {
-  border-radius: 10px;
-  border-left: 4px solid var(--lav-400);
+/* Admonitions — theme-aware so text stays readable in dark mode.
+   The info family (note/tip/important/seealso/hint) is tinted lavender;
+   warning/danger keep their semantic amber/red. */
+body[data-theme="light"] {
+  --lav-adm-bg: #f4f0fc;
+  --lav-adm-title-bg: #e7dffa;
+  --lav-adm-accent: #553bad;
 }
-.admonition.note, .admonition.seealso, .admonition.important {
-  background: var(--lav-50);
+body[data-theme="dark"] {
+  --lav-adm-bg: #201a33;
+  --lav-adm-title-bg: #2c2348;
+  --lav-adm-accent: #cabcf6;
 }
+.admonition, div.admonition { border-radius: 10px; }
 .admonition > .admonition-title { font-weight: 700; }
+
+.admonition.note, .admonition.important, .admonition.tip,
+.admonition.seealso, .admonition.hint {
+  background: var(--lav-adm-bg) !important;
+  border-left: 4px solid var(--lav-adm-accent) !important;
+}
+.admonition.note > .admonition-title,
+.admonition.important > .admonition-title,
+.admonition.tip > .admonition-title,
+.admonition.seealso > .admonition-title,
+.admonition.hint > .admonition-title {
+  background: var(--lav-adm-title-bg) !important;
+  color: var(--lav-adm-accent) !important;
+}
+.admonition.note > .admonition-title::before,
+.admonition.important > .admonition-title::before,
+.admonition.tip > .admonition-title::before,
+.admonition.seealso > .admonition-title::before,
+.admonition.hint > .admonition-title::before {
+  background-color: var(--lav-adm-accent) !important;
+}
 
 /* Inline + block code get a faint lavender tint */
 code.literal { border: 1px solid var(--lav-200); border-radius: 5px; }
