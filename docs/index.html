@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EDA Dashboard — Live Demo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-theme="light">
+
+  <!-- Boot overlay while Pyodide (Python-in-the-browser) downloads -->
+  <div id="boot-overlay" class="boot-overlay">
+    <div class="boot-card">
+      <div class="boot-mark">📊</div>
+      <h1>EDA Dashboard</h1>
+      <p>Running entirely in your browser — no server, no install.</p>
+      <div class="boot-spinner"></div>
+      <div id="boot-status">Starting…</div>
+      <div class="boot-note">First load fetches Python + pandas/scipy (~20 MB, cached afterwards).</div>
+    </div>
+  </div>
+
+  <header class="appbar">
+    <div class="brand">
+      <span class="brand-mark">📊</span>
+      <div class="brand-text">
+        <span class="brand-title">EDA Dashboard</span>
+        <span class="brand-sub">Live browser demo</span>
+      </div>
+    </div>
+    <div class="appbar-right">
+      <span id="file-badge" class="file-badge">No file loaded</span>
+      <div class="menu needs-data">
+        <button class="btn btn-soft" id="btn-export-pdf">⬇ PDF</button>
+        <button class="btn btn-soft" id="btn-export-html">⬇ HTML</button>
+      </div>
+      <button class="icon-btn" id="theme-toggle" title="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <nav class="controlbar">
+    <div class="tabs">
+      <button class="tab active" data-tab="load">📂 Load</button>
+      <button class="tab" data-tab="types">🔧 Types</button>
+      <button class="tab" data-tab="univariate">📈 Univariate</button>
+      <button class="tab" data-tab="multivariate">🔗 Multivariate</button>
+      <button class="tab" data-tab="missing">🧹 Missing</button>
+    </div>
+    <div class="global-controls needs-data">
+      <div class="gc"><span class="gc-label">Measure</span><span id="global-measure"></span></div>
+      <div class="gc"><span class="gc-label">Target</span><span id="global-qoi"></span></div>
+    </div>
+  </nav>
+
+  <main id="view" class="view"></main>
+  <div id="toasts" class="toasts"></div>
+
+  <!-- Plotly (vendored) + Pyodide (CDN) + our bridge + shared UI -->
+  <script src="vendor/plotly.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/pyodide/v0.26.4/full/pyodide.js"></script>
+  <script src="pyodide_bridge.js"></script>
+  <script src="charts.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

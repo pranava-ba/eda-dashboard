@@ -1,0 +1,1001 @@
+Age at Issuance,Gender,Marital Status,Financial Dependents,Income (INR p.a.),Occupation,Major Life Events,Location,Policy Type,Time Since Issuance,Sum Assured (INR),Premium (INR p.a.),Payment Frequency,Payment Method,Missed Payments,Bank Balance (INR),Credit Score,Purchase Channel,Churn
+56.6,Female,Unmarried,1,251706,Employed,2,Urban,Term Life,7+ months,1000000,17875,Monthly,Manual Payment,2,58798,602,Agent Distribution,1
+46.1,Female,Unmarried,2,253567,Employed,1,Rural,Term Life,4-6 months,500000,9989,Half Yearly,Auto-Debit,2,75810,717,Agent Distribution,1
+32.3,Male,Married,0,278335,Gig Work,1,Rural,Term Life,4-6 months,5000000,72223,Half Yearly,Manual Payment,0,14835,752,Embedded Apps,0
+60.4,Male,Married,0,127717,Employed,2,Urban,Whole Life,0-3 months,1000000,16927,Half Yearly,Manual Payment,0,84298,755,Embedded Apps,1
+25.1,Male,Married,5,162444,Employed,3,Urban,Whole Life,4-6 months,2000000,33452,Quarterly,Auto-Debit,0,206795,740,Agent Distribution,0
+38.0,Female,Married,1,120000,Gig Work,2,Urban,Whole Life,7+ months,500000,5165,Monthly,Manual Payment,0,155402,669,Agent Distribution,0
+56.2,Female,Unmarried,3,532038,Gig Work,1,Rural,Whole Life,0-3 months,500000,6807,Annual,Auto-Debit,0,66372,638,Embedded Apps,1
+36.4,Male,Unmarried,3,120000,Gig Work,2,Rural,Term Life,0-3 months,1000000,17495,Half Yearly,Auto-Debit,1,102492,620,Agent Distribution,0
+40.9,Female,Married,3,601699,Employed,0,Rural,Term Life,7+ months,2000000,30643,Monthly,Manual Payment,1,63263,559,Direct,0
+28.1,Female,Married,5,708173,Gig Work,0,Urban,Supplemental Health Insurance,7+ months,500000,2658,Monthly,Manual Payment,0,111191,759,Direct,1
+28.8,Female,Unmarried,1,217178,Gig Work,1,Rural,Supplemental Health Insurance,7+ months,5000000,50252,Monthly,Auto-Debit,0,338434,666,Agent Distribution,0
+41.4,Female,Married,0,120000,Employed,3,Urban,Term Life,7+ months,1000000,7167,Monthly,Auto-Debit,2,214228,580,Embedded Apps,0
+54.0,Male,Unmarried,2,208372,Employed,1,Rural,Whole Life,4-6 months,1000000,8494,Quarterly,Auto-Debit,0,149736,613,Direct,0
+57.9,Male,Married,0,256548,Employed,0,Urban,Term Life,0-3 months,500000,9291,Monthly,Auto-Debit,2,66548,610,Direct,0
+41.7,Male,Married,0,132267,Retired,0,Urban,Term Life,4-6 months,500000,2776,Monthly,Manual Payment,0,179862,683,Embedded Apps,0
+20.4,Male,Married,2,187090,Employed,3,Urban,Term Life,7+ months,2000000,16594,Half Yearly,Auto-Debit,0,25603,765,Embedded Apps,1
+39.5,Female,Married,3,783194,Employed,2,Rural,Term Life,7+ months,5000000,48217,Monthly,Auto-Debit,0,80669,652,Direct,0
+19.0,Female,Unmarried,2,427388,Employed,1,Rural,Whole Life,0-3 months,2000000,28506,Half Yearly,Manual Payment,1,157466,499,Agent Distribution,1
+41.7,Male,Married,1,140477,Gig Work,2,Urban,Whole Life,7+ months,500000,6505,Half Yearly,Auto-Debit,0,178498,664,Agent Distribution,1
+61.4,Male,Married,2,120000,Employed,2,Urban,Term Life,4-6 months,1000000,8274,Monthly,Auto-Debit,2,168705,667,Agent Distribution,1
+47.5,Male,Married,1,213435,Employed,2,Rural,Term Life,7+ months,1000000,7463,Half Yearly,Manual Payment,0,124974,662,Embedded Apps,1
+55.0,Female,Married,0,231094,Employed,1,Urban,Supplemental Health Insurance,0-3 months,10000000,85519,Half Yearly,Manual Payment,0,84408,629,Direct,0
+19.5,Male,Married,3,379776,Retired,3,Urban,Term Life,4-6 months,1000000,12537,Quarterly,Manual Payment,1,151809,697,Direct,0
+38.4,Female,Married,2,184476,Employed,1,Urban,Whole Life,7+ months,2000000,18135,Monthly,Auto-Debit,0,46060,685,Direct,1
+50.2,Male,Unmarried,3,383866,Employed,2,Urban,Term Life,7+ months,1000000,19214,Quarterly,Manual Payment,2,50224,678,Direct,0
+29.9,Male,Married,0,1039871,Gig Work,0,Rural,Whole Life,7+ months,1000000,11957,Annual,Auto-Debit,0,103713,713,Direct,1
+39.9,Do not wish to disclose,Married,3,474895,Employed,1,Rural,Term Life,4-6 months,1000000,5881,Half Yearly,Auto-Debit,0,113386,645,Direct,0
+61.3,Trans,Unmarried,2,259454,Retired,1,Urban,Term Life,4-6 months,500000,7969,Monthly,Manual Payment,1,22914,641,Embedded Apps,1
+42.9,Male,Married,2,236048,Employed,2,Urban,Term Life,4-6 months,2000000,19865,Half Yearly,Auto-Debit,4,142075,790,Direct,1
+44.7,Female,Unmarried,2,209050,Employed,0,Rural,Term Life,7+ months,1000000,14802,Quarterly,Manual Payment,0,183172,724,Embedded Apps,0
+59.7,Female,Married,3,613201,Employed,3,Urban,Term Life,7+ months,2000000,18387,Quarterly,Auto-Debit,2,92797,746,Agent Distribution,0
+45.1,Female,Unmarried,2,172971,Employed,1,Rural,Whole Life,4-6 months,500000,6780,Half Yearly,Auto-Debit,0,659721,778,Agent Distribution,0
+33.3,Male,Unmarried,2,276967,Gig Work,2,Urban,Term Life,4-6 months,10000000,165822,Quarterly,Manual Payment,2,57162,722,Direct,1
+32.3,Female,Unmarried,5,278128,Employed,3,Urban,Term Life,7+ months,500000,9460,Annual,Auto-Debit,1,73948,754,Direct,1
+64.8,Female,Unmarried,3,188858,Gig Work,2,Rural,Whole Life,4-6 months,5000000,44584,Half Yearly,Manual Payment,0,71965,553,Agent Distribution,1
+61.2,Female,Married,2,120000,Employed,2,Rural,Whole Life,7+ months,5000000,50114,Half Yearly,Auto-Debit,0,92878,696,Agent Distribution,1
+20.9,Male,Unmarried,3,336408,Employed,2,Urban,Supplemental Health Insurance,0-3 months,10000000,119639,Monthly,Manual Payment,0,75888,665,Embedded Apps,0
+54.6,Male,Married,2,257119,Employed,1,Rural,Whole Life,7+ months,1000000,18907,Annual,Auto-Debit,0,32033,814,Embedded Apps,1
+24.9,Male,Married,1,380852,Retired,3,Urban,Whole Life,7+ months,2000000,37041,Annual,Auto-Debit,0,63752,754,Agent Distribution,0
+38.4,Female,Married,2,184698,Employed,1,Urban,Whole Life,7+ months,1000000,6348,Monthly,Auto-Debit,1,91299,629,Agent Distribution,0
+26.2,Male,Married,4,630693,Employed,2,Rural,Supplemental Health Insurance,7+ months,500000,3489,Quarterly,Manual Payment,5,263776,709,Embedded Apps,0
+56.1,Female,Married,4,145256,Employed,2,Rural,Supplemental Health Insurance,0-3 months,1000000,12432,Monthly,Manual Payment,0,574809,693,Agent Distribution,1
+35.0,Trans,Married,1,889511,Employed,1,Rural,Term Life,7+ months,500000,3299,Half Yearly,Manual Payment,0,287327,716,Embedded Apps,0
+21.8,Male,Married,2,120000,Employed,1,Urban,Term Life,7+ months,10000000,101837,Half Yearly,Auto-Debit,1,53087,598,Embedded Apps,1
+42.9,Female,Unmarried,1,363792,Retired,1,Urban,Term Life,4-6 months,500000,3612,Monthly,Auto-Debit,3,56576,708,Direct,1
+31.2,Male,Unmarried,5,374295,Employed,3,Urban,Whole Life,0-3 months,2000000,29081,Annual,Auto-Debit,0,86902,661,Agent Distribution,1
+26.9,Female,Married,5,153754,Gig Work,3,Urban,Whole Life,0-3 months,2000000,38484,Monthly,Auto-Debit,0,411534,702,Agent Distribution,1
+44.0,Male,Married,2,361159,Employed,2,Rural,Whole Life,7+ months,1000000,19951,Half Yearly,Auto-Debit,0,86479,622,Agent Distribution,1
+19.9,Female,Married,3,657147,Gig Work,2,Urban,Term Life,4-6 months,2000000,21257,Quarterly,Manual Payment,0,34132,633,Agent Distribution,0
+37.7,Female,Married,3,120000,Retired,3,Rural,Whole Life,7+ months,500000,6992,Monthly,Manual Payment,0,66108,773,Embedded Apps,0
+46.0,Female,Married,2,381521,Employed,0,Urban,Supplemental Health Insurance,0-3 months,2000000,35688,Monthly,Auto-Debit,0,180890,595,Direct,1
+64.6,Female,Married,0,120000,Retired,1,Urban,Term Life,7+ months,1000000,6761,Monthly,Auto-Debit,0,171433,601,Direct,1
+24.7,Female,Married,2,136493,Employed,2,Urban,Whole Life,4-6 months,5000000,76717,Half Yearly,Manual Payment,1,84105,675,Direct,0
+61.9,Female,Unmarried,2,839378,Retired,3,Urban,Term Life,0-3 months,2000000,22265,Quarterly,Auto-Debit,0,170541,618,Agent Distribution,0
+25.8,Female,Married,2,178572,Gig Work,3,Urban,Supplemental Health Insurance,7+ months,10000000,80921,Monthly,Auto-Debit,0,16017,609,Agent Distribution,0
+64.8,Female,Married,2,120000,Employed,1,Rural,Supplemental Health Insurance,7+ months,500000,5520,Monthly,Auto-Debit,0,107265,688,Agent Distribution,1
+52.6,Male,Unmarried,4,233618,Employed,0,Urban,Whole Life,0-3 months,1000000,6139,Monthly,Auto-Debit,3,196525,559,Agent Distribution,1
+31.4,Female,Married,1,1141135,Employed,1,Rural,Whole Life,4-6 months,500000,7715,Half Yearly,Manual Payment,3,50701,599,Direct,1
+34.0,Female,Married,2,120000,Employed,1,Urban,Supplemental Health Insurance,0-3 months,500000,4395,Half Yearly,Auto-Debit,0,50560,844,Direct,0
+53.9,Female,Unmarried,2,128551,Employed,1,Rural,Whole Life,7+ months,1000000,9671,Monthly,Auto-Debit,0,22177,716,Agent Distribution,1
+57.2,Male,Married,2,765436,Employed,2,Urban,Term Life,7+ months,2000000,13632,Quarterly,Auto-Debit,1,352186,620,Agent Distribution,0
+21.2,Female,Married,2,984994,Employed,0,Rural,Whole Life,7+ months,1000000,17969,Monthly,Manual Payment,0,55485,713,Agent Distribution,1
+19.4,Male,Unmarried,1,249595,Gig Work,3,Urban,Term Life,7+ months,1000000,12401,Annual,Auto-Debit,0,119710,725,Embedded Apps,0
+23.2,Female,Unmarried,1,120000,Employed,1,Rural,Term Life,7+ months,5000000,67911,Annual,Auto-Debit,0,160032,759,Embedded Apps,1
+59.6,Male,Unmarried,2,1163671,Employed,2,Rural,Supplemental Health Insurance,0-3 months,2000000,27082,Half Yearly,Manual Payment,3,330927,669,Direct,1
+21.1,Female,Married,2,819221,Employed,0,Urban,Whole Life,7+ months,1000000,11157,Annual,Manual Payment,2,87280,758,Agent Distribution,0
+46.2,Do not wish to disclose,Unmarried,1,431603,Employed,1,Urban,Term Life,7+ months,1000000,7887,Annual,Manual Payment,1,64116,516,Agent Distribution,0
+35.8,Male,Married,3,151951,Employed,0,Urban,Term Life,0-3 months,1000000,16176,Annual,Manual Payment,0,113374,595,Embedded Apps,1
+43.9,Trans,Married,2,259284,Employed,4,Rural,Term Life,0-3 months,500000,3452,Quarterly,Auto-Debit,3,275753,693,Embedded Apps,1
+61.8,Male,Married,2,239844,Retired,3,Urban,Term Life,0-3 months,2000000,13116,Monthly,Auto-Debit,3,86151,706,Direct,1
+51.3,Female,Married,3,338268,Gig Work,1,Urban,Term Life,0-3 months,1000000,15652,Monthly,Auto-Debit,4,45986,607,Direct,0
+27.0,Female,Married,1,740959,Employed,1,Urban,Whole Life,7+ months,5000000,40662,Monthly,Auto-Debit,0,28778,700,Agent Distribution,0
+53.8,Female,Married,0,496625,Gig Work,4,Urban,Term Life,7+ months,2000000,19203,Half Yearly,Manual Payment,0,37159,630,Agent Distribution,1
+31.5,Female,Unmarried,3,126226,Employed,1,Rural,Whole Life,7+ months,2000000,24256,Monthly,Manual Payment,1,197109,657,Agent Distribution,0
+48.3,Female,Unmarried,2,703306,Gig Work,0,Urban,Term Life,7+ months,1000000,11740,Monthly,Manual Payment,0,76381,761,Direct,1
+66.0,Male,Unmarried,2,334098,Gig Work,2,Rural,Supplemental Health Insurance,7+ months,1000000,15628,Quarterly,Auto-Debit,0,60717,752,Agent Distribution,1
+32.1,Male,Married,3,434063,Employed,4,Rural,Term Life,7+ months,2000000,28702,Monthly,Manual Payment,0,55671,600,Direct,0
+25.2,Female,Unmarried,3,749063,Employed,0,Urban,Term Life,0-3 months,1000000,14665,Quarterly,Manual Payment,2,105665,595,Direct,1
+31.4,Female,Married,4,123240,Employed,1,Rural,Term Life,4-6 months,1000000,15710,Annual,Auto-Debit,2,81506,647,Direct,1
+40.4,Female,Unmarried,2,261691,Employed,4,Urban,Whole Life,7+ months,500000,4694,Half Yearly,Manual Payment,0,79339,677,Agent Distribution,0
+57.4,Female,Married,2,184976,Gig Work,0,Urban,Whole Life,0-3 months,500000,4917,Half Yearly,Auto-Debit,3,290529,627,Agent Distribution,1
+38.6,Male,Unmarried,2,120000,Employed,0,Urban,Term Life,0-3 months,2000000,23139,Quarterly,Auto-Debit,1,337868,763,Agent Distribution,0
+33.8,Female,Married,1,342044,Gig Work,2,Rural,Term Life,7+ months,1000000,9611,Quarterly,Manual Payment,2,27227,707,Direct,0
+62.3,Male,Unmarried,2,1556716,Retired,3,Urban,Term Life,7+ months,1000000,19774,Monthly,Manual Payment,0,128293,712,Direct,0
+35.3,Female,Unmarried,1,120000,Employed,1,Urban,Whole Life,4-6 months,1000000,17210,Annual,Auto-Debit,0,53024,578,Direct,0
+64.1,Male,Married,4,262341,Gig Work,4,Urban,Whole Life,7+ months,2000000,14939,Monthly,Auto-Debit,0,80934,773,Agent Distribution,1
+41.5,Male,Married,2,420155,Gig Work,2,Urban,Term Life,7+ months,5000000,25419,Monthly,Manual Payment,0,126427,454,Direct,1
+43.4,Male,Unmarried,2,292480,Retired,0,Rural,Term Life,4-6 months,5000000,28208,Half Yearly,Manual Payment,1,83268,746,Agent Distribution,0
+42.2,Male,Married,2,247907,Retired,4,Urban,Term Life,0-3 months,1000000,8660,Monthly,Manual Payment,0,118701,754,Direct,0
+62.5,Female,Unmarried,0,120000,Gig Work,1,Rural,Term Life,7+ months,500000,3357,Quarterly,Auto-Debit,5,169122,645,Direct,0
+58.1,Male,Unmarried,0,315827,Employed,1,Urban,Whole Life,4-6 months,1000000,13000,Monthly,Auto-Debit,0,124949,781,Direct,1
+46.0,Male,Married,2,157986,Gig Work,2,Rural,Term Life,0-3 months,2000000,35739,Monthly,Auto-Debit,0,58837,674,Direct,0
+32.3,Male,Married,0,120000,Employed,1,Urban,Term Life,7+ months,2000000,32102,Monthly,Auto-Debit,0,59673,684,Agent Distribution,1
+62.4,Male,Married,2,619219,Gig Work,0,Urban,Term Life,7+ months,2000000,16468,Monthly,Auto-Debit,0,31201,707,Agent Distribution,1
+18.8,Male,Unmarried,3,524851,Retired,0,Urban,Supplemental Health Insurance,0-3 months,500000,5494,Half Yearly,Auto-Debit,0,49854,900,Embedded Apps,0
+42.6,Male,Married,3,278218,Employed,1,Rural,Supplemental Health Insurance,4-6 months,2000000,25236,Annual,Auto-Debit,2,474328,787,Direct,1
+24.4,Female,Married,2,315007,Employed,3,Urban,Term Life,0-3 months,500000,8576,Quarterly,Auto-Debit,0,52386,736,Direct,0
+26.1,Female,Married,1,569220,Employed,2,Rural,Term Life,7+ months,2000000,35173,Annual,Manual Payment,1,37998,606,Agent Distribution,1
+41.3,Female,Married,3,313965,Employed,4,Rural,Term Life,0-3 months,1000000,18645,Monthly,Auto-Debit,1,127509,691,Embedded Apps,0
+18.8,Male,Unmarried,3,505251,Employed,1,Urban,Whole Life,7+ months,2000000,25277,Monthly,Auto-Debit,0,90373,614,Agent Distribution,1
+61.7,Male,Unmarried,1,217893,Gig Work,1,Urban,Term Life,7+ months,500000,7707,Monthly,Auto-Debit,1,84417,745,Agent Distribution,0
+25.5,Female,Married,3,672252,Retired,0,Urban,Whole Life,0-3 months,1000000,6677,Half Yearly,Auto-Debit,2,304746,691,Agent Distribution,1
+41.2,Female,Unmarried,1,335893,Retired,0,Urban,Whole Life,7+ months,2000000,26958,Quarterly,Auto-Debit,0,153169,590,Direct,0
+28.9,Male,Unmarried,3,307378,Employed,1,Rural,Supplemental Health Insurance,7+ months,1000000,8730,Half Yearly,Manual Payment,0,64602,686,Embedded Apps,0
+34.0,Male,Married,5,120000,Gig Work,3,Rural,Term Life,7+ months,2000000,22951,Half Yearly,Manual Payment,3,70292,612,Agent Distribution,0
+25.0,Male,Unmarried,0,328032,Gig Work,3,Rural,Supplemental Health Insurance,0-3 months,2000000,29021,Quarterly,Auto-Debit,0,66034,692,Embedded Apps,0
+52.3,Male,Married,3,149886,Employed,4,Urban,Whole Life,7+ months,2000000,17709,Half Yearly,Auto-Debit,0,198747,611,Agent Distribution,1
+52.9,Male,Married,2,171648,Employed,1,Urban,Term Life,7+ months,1000000,5782,Annual,Auto-Debit,5,77148,682,Agent Distribution,0
+51.0,Female,Unmarried,5,151635,Employed,3,Urban,Term Life,7+ months,1000000,5153,Monthly,Manual Payment,0,23516,740,Direct,0
+22.3,Female,Married,2,127215,Retired,1,Rural,Term Life,0-3 months,2000000,10664,Quarterly,Auto-Debit,0,94972,675,Agent Distribution,1
+59.8,Female,Unmarried,3,1187475,Employed,0,Urban,Term Life,7+ months,1000000,5125,Half Yearly,Auto-Debit,2,28864,648,Direct,1
+56.4,Female,Unmarried,0,681422,Gig Work,3,Rural,Term Life,4-6 months,2000000,13310,Half Yearly,Manual Payment,2,566586,696,Agent Distribution,1
+58.8,Female,Married,1,1029163,Employed,2,Urban,Whole Life,0-3 months,1000000,8592,Monthly,Manual Payment,0,45591,735,Agent Distribution,0
+45.6,Female,Unmarried,0,120000,Gig Work,0,Urban,Term Life,4-6 months,1000000,8318,Quarterly,Manual Payment,0,86725,591,Embedded Apps,0
+25.0,Female,Married,5,282060,Employed,1,Urban,Supplemental Health Insurance,7+ months,1000000,19801,Quarterly,Manual Payment,2,121365,700,Agent Distribution,0
+26.6,Male,Married,3,120000,Employed,1,Urban,Term Life,7+ months,500000,4795,Quarterly,Manual Payment,1,78360,785,Agent Distribution,0
+25.5,Male,Unmarried,3,164886,Employed,2,Urban,Supplemental Health Insurance,7+ months,1000000,6911,Monthly,Auto-Debit,0,78274,725,Direct,1
+29.0,Male,Unmarried,4,141112,Employed,1,Rural,Term Life,7+ months,2000000,26366,Annual,Auto-Debit,0,138338,684,Agent Distribution,0
+51.4,Female,Married,0,639031,Gig Work,4,Rural,Whole Life,4-6 months,2000000,35738,Half Yearly,Manual Payment,0,334694,731,Direct,1
+50.4,Female,Married,2,203340,Employed,0,Urban,Term Life,7+ months,1000000,15170,Quarterly,Manual Payment,2,182409,716,Agent Distribution,1
+65.7,Male,Unmarried,0,566858,Gig Work,1,Urban,Term Life,4-6 months,10000000,94412,Half Yearly,Manual Payment,3,322162,740,Embedded Apps,0
+40.4,Female,Unmarried,1,409578,Employed,1,Urban,Supplemental Health Insurance,4-6 months,1000000,13424,Annual,Auto-Debit,4,42732,518,Direct,0
+41.1,Male,Unmarried,1,1345864,Employed,2,Rural,Term Life,7+ months,5000000,78614,Monthly,Auto-Debit,2,127247,555,Direct,0
+54.9,Female,Married,2,120000,Employed,1,Urban,Whole Life,7+ months,2000000,31843,Monthly,Auto-Debit,1,111769,760,Agent Distribution,0
+52.9,Male,Married,1,647881,Employed,2,Rural,Whole Life,7+ months,2000000,29996,Quarterly,Auto-Debit,0,130727,559,Embedded Apps,1
+61.5,Male,Married,0,598695,Retired,3,Urban,Whole Life,7+ months,500000,9031,Half Yearly,Auto-Debit,2,296850,712,Agent Distribution,0
+57.4,Female,Unmarried,1,135758,Employed,4,Urban,Whole Life,0-3 months,1000000,18051,Monthly,Manual Payment,1,82732,651,Direct,0
+39.3,Male,Married,0,543069,Gig Work,3,Rural,Whole Life,0-3 months,500000,6842,Annual,Auto-Debit,0,71367,600,Embedded Apps,1
+44.3,Male,Married,5,339524,Retired,3,Urban,Term Life,7+ months,2000000,22895,Quarterly,Manual Payment,0,151324,707,Embedded Apps,1
+52.7,Male,Unmarried,3,228837,Employed,2,Urban,Whole Life,0-3 months,1000000,14623,Quarterly,Manual Payment,3,23799,696,Direct,0
+18.8,Female,Married,4,150729,Employed,3,Urban,Supplemental Health Insurance,4-6 months,2000000,34546,Monthly,Auto-Debit,0,81676,848,Embedded Apps,1
+52.8,Female,Unmarried,2,162206,Gig Work,1,Urban,Term Life,7+ months,1000000,5084,Monthly,Auto-Debit,0,88666,630,Agent Distribution,0
+54.8,Male,Unmarried,1,1126773,Retired,1,Urban,Term Life,0-3 months,5000000,99399,Half Yearly,Manual Payment,1,47273,795,Agent Distribution,1
+64.8,Female,Unmarried,3,268465,Retired,1,Rural,Whole Life,4-6 months,500000,3871,Annual,Manual Payment,1,229956,708,Agent Distribution,0
+31.2,Female,Married,1,463930,Employed,1,Rural,Term Life,7+ months,500000,6026,Quarterly,Manual Payment,0,42201,627,Embedded Apps,0
+20.4,Male,Married,1,154256,Gig Work,1,Urban,Term Life,7+ months,1000000,18080,Annual,Manual Payment,2,88548,743,Agent Distribution,0
+18.0,Male,Unmarried,1,155453,Employed,4,Rural,Term Life,7+ months,1000000,8375,Annual,Manual Payment,0,124807,725,Direct,0
+22.7,Male,Unmarried,0,572283,Retired,1,Urban,Whole Life,7+ months,1000000,12151,Quarterly,Auto-Debit,0,291490,682,Embedded Apps,0
+43.9,Male,Unmarried,1,120000,Retired,0,Urban,Term Life,4-6 months,2000000,13977,Half Yearly,Manual Payment,0,97885,701,Direct,0
+32.0,Female,Married,2,200656,Employed,2,Urban,Whole Life,7+ months,500000,5463,Quarterly,Manual Payment,1,208756,632,Agent Distribution,0
+56.1,Male,Unmarried,2,274805,Employed,0,Urban,Whole Life,7+ months,1000000,7657,Quarterly,Manual Payment,4,172901,613,Agent Distribution,0
+44.4,Female,Unmarried,0,290094,Employed,0,Urban,Term Life,0-3 months,5000000,52272,Monthly,Auto-Debit,2,108963,740,Direct,1
+26.5,Female,Unmarried,1,236720,Employed,1,Rural,Whole Life,0-3 months,500000,5300,Half Yearly,Manual Payment,3,41290,662,Direct,0
+32.1,Male,Unmarried,3,354007,Gig Work,1,Urban,Supplemental Health Insurance,7+ months,5000000,99487,Monthly,Auto-Debit,0,31330,673,Embedded Apps,1
+32.8,Female,Unmarried,0,435826,Employed,1,Urban,Whole Life,7+ months,10000000,199221,Annual,Manual Payment,0,107495,702,Agent Distribution,1
+43.9,Male,Unmarried,1,448761,Employed,3,Urban,Supplemental Health Insurance,7+ months,500000,3360,Annual,Auto-Debit,1,63949,701,Agent Distribution,1
+59.8,Trans,Married,3,134583,Employed,2,Rural,Term Life,7+ months,1000000,15889,Monthly,Auto-Debit,0,205954,565,Agent Distribution,0
+31.0,Female,Married,1,219935,Retired,1,Rural,Whole Life,7+ months,1000000,5776,Monthly,Auto-Debit,2,179276,782,Agent Distribution,0
+49.6,Female,Married,0,619293,Employed,1,Urban,Term Life,7+ months,2000000,10905,Quarterly,Auto-Debit,1,85162,689,Agent Distribution,1
+56.4,Female,Married,2,501948,Employed,1,Urban,Term Life,7+ months,2000000,13160,Quarterly,Auto-Debit,4,39098,663,Direct,1
+49.3,Male,Married,1,120000,Employed,2,Urban,Term Life,0-3 months,2000000,38964,Monthly,Manual Payment,0,148536,714,Agent Distribution,1
+21.6,Female,Married,2,343188,Retired,0,Urban,Term Life,7+ months,2000000,38225,Quarterly,Auto-Debit,0,43723,698,Embedded Apps,1
+47.3,Female,Married,3,120000,Gig Work,0,Urban,Supplemental Health Insurance,4-6 months,500000,3954,Monthly,Auto-Debit,0,53810,741,Agent Distribution,0
+54.3,Female,Married,0,277299,Employed,3,Urban,Term Life,7+ months,5000000,37125,Monthly,Auto-Debit,0,45092,723,Direct,0
+40.9,Female,Unmarried,2,1013010,Employed,1,Urban,Whole Life,7+ months,2000000,17216,Monthly,Auto-Debit,1,88362,737,Embedded Apps,1
+56.5,Female,Unmarried,2,138202,Employed,0,Urban,Whole Life,7+ months,2000000,25466,Monthly,Auto-Debit,0,251740,788,Embedded Apps,0
+63.0,Male,Married,0,149637,Employed,1,Urban,Whole Life,7+ months,5000000,67727,Half Yearly,Auto-Debit,0,98318,750,Direct,0
+32.9,Male,Unmarried,2,458089,Employed,4,Rural,Term Life,7+ months,2000000,16647,Annual,Auto-Debit,0,69246,667,Embedded Apps,1
+60.4,Female,Married,1,120000,Retired,3,Rural,Whole Life,4-6 months,1000000,16349,Quarterly,Manual Payment,0,29129,590,Agent Distribution,0
+46.8,Male,Married,2,172313,Employed,2,Urban,Term Life,4-6 months,1000000,9643,Quarterly,Auto-Debit,0,153537,813,Direct,1
+53.9,Female,Married,0,407382,Gig Work,1,Urban,Term Life,7+ months,1000000,18831,Monthly,Auto-Debit,0,52874,660,Direct,0
+30.3,Female,Married,2,172129,Employed,2,Urban,Supplemental Health Insurance,7+ months,500000,7425,Quarterly,Auto-Debit,0,108446,642,Agent Distribution,1
+49.3,Male,Unmarried,1,227480,Gig Work,4,Urban,Term Life,7+ months,10000000,115452,Monthly,Manual Payment,0,74356,541,Embedded Apps,0
+24.2,Male,Unmarried,3,451770,Gig Work,4,Rural,Term Life,0-3 months,500000,8424,Half Yearly,Auto-Debit,0,193018,707,Direct,1
+39.8,Female,Married,0,360440,Employed,1,Urban,Supplemental Health Insurance,7+ months,2000000,34537,Annual,Auto-Debit,0,87047,691,Direct,1
+45.1,Male,Married,2,323441,Employed,3,Rural,Term Life,7+ months,1000000,9357,Monthly,Auto-Debit,0,94170,558,Agent Distribution,1
+19.1,Female,Married,2,211634,Employed,0,Rural,Whole Life,7+ months,500000,5047,Half Yearly,Auto-Debit,0,145596,716,Agent Distribution,0
+59.8,Male,Married,3,347681,Employed,1,Urban,Term Life,7+ months,5000000,95196,Monthly,Auto-Debit,1,532613,640,Direct,1
+62.8,Female,Married,2,246073,Employed,2,Urban,Term Life,7+ months,5000000,37355,Quarterly,Auto-Debit,1,200939,895,Direct,0
+23.6,Male,Married,2,369706,Employed,1,Urban,Term Life,7+ months,1000000,5632,Monthly,Auto-Debit,2,91960,634,Agent Distribution,0
+45.7,Female,Unmarried,3,189500,Retired,4,Urban,Term Life,4-6 months,1000000,11810,Quarterly,Auto-Debit,0,98968,645,Embedded Apps,1
+45.7,Male,Unmarried,3,236145,Employed,0,Urban,Term Life,7+ months,500000,8509,Monthly,Auto-Debit,0,64868,610,Agent Distribution,0
+61.8,Female,Married,1,134192,Gig Work,2,Urban,Whole Life,0-3 months,1000000,16575,Quarterly,Manual Payment,2,46166,782,Agent Distribution,1
+61.3,Male,Unmarried,2,261841,Employed,3,Rural,Whole Life,7+ months,1000000,18792,Quarterly,Manual Payment,0,63436,650,Agent Distribution,0
+37.9,Female,Married,3,152100,Gig Work,3,Urban,Supplemental Health Insurance,0-3 months,1000000,12998,Monthly,Auto-Debit,1,53224,622,Agent Distribution,0
+47.3,Female,Married,5,123028,Employed,0,Urban,Term Life,0-3 months,10000000,65009,Half Yearly,Manual Payment,0,166490,736,Embedded Apps,1
+28.5,Male,Married,3,321599,Gig Work,1,Urban,Whole Life,7+ months,2000000,27660,Annual,Manual Payment,0,41900,569,Embedded Apps,0
+45.9,Male,Unmarried,2,311426,Employed,2,Rural,Whole Life,0-3 months,5000000,83379,Quarterly,Manual Payment,1,286808,730,Direct,1
+42.0,Male,Unmarried,1,464172,Employed,0,Urban,Supplemental Health Insurance,7+ months,2000000,12799,Monthly,Auto-Debit,0,180166,822,Agent Distribution,1
+56.9,Female,Unmarried,2,198434,Employed,4,Rural,Term Life,7+ months,1000000,7589,Monthly,Manual Payment,0,100348,725,Agent Distribution,0
+50.1,Female,Married,3,357052,Employed,3,Urban,Whole Life,7+ months,5000000,25921,Annual,Auto-Debit,0,98740,731,Agent Distribution,1
+18.4,Female,Unmarried,2,394572,Employed,0,Urban,Supplemental Health Insurance,7+ months,1000000,13904,Quarterly,Auto-Debit,0,63207,749,Agent Distribution,0
+44.8,Male,Married,2,366348,Employed,0,Urban,Term Life,4-6 months,5000000,91505,Quarterly,Auto-Debit,0,122524,816,Embedded Apps,1
+30.4,Male,Unmarried,3,150548,Employed,0,Urban,Supplemental Health Insurance,7+ months,1000000,15059,Monthly,Auto-Debit,1,235737,776,Embedded Apps,0
+58.5,Female,Married,2,297912,Gig Work,3,Rural,Term Life,0-3 months,500000,9865,Quarterly,Auto-Debit,2,56245,715,Agent Distribution,0
+20.9,Female,Married,3,346243,Employed,0,Urban,Whole Life,4-6 months,5000000,29727,Monthly,Auto-Debit,2,28948,752,Embedded Apps,0
+56.3,Do not wish to disclose,Unmarried,2,269689,Employed,1,Rural,Supplemental Health Insurance,7+ months,2000000,37090,Annual,Manual Payment,0,173264,609,Embedded Apps,1
+23.4,Male,Unmarried,1,120000,Gig Work,1,Urban,Whole Life,4-6 months,5000000,86055,Annual,Auto-Debit,5,127962,742,Embedded Apps,1
+25.8,Female,Married,2,300241,Employed,2,Urban,Term Life,7+ months,5000000,48568,Monthly,Auto-Debit,1,40289,599,Embedded Apps,1
+44.2,Male,Unmarried,3,1262711,Employed,0,Urban,Term Life,7+ months,500000,9801,Quarterly,Auto-Debit,0,54901,650,Direct,0
+26.7,Male,Married,0,208558,Employed,1,Urban,Supplemental Health Insurance,7+ months,1000000,9319,Monthly,Auto-Debit,2,49648,433,Direct,1
+54.1,Female,Unmarried,1,161191,Retired,4,Rural,Whole Life,7+ months,1000000,18339,Quarterly,Auto-Debit,1,55291,712,Embedded Apps,1
+50.2,Female,Unmarried,4,348482,Gig Work,3,Rural,Term Life,0-3 months,2000000,36422,Annual,Manual Payment,1,76195,628,Embedded Apps,1
+59.2,Do not wish to disclose,Unmarried,1,333922,Gig Work,3,Urban,Whole Life,7+ months,2000000,32729,Quarterly,Auto-Debit,0,79758,768,Embedded Apps,0
+61.8,Male,Married,2,618414,Employed,0,Urban,Whole Life,7+ months,1000000,13452,Monthly,Auto-Debit,0,58651,711,Direct,1
+41.6,Male,Married,2,120000,Gig Work,1,Urban,Term Life,7+ months,2000000,13600,Monthly,Manual Payment,2,53823,769,Agent Distribution,1
+32.9,Female,Married,2,447739,Employed,2,Urban,Term Life,0-3 months,2000000,25959,Annual,Auto-Debit,0,82205,593,Direct,1
+49.0,Female,Unmarried,2,405670,Employed,1,Urban,Term Life,7+ months,500000,5175,Half Yearly,Manual Payment,1,112888,763,Agent Distribution,1
+49.3,Male,Married,1,242922,Employed,3,Urban,Whole Life,4-6 months,5000000,84416,Quarterly,Auto-Debit,1,76646,848,Direct,1
+42.0,Male,Married,2,340129,Employed,2,Urban,Whole Life,0-3 months,2000000,32743,Monthly,Auto-Debit,2,249430,741,Direct,0
+58.7,Male,Married,2,551623,Employed,0,Urban,Whole Life,7+ months,5000000,93295,Monthly,Auto-Debit,0,148222,743,Direct,0
+29.5,Female,Married,2,494163,Employed,3,Urban,Supplemental Health Insurance,7+ months,1000000,5222,Annual,Auto-Debit,1,27648,693,Agent Distribution,0
+56.5,Male,Unmarried,0,120558,Employed,4,Urban,Supplemental Health Insurance,7+ months,500000,8568,Quarterly,Auto-Debit,0,150088,638,Agent Distribution,0
+19.4,Male,Married,2,476446,Employed,0,Rural,Whole Life,7+ months,1000000,19076,Quarterly,Manual Payment,1,160241,740,Direct,1
+20.1,Male,Unmarried,1,256457,Gig Work,2,Urban,Term Life,7+ months,500000,8419,Quarterly,Manual Payment,1,69717,559,Agent Distribution,1
+54.5,Male,Married,1,282380,Employed,1,Rural,Whole Life,0-3 months,10000000,69529,Half Yearly,Manual Payment,0,29847,646,Direct,0
+34.5,Male,Married,1,282444,Gig Work,1,Urban,Term Life,4-6 months,500000,3109,Monthly,Manual Payment,1,99354,538,Embedded Apps,0
+19.9,Female,Married,1,241549,Employed,0,Urban,Whole Life,0-3 months,2000000,10625,Monthly,Auto-Debit,0,98108,623,Agent Distribution,0
+19.4,Male,Married,3,617970,Gig Work,2,Urban,Whole Life,7+ months,1000000,14431,Quarterly,Manual Payment,0,40242,731,Agent Distribution,1
+45.5,Female,Married,1,253063,Employed,4,Urban,Term Life,0-3 months,1000000,14445,Half Yearly,Auto-Debit,0,30915,720,Embedded Apps,0
+40.8,Male,Unmarried,4,122555,Employed,2,Rural,Supplemental Health Insurance,4-6 months,500000,9901,Half Yearly,Manual Payment,0,92038,684,Agent Distribution,0
+54.2,Female,Married,4,203725,Employed,0,Urban,Term Life,7+ months,2000000,21941,Annual,Auto-Debit,0,81923,693,Agent Distribution,1
+49.4,Female,Unmarried,2,304092,Employed,2,Rural,Whole Life,4-6 months,2000000,19957,Quarterly,Manual Payment,0,70699,529,Agent Distribution,0
+50.4,Female,Married,0,634409,Gig Work,1,Rural,Term Life,0-3 months,1000000,14366,Monthly,Manual Payment,1,92343,650,Embedded Apps,0
+18.4,Female,Married,2,409284,Employed,3,Urban,Supplemental Health Insurance,7+ months,5000000,86920,Annual,Auto-Debit,2,40854,625,Direct,1
+36.1,Male,Unmarried,3,147949,Employed,1,Urban,Term Life,0-3 months,1000000,19051,Quarterly,Auto-Debit,1,69713,627,Embedded Apps,1
+19.9,Male,Married,2,1528248,Gig Work,0,Rural,Term Life,0-3 months,1000000,17046,Half Yearly,Auto-Debit,0,151245,727,Embedded Apps,1
+61.2,Female,Married,0,322979,Gig Work,0,Urban,Term Life,4-6 months,1000000,11400,Half Yearly,Auto-Debit,3,74609,611,Agent Distribution,1
+44.0,Do not wish to disclose,Married,2,655250,Employed,2,Rural,Term Life,7+ months,500000,7261,Quarterly,Manual Payment,1,25910,631,Agent Distribution,0
+49.5,Female,Married,3,241300,Employed,1,Urban,Term Life,7+ months,5000000,89222,Monthly,Manual Payment,0,67632,513,Agent Distribution,1
+23.4,Female,Unmarried,3,389785,Employed,2,Urban,Whole Life,4-6 months,1000000,12359,Half Yearly,Auto-Debit,2,41934,656,Direct,1
+49.3,Female,Married,1,482930,Employed,1,Urban,Term Life,7+ months,500000,4125,Annual,Auto-Debit,0,122236,592,Direct,0
+21.9,Male,Unmarried,2,629534,Employed,1,Urban,Term Life,4-6 months,1000000,7545,Quarterly,Manual Payment,1,127397,686,Embedded Apps,0
+28.2,Male,Unmarried,1,562506,Retired,1,Rural,Term Life,7+ months,2000000,10004,Quarterly,Auto-Debit,0,26186,603,Agent Distribution,1
+34.5,Female,Married,1,494122,Employed,4,Urban,Supplemental Health Insurance,0-3 months,1000000,15773,Monthly,Auto-Debit,0,181173,688,Agent Distribution,1
+56.0,Female,Unmarried,3,215225,Employed,4,Rural,Whole Life,7+ months,2000000,13332,Monthly,Manual Payment,2,40548,668,Embedded Apps,0
+41.1,Male,Married,1,179831,Employed,1,Urban,Whole Life,7+ months,500000,4328,Monthly,Manual Payment,0,343638,813,Agent Distribution,1
+22.9,Female,Unmarried,1,338684,Retired,1,Urban,Whole Life,7+ months,1000000,9468,Monthly,Auto-Debit,0,94937,719,Direct,1
+51.7,Male,Married,0,515653,Gig Work,0,Urban,Term Life,0-3 months,5000000,67028,Annual,Auto-Debit,3,36420,532,Agent Distribution,1
+23.6,Female,Unmarried,3,229600,Employed,2,Urban,Term Life,4-6 months,500000,5484,Half Yearly,Manual Payment,3,39593,578,Agent Distribution,0
+39.4,Male,Married,3,565587,Gig Work,1,Urban,Term Life,7+ months,5000000,75600,Half Yearly,Manual Payment,1,130414,684,Direct,0
+28.6,Male,Married,2,741797,Employed,3,Urban,Supplemental Health Insurance,0-3 months,500000,2917,Quarterly,Manual Payment,0,72183,605,Embedded Apps,0
+65.6,Female,Unmarried,3,141290,Employed,4,Rural,Supplemental Health Insurance,7+ months,5000000,34295,Monthly,Auto-Debit,0,91370,442,Direct,1
+33.9,Male,Unmarried,1,149366,Employed,1,Urban,Whole Life,7+ months,1000000,12488,Annual,Manual Payment,2,358693,787,Agent Distribution,0
+50.1,Female,Married,2,243223,Employed,1,Urban,Term Life,7+ months,2000000,20108,Quarterly,Auto-Debit,0,56421,737,Direct,0
+26.4,Female,Married,2,332810,Employed,3,Rural,Term Life,0-3 months,500000,4718,Monthly,Manual Payment,0,103566,721,Agent Distribution,1
+23.8,Female,Unmarried,0,185870,Retired,3,Rural,Term Life,7+ months,500000,3002,Quarterly,Auto-Debit,0,307390,631,Agent Distribution,0
+33.8,Male,Unmarried,2,691447,Employed,0,Urban,Whole Life,7+ months,1000000,18435,Annual,Auto-Debit,0,122566,714,Agent Distribution,1
+46.8,Male,Unmarried,4,361077,Retired,1,Urban,Term Life,7+ months,500000,7688,Annual,Manual Payment,0,27302,623,Embedded Apps,1
+20.4,Male,Unmarried,0,275850,Employed,1,Rural,Supplemental Health Insurance,0-3 months,1000000,6824,Monthly,Auto-Debit,0,147902,696,Direct,1
+37.0,Do not wish to disclose,Unmarried,1,120000,Employed,1,Urban,Term Life,0-3 months,1000000,5975,Annual,Auto-Debit,0,38933,606,Embedded Apps,0
+53.0,Female,Unmarried,1,120000,Employed,0,Urban,Supplemental Health Insurance,4-6 months,2000000,39246,Monthly,Manual Payment,0,304201,801,Agent Distribution,1
+36.7,Female,Married,1,326670,Employed,0,Urban,Whole Life,0-3 months,2000000,30435,Monthly,Manual Payment,0,51108,554,Embedded Apps,1
+43.2,Female,Married,4,120000,Employed,2,Rural,Whole Life,7+ months,2000000,22523,Annual,Manual Payment,0,1061939,778,Agent Distribution,1
+20.5,Female,Unmarried,2,545166,Employed,1,Urban,Whole Life,7+ months,2000000,31051,Annual,Auto-Debit,1,319304,683,Direct,1
+36.5,Female,Unmarried,2,240215,Employed,0,Rural,Whole Life,4-6 months,1000000,16344,Quarterly,Auto-Debit,2,52193,640,Direct,0
+37.3,Male,Married,3,2597772,Employed,1,Urban,Whole Life,7+ months,1000000,16699,Quarterly,Manual Payment,0,100309,693,Embedded Apps,1
+49.3,Female,Married,1,1349900,Gig Work,3,Rural,Whole Life,0-3 months,1000000,12168,Annual,Auto-Debit,0,180397,738,Embedded Apps,1
+24.6,Male,Unmarried,2,236330,Employed,3,Urban,Whole Life,0-3 months,5000000,57241,Half Yearly,Manual Payment,0,184781,789,Agent Distribution,1
+58.5,Female,Married,2,249088,Employed,1,Urban,Supplemental Health Insurance,0-3 months,1000000,5165,Annual,Auto-Debit,0,140627,705,Agent Distribution,1
+50.9,Female,Married,2,538696,Employed,1,Rural,Whole Life,4-6 months,500000,9449,Quarterly,Manual Payment,0,268801,608,Agent Distribution,0
+57.4,Female,Married,5,884007,Retired,4,Urban,Whole Life,7+ months,2000000,28099,Annual,Auto-Debit,0,89466,684,Embedded Apps,0
+56.7,Male,Married,3,120000,Gig Work,1,Urban,Supplemental Health Insurance,0-3 months,1000000,8047,Annual,Auto-Debit,1,73616,825,Embedded Apps,0
+35.1,Male,Married,2,120000,Employed,1,Urban,Term Life,7+ months,5000000,93970,Monthly,Manual Payment,1,74795,787,Embedded Apps,0
+58.0,Male,Married,3,173611,Employed,1,Urban,Term Life,7+ months,5000000,93619,Annual,Auto-Debit,0,196162,752,Embedded Apps,0
+18.4,Male,Married,1,403493,Employed,0,Urban,Whole Life,7+ months,500000,9918,Quarterly,Manual Payment,0,132209,743,Embedded Apps,0
+28.8,Male,Unmarried,0,379956,Retired,1,Rural,Whole Life,0-3 months,500000,9055,Quarterly,Manual Payment,2,124620,735,Direct,0
+45.7,Female,Married,1,567411,Gig Work,3,Urban,Supplemental Health Insurance,0-3 months,1000000,19966,Half Yearly,Manual Payment,0,186500,772,Embedded Apps,1
+42.4,Female,Unmarried,1,120000,Employed,2,Urban,Term Life,0-3 months,2000000,17340,Monthly,Manual Payment,1,19132,643,Agent Distribution,1
+40.2,Male,Unmarried,2,120000,Employed,1,Urban,Whole Life,4-6 months,1000000,17633,Quarterly,Auto-Debit,0,126507,571,Embedded Apps,0
+48.1,Male,Married,2,489240,Employed,4,Rural,Whole Life,4-6 months,2000000,34690,Annual,Auto-Debit,1,117577,685,Agent Distribution,0
+47.8,Male,Unmarried,4,150281,Retired,0,Rural,Term Life,7+ months,2000000,16928,Monthly,Auto-Debit,3,375136,614,Direct,1
+59.5,Female,Married,2,120000,Employed,1,Urban,Whole Life,7+ months,1000000,6476,Quarterly,Auto-Debit,3,29060,595,Agent Distribution,1
+53.0,Female,Unmarried,2,297016,Employed,2,Urban,Supplemental Health Insurance,7+ months,500000,9845,Annual,Auto-Debit,0,343090,622,Agent Distribution,0
+24.0,Female,Married,0,467531,Employed,2,Rural,Term Life,7+ months,2000000,18880,Quarterly,Auto-Debit,0,104854,878,Direct,1
+33.9,Female,Unmarried,0,246362,Gig Work,0,Urban,Whole Life,0-3 months,1000000,18063,Quarterly,Auto-Debit,0,145975,690,Agent Distribution,1
+43.9,Do not wish to disclose,Unmarried,2,194756,Gig Work,1,Rural,Whole Life,4-6 months,5000000,25309,Quarterly,Auto-Debit,3,377277,708,Agent Distribution,1
+65.7,Female,Married,2,240012,Gig Work,2,Rural,Term Life,7+ months,1000000,5315,Quarterly,Auto-Debit,0,154601,582,Agent Distribution,0
+19.9,Male,Married,3,207024,Employed,2,Rural,Term Life,7+ months,2000000,23976,Half Yearly,Manual Payment,0,135984,532,Agent Distribution,1
+18.7,Female,Unmarried,1,120000,Gig Work,2,Urban,Supplemental Health Insurance,7+ months,5000000,42903,Annual,Auto-Debit,0,119830,614,Direct,1
+65.9,Male,Unmarried,0,162709,Employed,1,Rural,Term Life,7+ months,5000000,76738,Quarterly,Auto-Debit,0,67051,795,Embedded Apps,1
+29.1,Female,Married,2,386503,Employed,0,Rural,Term Life,0-3 months,1000000,13483,Annual,Manual Payment,0,96491,706,Embedded Apps,0
+22.7,Male,Unmarried,1,336103,Employed,1,Urban,Term Life,0-3 months,1000000,6162,Quarterly,Auto-Debit,1,55691,727,Direct,0
+54.7,Female,Married,0,301836,Retired,0,Urban,Whole Life,0-3 months,2000000,14878,Monthly,Manual Payment,0,95258,739,Embedded Apps,0
+49.6,Female,Unmarried,3,133705,Employed,4,Urban,Whole Life,4-6 months,1000000,10820,Half Yearly,Manual Payment,0,15233,632,Agent Distribution,0
+26.2,Female,Married,0,236321,Gig Work,1,Urban,Whole Life,0-3 months,500000,3892,Half Yearly,Auto-Debit,3,139139,791,Direct,1
+58.1,Female,Unmarried,2,120000,Gig Work,1,Urban,Term Life,7+ months,5000000,84416,Quarterly,Manual Payment,2,89555,629,Agent Distribution,1
+52.3,Male,Married,1,304045,Employed,2,Urban,Supplemental Health Insurance,7+ months,500000,5620,Monthly,Manual Payment,2,75435,792,Agent Distribution,1
+36.2,Male,Married,1,729562,Employed,1,Urban,Term Life,7+ months,500000,3200,Monthly,Auto-Debit,0,117689,715,Agent Distribution,1
+65.7,Male,Married,2,120000,Employed,1,Urban,Term Life,7+ months,500000,6132,Monthly,Manual Payment,1,31355,536,Embedded Apps,0
+33.8,Male,Married,3,178055,Employed,3,Urban,Whole Life,7+ months,2000000,12725,Monthly,Auto-Debit,0,462044,620,Agent Distribution,1
+20.3,Female,Married,2,337855,Employed,3,Rural,Term Life,0-3 months,2000000,13868,Half Yearly,Auto-Debit,0,90924,537,Direct,1
+37.2,Male,Married,3,644989,Employed,2,Rural,Supplemental Health Insurance,0-3 months,1000000,8594,Monthly,Auto-Debit,0,87844,773,Embedded Apps,1
+41.2,Trans,Unmarried,0,196073,Gig Work,0,Urban,Supplemental Health Insurance,7+ months,1000000,17892,Half Yearly,Auto-Debit,0,45600,678,Direct,1
+50.8,Female,Married,3,165284,Retired,2,Urban,Term Life,4-6 months,1000000,18869,Monthly,Auto-Debit,0,100625,501,Agent Distribution,1
+41.3,Female,Married,1,120000,Employed,2,Urban,Supplemental Health Insurance,4-6 months,2000000,34787,Monthly,Manual Payment,5,299409,710,Direct,1
+28.8,Male,Married,2,288487,Employed,0,Rural,Whole Life,4-6 months,500000,5005,Quarterly,Auto-Debit,0,226100,637,Agent Distribution,1
+25.4,Female,Married,2,1120687,Employed,1,Rural,Supplemental Health Insurance,4-6 months,5000000,45433,Monthly,Auto-Debit,0,195545,561,Agent Distribution,1
+53.5,Female,Married,4,325836,Gig Work,3,Rural,Term Life,7+ months,1000000,13237,Annual,Auto-Debit,0,152835,814,Direct,1
+55.6,Female,Married,2,264184,Gig Work,0,Urban,Whole Life,4-6 months,10000000,158277,Monthly,Manual Payment,0,74099,688,Agent Distribution,1
+57.8,Female,Married,0,336198,Employed,2,Rural,Term Life,7+ months,500000,9950,Quarterly,Manual Payment,1,30941,656,Direct,0
+37.0,Female,Married,0,266261,Employed,1,Urban,Supplemental Health Insurance,7+ months,2000000,13947,Annual,Manual Payment,0,84050,648,Agent Distribution,0
+52.9,Male,Married,3,151886,Gig Work,1,Urban,Term Life,4-6 months,1000000,5739,Half Yearly,Manual Payment,2,81740,558,Agent Distribution,1
+65.7,Female,Unmarried,2,477488,Employed,0,Urban,Whole Life,4-6 months,500000,7707,Monthly,Manual Payment,0,228441,575,Direct,0
+42.4,Male,Married,3,314277,Employed,3,Rural,Term Life,0-3 months,5000000,87416,Quarterly,Manual Payment,1,126438,782,Embedded Apps,0
+52.4,Male,Married,1,271666,Employed,1,Urban,Term Life,4-6 months,5000000,88476,Half Yearly,Manual Payment,1,358559,642,Direct,0
+42.2,Male,Unmarried,1,135570,Employed,2,Rural,Whole Life,7+ months,1000000,15176,Annual,Auto-Debit,2,257298,681,Direct,0
+46.4,Male,Married,0,668275,Employed,2,Rural,Supplemental Health Insurance,7+ months,2000000,38620,Annual,Auto-Debit,2,68514,516,Agent Distribution,1
+35.3,Male,Unmarried,4,427321,Gig Work,2,Urban,Whole Life,7+ months,2000000,25330,Monthly,Manual Payment,1,23479,574,Agent Distribution,1
+63.1,Male,Married,2,182217,Gig Work,4,Urban,Supplemental Health Insurance,0-3 months,5000000,93536,Annual,Auto-Debit,0,299078,728,Agent Distribution,1
+35.8,Trans,Unmarried,4,541055,Employed,2,Rural,Term Life,7+ months,1000000,19517,Monthly,Auto-Debit,0,292877,710,Direct,0
+19.5,Female,Unmarried,1,189415,Retired,1,Urban,Whole Life,7+ months,1000000,17707,Monthly,Auto-Debit,1,33091,820,Embedded Apps,1
+52.2,Trans,Married,2,155219,Employed,4,Urban,Whole Life,7+ months,1000000,9646,Annual,Manual Payment,2,330179,787,Agent Distribution,0
+33.0,Male,Unmarried,2,157661,Gig Work,2,Urban,Term Life,7+ months,1000000,7943,Monthly,Auto-Debit,0,134013,661,Direct,0
+58.8,Male,Married,1,120000,Employed,1,Urban,Whole Life,7+ months,5000000,66109,Monthly,Manual Payment,0,112257,717,Agent Distribution,0
+53.5,Female,Married,3,373278,Gig Work,0,Urban,Whole Life,7+ months,500000,5897,Monthly,Manual Payment,2,359268,654,Embedded Apps,0
+50.0,Male,Unmarried,4,120000,Retired,3,Urban,Whole Life,7+ months,500000,9083,Quarterly,Manual Payment,0,289452,844,Agent Distribution,1
+21.6,Male,Unmarried,3,120000,Employed,1,Urban,Whole Life,0-3 months,2000000,13000,Half Yearly,Manual Payment,0,166219,771,Direct,1
+50.5,Female,Married,3,120000,Retired,2,Urban,Whole Life,7+ months,2000000,17732,Half Yearly,Manual Payment,0,144144,693,Agent Distribution,0
+31.3,Male,Married,1,252647,Gig Work,1,Rural,Term Life,0-3 months,500000,8138,Monthly,Auto-Debit,1,161638,696,Direct,0
+38.1,Female,Married,1,241536,Gig Work,0,Rural,Term Life,0-3 months,1000000,6424,Quarterly,Auto-Debit,5,71679,795,Agent Distribution,0
+65.7,Female,Married,4,213483,Employed,2,Rural,Whole Life,7+ months,5000000,49057,Annual,Auto-Debit,0,94458,726,Embedded Apps,1
+37.8,Male,Unmarried,0,129339,Gig Work,0,Urban,Term Life,7+ months,1000000,10807,Annual,Manual Payment,0,47961,804,Agent Distribution,0
+25.7,Male,Married,3,120000,Gig Work,1,Rural,Term Life,0-3 months,2000000,28677,Monthly,Manual Payment,0,75626,504,Agent Distribution,0
+24.6,Female,Married,3,371408,Employed,2,Urban,Term Life,4-6 months,2000000,14743,Annual,Manual Payment,0,73621,716,Embedded Apps,0
+20.6,Male,Married,2,182519,Retired,1,Urban,Whole Life,0-3 months,1000000,17909,Half Yearly,Auto-Debit,1,59382,638,Agent Distribution,1
+34.1,Male,Married,5,334854,Employed,2,Rural,Term Life,7+ months,5000000,58565,Monthly,Auto-Debit,0,110127,820,Agent Distribution,0
+51.0,Do not wish to disclose,Married,1,144397,Employed,3,Rural,Whole Life,7+ months,2000000,37510,Monthly,Auto-Debit,0,76177,803,Direct,0
+65.9,Male,Unmarried,1,304596,Employed,2,Rural,Whole Life,7+ months,1000000,12018,Monthly,Auto-Debit,1,147530,682,Agent Distribution,1
+30.0,Female,Unmarried,0,668167,Employed,0,Rural,Term Life,7+ months,2000000,18251,Half Yearly,Auto-Debit,1,26960,802,Agent Distribution,1
+39.8,Do not wish to disclose,Unmarried,2,404463,Employed,0,Urban,Whole Life,4-6 months,2000000,14254,Monthly,Auto-Debit,0,90157,822,Agent Distribution,1
+39.2,Male,Married,1,201050,Employed,2,Urban,Whole Life,7+ months,2000000,10112,Quarterly,Manual Payment,0,109671,685,Embedded Apps,1
+63.5,Male,Unmarried,1,321270,Retired,4,Rural,Whole Life,4-6 months,5000000,64911,Monthly,Auto-Debit,5,76995,877,Embedded Apps,1
+47.4,Male,Unmarried,3,226734,Employed,3,Urban,Whole Life,7+ months,1000000,6607,Annual,Auto-Debit,0,85998,677,Agent Distribution,1
+55.3,Male,Unmarried,4,269821,Employed,3,Urban,Term Life,7+ months,1000000,10875,Monthly,Manual Payment,1,27772,662,Agent Distribution,0
+55.2,Male,Married,1,213645,Employed,1,Rural,Whole Life,7+ months,1000000,13839,Annual,Auto-Debit,0,131292,749,Agent Distribution,1
+62.6,Female,Married,2,239178,Employed,1,Rural,Term Life,4-6 months,500000,4567,Annual,Auto-Debit,2,165724,651,Direct,0
+25.3,Male,Married,4,311285,Retired,1,Urban,Supplemental Health Insurance,4-6 months,500000,3814,Monthly,Auto-Debit,1,146507,686,Agent Distribution,1
+44.6,Female,Married,0,133873,Gig Work,0,Rural,Supplemental Health Insurance,0-3 months,5000000,83104,Quarterly,Auto-Debit,1,226609,792,Embedded Apps,1
+44.6,Do not wish to disclose,Married,0,131779,Gig Work,0,Rural,Whole Life,7+ months,2000000,38403,Monthly,Auto-Debit,2,115985,681,Agent Distribution,1
+51.3,Female,Married,1,120000,Employed,4,Rural,Term Life,7+ months,2000000,13013,Annual,Auto-Debit,3,144776,544,Embedded Apps,1
+38.6,Female,Married,2,120000,Employed,1,Urban,Term Life,4-6 months,2000000,14667,Quarterly,Auto-Debit,1,111845,709,Direct,1
+47.0,Male,Unmarried,1,120000,Employed,1,Urban,Term Life,7+ months,5000000,97000,Monthly,Auto-Debit,0,171106,624,Agent Distribution,0
+50.0,Female,Married,4,300025,Employed,0,Urban,Whole Life,7+ months,1000000,5566,Monthly,Auto-Debit,0,27951,749,Agent Distribution,0
+45.1,Female,Married,2,143637,Employed,3,Urban,Term Life,0-3 months,5000000,98322,Quarterly,Manual Payment,1,48297,735,Agent Distribution,0
+64.6,Male,Unmarried,2,384435,Gig Work,2,Urban,Whole Life,7+ months,1000000,5069,Annual,Auto-Debit,1,351343,797,Embedded Apps,1
+50.8,Male,Unmarried,1,274937,Employed,2,Urban,Term Life,7+ months,5000000,90525,Half Yearly,Manual Payment,0,13789,752,Embedded Apps,1
+23.0,Female,Unmarried,2,120000,Gig Work,3,Urban,Supplemental Health Insurance,7+ months,2000000,19219,Annual,Auto-Debit,0,88243,767,Direct,0
+65.5,Male,Unmarried,2,424421,Employed,1,Rural,Term Life,4-6 months,1000000,19078,Quarterly,Auto-Debit,1,252160,626,Direct,0
+36.7,Male,Married,3,473335,Employed,2,Urban,Supplemental Health Insurance,0-3 months,2000000,19508,Monthly,Manual Payment,0,91618,744,Direct,1
+21.8,Male,Unmarried,3,133826,Employed,0,Rural,Supplemental Health Insurance,4-6 months,1000000,14814,Annual,Auto-Debit,0,71395,837,Agent Distribution,0
+52.6,Male,Married,2,360098,Employed,0,Rural,Whole Life,4-6 months,500000,3100,Monthly,Auto-Debit,1,109484,624,Agent Distribution,0
+34.0,Female,Married,4,147333,Gig Work,3,Urban,Whole Life,0-3 months,2000000,17269,Annual,Manual Payment,1,74421,823,Agent Distribution,0
+61.4,Female,Married,3,287325,Employed,2,Rural,Term Life,7+ months,1000000,16605,Quarterly,Auto-Debit,0,101182,636,Agent Distribution,0
+45.1,Female,Married,3,120000,Employed,1,Urban,Whole Life,7+ months,500000,6465,Monthly,Manual Payment,0,57142,611,Agent Distribution,0
+47.3,Male,Married,0,120000,Retired,1,Urban,Term Life,7+ months,5000000,94597,Half Yearly,Manual Payment,0,239651,703,Embedded Apps,0
+46.3,Male,Unmarried,0,205259,Employed,2,Rural,Term Life,0-3 months,2000000,22862,Annual,Auto-Debit,0,308233,737,Agent Distribution,1
+63.6,Female,Unmarried,1,246074,Employed,0,Urban,Whole Life,7+ months,5000000,90235,Annual,Auto-Debit,1,88724,752,Agent Distribution,0
+23.8,Male,Married,2,203134,Employed,1,Rural,Whole Life,7+ months,2000000,23468,Monthly,Auto-Debit,0,32558,603,Direct,0
+52.2,Male,Married,2,120000,Employed,1,Urban,Whole Life,7+ months,1000000,19688,Monthly,Manual Payment,0,64920,714,Agent Distribution,1
+58.9,Female,Unmarried,2,202819,Gig Work,1,Rural,Term Life,7+ months,1000000,19397,Quarterly,Manual Payment,0,85204,625,Agent Distribution,1
+54.4,Male,Unmarried,3,324002,Gig Work,3,Urban,Term Life,7+ months,2000000,19874,Half Yearly,Manual Payment,0,147920,560,Agent Distribution,0
+41.3,Female,Married,3,260035,Retired,1,Rural,Term Life,7+ months,10000000,182888,Half Yearly,Auto-Debit,5,44072,605,Embedded Apps,1
+46.9,Male,Unmarried,4,304903,Employed,0,Urban,Term Life,4-6 months,1000000,17714,Monthly,Manual Payment,0,53352,619,Embedded Apps,1
+63.1,Male,Married,1,167865,Employed,2,Rural,Term Life,7+ months,5000000,40801,Annual,Auto-Debit,2,148529,721,Embedded Apps,1
+49.0,Male,Married,2,609383,Gig Work,3,Rural,Term Life,0-3 months,5000000,71821,Half Yearly,Auto-Debit,2,209216,772,Agent Distribution,1
+52.1,Trans,Unmarried,1,120000,Employed,1,Urban,Term Life,0-3 months,2000000,12180,Annual,Manual Payment,0,60037,562,Agent Distribution,1
+50.1,Female,Married,1,377487,Employed,0,Urban,Supplemental Health Insurance,0-3 months,5000000,87753,Quarterly,Auto-Debit,1,33976,708,Agent Distribution,1
+38.0,Female,Married,1,613738,Employed,1,Urban,Term Life,0-3 months,1000000,7618,Quarterly,Manual Payment,0,1365859,585,Direct,0
+49.4,Female,Unmarried,1,375733,Employed,2,Rural,Whole Life,4-6 months,10000000,60622,Annual,Auto-Debit,1,184728,730,Agent Distribution,1
+40.4,Male,Unmarried,2,232869,Employed,2,Urban,Term Life,0-3 months,2000000,22006,Quarterly,Manual Payment,0,79729,630,Direct,0
+50.2,Female,Married,3,185385,Gig Work,3,Rural,Supplemental Health Insurance,0-3 months,500000,6826,Annual,Auto-Debit,2,197842,595,Agent Distribution,1
+20.2,Male,Married,0,554189,Gig Work,4,Rural,Whole Life,7+ months,5000000,89118,Annual,Auto-Debit,0,89360,743,Agent Distribution,0
+35.3,Female,Married,3,120000,Employed,3,Urban,Term Life,0-3 months,1000000,19613,Half Yearly,Auto-Debit,2,197545,633,Embedded Apps,0
+43.0,Male,Unmarried,2,136068,Employed,2,Urban,Whole Life,7+ months,1000000,11592,Quarterly,Auto-Debit,0,112141,654,Agent Distribution,1
+59.9,Female,Married,1,203151,Employed,1,Urban,Term Life,0-3 months,2000000,11813,Monthly,Auto-Debit,2,106193,502,Embedded Apps,1
+48.1,Male,Married,2,638168,Gig Work,0,Rural,Whole Life,7+ months,500000,8118,Monthly,Manual Payment,0,90141,755,Direct,0
+20.9,Male,Unmarried,1,350052,Employed,4,Urban,Term Life,7+ months,1000000,13477,Monthly,Auto-Debit,1,31010,745,Direct,1
+57.8,Female,Married,2,136266,Gig Work,1,Urban,Supplemental Health Insurance,7+ months,5000000,58591,Monthly,Auto-Debit,0,465317,680,Agent Distribution,0
+63.4,Male,Married,2,215946,Employed,0,Rural,Term Life,7+ months,500000,4819,Monthly,Auto-Debit,0,46479,557,Agent Distribution,1
+41.6,Male,Married,1,174551,Employed,2,Urban,Term Life,0-3 months,1000000,12535,Monthly,Auto-Debit,1,33255,776,Direct,0
+49.5,Male,Unmarried,0,163267,Employed,1,Rural,Whole Life,7+ months,500000,5040,Quarterly,Manual Payment,3,83259,626,Direct,1
+64.3,Male,Married,2,532438,Gig Work,2,Urban,Term Life,7+ months,1000000,16355,Quarterly,Manual Payment,0,45744,643,Agent Distribution,1
+39.7,Female,Married,4,120000,Employed,2,Urban,Supplemental Health Insurance,7+ months,2000000,26316,Monthly,Auto-Debit,3,94715,864,Agent Distribution,1
+40.6,Female,Unmarried,1,827485,Employed,1,Rural,Whole Life,7+ months,2000000,36305,Monthly,Auto-Debit,1,171135,623,Agent Distribution,0
+19.8,Female,Married,3,479146,Employed,3,Urban,Whole Life,4-6 months,5000000,65765,Half Yearly,Manual Payment,2,218871,739,Agent Distribution,1
+44.5,Female,Married,2,575850,Gig Work,1,Urban,Term Life,7+ months,2000000,17147,Quarterly,Auto-Debit,0,189431,724,Direct,1
+59.5,Male,Married,4,194063,Gig Work,1,Rural,Supplemental Health Insurance,4-6 months,1000000,17766,Quarterly,Auto-Debit,0,77303,711,Embedded Apps,1
+19.3,Female,Married,3,241600,Employed,2,Urban,Whole Life,7+ months,5000000,66791,Half Yearly,Auto-Debit,2,102710,702,Direct,1
+43.1,Male,Married,2,120000,Gig Work,2,Rural,Term Life,0-3 months,2000000,16205,Annual,Auto-Debit,0,136803,710,Agent Distribution,1
+34.2,Male,Married,2,185857,Employed,3,Rural,Term Life,7+ months,2000000,28705,Quarterly,Auto-Debit,0,24191,701,Embedded Apps,1
+57.4,Female,Married,3,379101,Employed,1,Urban,Term Life,0-3 months,2000000,20731,Half Yearly,Auto-Debit,0,155821,675,Embedded Apps,0
+50.8,Male,Married,2,664801,Employed,2,Urban,Supplemental Health Insurance,0-3 months,5000000,88330,Annual,Manual Payment,0,30765,800,Agent Distribution,0
+27.0,Female,Unmarried,1,123622,Employed,0,Rural,Term Life,7+ months,2000000,23598,Annual,Auto-Debit,1,504981,574,Agent Distribution,0
+60.5,Male,Unmarried,0,207761,Gig Work,4,Urban,Whole Life,7+ months,1000000,15896,Quarterly,Auto-Debit,1,71423,761,Agent Distribution,0
+65.8,Female,Unmarried,3,241371,Gig Work,1,Urban,Term Life,7+ months,2000000,12866,Half Yearly,Auto-Debit,1,85144,745,Agent Distribution,1
+56.5,Female,Unmarried,3,120000,Employed,2,Rural,Term Life,0-3 months,500000,5470,Monthly,Auto-Debit,0,53328,735,Agent Distribution,1
+46.8,Female,Married,0,405933,Employed,0,Urban,Whole Life,0-3 months,1000000,19748,Quarterly,Auto-Debit,0,59636,769,Agent Distribution,0
+59.8,Female,Unmarried,2,161652,Gig Work,1,Rural,Supplemental Health Insurance,7+ months,1000000,17126,Annual,Manual Payment,0,608818,672,Embedded Apps,1
+43.1,Female,Married,2,234035,Retired,1,Urban,Whole Life,7+ months,500000,3699,Quarterly,Auto-Debit,0,209461,530,Direct,1
+52.4,Male,Unmarried,0,195562,Employed,3,Urban,Supplemental Health Insurance,7+ months,500000,4583,Annual,Manual Payment,2,28585,674,Embedded Apps,1
+42.7,Female,Unmarried,5,154424,Retired,2,Urban,Whole Life,7+ months,500000,4973,Quarterly,Auto-Debit,2,328854,600,Embedded Apps,1
+41.8,Male,Unmarried,1,267017,Employed,3,Rural,Term Life,7+ months,2000000,29510,Annual,Manual Payment,0,256425,621,Agent Distribution,0
+30.0,Female,Unmarried,0,230746,Employed,1,Rural,Term Life,4-6 months,5000000,81774,Quarterly,Auto-Debit,3,78828,580,Agent Distribution,0
+24.4,Female,Married,2,206839,Gig Work,1,Rural,Whole Life,7+ months,10000000,162428,Monthly,Auto-Debit,0,126166,641,Agent Distribution,1
+53.3,Female,Married,3,161147,Employed,0,Urban,Supplemental Health Insurance,7+ months,1000000,12648,Quarterly,Manual Payment,1,97542,632,Embedded Apps,0
+62.5,Male,Married,0,335597,Employed,3,Urban,Supplemental Health Insurance,4-6 months,2000000,34324,Monthly,Auto-Debit,0,478333,489,Direct,0
+37.8,Male,Unmarried,2,853868,Employed,1,Urban,Term Life,7+ months,5000000,57780,Monthly,Manual Payment,1,52206,736,Agent Distribution,0
+18.6,Female,Married,2,295942,Gig Work,3,Urban,Term Life,7+ months,500000,3429,Annual,Auto-Debit,0,110947,857,Agent Distribution,1
+25.6,Male,Unmarried,0,538898,Gig Work,3,Urban,Term Life,4-6 months,2000000,26933,Monthly,Manual Payment,0,70086,728,Embedded Apps,1
+63.8,Male,Unmarried,1,120000,Employed,4,Rural,Supplemental Health Insurance,4-6 months,2000000,38569,Half Yearly,Manual Payment,0,31368,663,Embedded Apps,0
+33.3,Male,Married,2,299668,Employed,2,Urban,Supplemental Health Insurance,0-3 months,500000,8447,Monthly,Manual Payment,0,569953,675,Agent Distribution,1
+31.1,Female,Unmarried,1,124472,Employed,2,Rural,Whole Life,7+ months,5000000,68402,Monthly,Auto-Debit,0,38359,646,Direct,1
+29.3,Female,Unmarried,4,120000,Employed,2,Urban,Term Life,0-3 months,5000000,73510,Annual,Auto-Debit,0,117724,687,Agent Distribution,1
+40.4,Male,Unmarried,3,159921,Employed,0,Rural,Whole Life,0-3 months,500000,9479,Quarterly,Manual Payment,0,24524,677,Direct,1
+32.7,Male,Unmarried,5,618053,Gig Work,2,Urban,Whole Life,7+ months,500000,5712,Half Yearly,Manual Payment,1,71735,612,Embedded Apps,1
+45.2,Male,Married,1,521785,Employed,0,Urban,Term Life,7+ months,500000,4985,Half Yearly,Manual Payment,0,138354,814,Agent Distribution,1
+51.8,Female,Unmarried,4,318094,Employed,1,Urban,Whole Life,7+ months,1000000,19658,Quarterly,Auto-Debit,1,51032,561,Embedded Apps,1
+19.8,Female,Unmarried,2,120000,Employed,0,Urban,Term Life,7+ months,1000000,17951,Annual,Manual Payment,0,157856,737,Agent Distribution,0
+49.7,Male,Married,1,233889,Employed,0,Urban,Term Life,7+ months,1000000,9845,Half Yearly,Auto-Debit,3,79599,671,Agent Distribution,0
+40.1,Male,Married,0,331435,Retired,1,Urban,Supplemental Health Insurance,7+ months,1000000,11956,Quarterly,Auto-Debit,3,249712,832,Direct,0
+39.6,Male,Unmarried,0,303420,Employed,1,Urban,Whole Life,7+ months,5000000,56130,Annual,Auto-Debit,0,293434,707,Agent Distribution,0
+42.4,Female,Married,2,120000,Employed,2,Rural,Term Life,7+ months,1000000,7236,Monthly,Auto-Debit,1,61734,651,Direct,1
+39.6,Female,Unmarried,2,143886,Employed,0,Rural,Whole Life,4-6 months,500000,9683,Quarterly,Manual Payment,0,104965,660,Agent Distribution,0
+39.7,Male,Unmarried,1,256567,Employed,2,Rural,Term Life,7+ months,1000000,11064,Annual,Auto-Debit,3,114320,683,Direct,0
+59.9,Male,Married,2,390586,Employed,0,Urban,Whole Life,4-6 months,1000000,18129,Half Yearly,Manual Payment,0,162020,588,Agent Distribution,1
+24.0,Male,Married,1,120000,Employed,2,Urban,Whole Life,0-3 months,1000000,7840,Annual,Auto-Debit,0,99858,618,Agent Distribution,1
+32.5,Trans,Unmarried,2,239548,Employed,2,Urban,Whole Life,4-6 months,1000000,13218,Half Yearly,Auto-Debit,0,114940,537,Agent Distribution,1
+60.4,Male,Married,2,296598,Employed,2,Urban,Whole Life,0-3 months,500000,2679,Annual,Auto-Debit,0,81249,606,Direct,0
+54.2,Female,Married,3,486371,Employed,2,Urban,Term Life,7+ months,5000000,82316,Annual,Auto-Debit,0,108249,687,Agent Distribution,0
+50.5,Female,Married,3,435826,Employed,1,Urban,Term Life,7+ months,10000000,137137,Monthly,Auto-Debit,1,278828,704,Agent Distribution,0
+25.8,Male,Married,2,403446,Retired,2,Urban,Whole Life,7+ months,1000000,14383,Monthly,Manual Payment,0,165523,521,Agent Distribution,0
+61.0,Male,Unmarried,2,153283,Employed,1,Urban,Term Life,7+ months,1000000,5775,Quarterly,Manual Payment,0,172992,669,Direct,1
+61.3,Male,Married,2,120000,Employed,1,Urban,Whole Life,7+ months,2000000,16331,Half Yearly,Auto-Debit,0,176038,725,Embedded Apps,0
+22.6,Female,Unmarried,3,203793,Employed,2,Rural,Term Life,0-3 months,2000000,12229,Monthly,Auto-Debit,0,87286,666,Embedded Apps,0
+56.2,Female,Married,1,540982,Employed,0,Rural,Term Life,7+ months,1000000,9333,Monthly,Auto-Debit,0,127396,629,Direct,1
+21.3,Female,Married,1,711704,Gig Work,2,Rural,Term Life,7+ months,5000000,72057,Monthly,Manual Payment,2,41434,647,Agent Distribution,0
+23.1,Female,Unmarried,0,441257,Employed,2,Rural,Supplemental Health Insurance,4-6 months,2000000,26985,Annual,Auto-Debit,0,272405,636,Agent Distribution,1
+62.1,Male,Unmarried,2,362412,Gig Work,1,Urban,Term Life,7+ months,1000000,14182,Half Yearly,Auto-Debit,1,10653,629,Agent Distribution,0
+49.1,Trans,Married,2,350020,Employed,0,Rural,Whole Life,0-3 months,2000000,26477,Quarterly,Auto-Debit,0,92067,693,Direct,1
+47.8,Female,Married,3,181809,Employed,0,Rural,Term Life,0-3 months,10000000,90954,Monthly,Manual Payment,0,245908,864,Direct,1
+64.4,Male,Married,1,244986,Gig Work,3,Urban,Term Life,0-3 months,2000000,17335,Quarterly,Auto-Debit,1,33153,620,Direct,1
+52.6,Trans,Married,2,863154,Employed,2,Urban,Whole Life,4-6 months,500000,3527,Monthly,Auto-Debit,0,135920,654,Agent Distribution,0
+57.3,Female,Unmarried,3,138719,Employed,0,Rural,Whole Life,7+ months,1000000,17736,Monthly,Manual Payment,0,57261,675,Embedded Apps,1
+33.5,Female,Married,3,830966,Employed,1,Urban,Whole Life,7+ months,1000000,14247,Annual,Manual Payment,1,73493,625,Agent Distribution,0
+30.3,Female,Married,2,214181,Gig Work,2,Rural,Supplemental Health Insurance,4-6 months,1000000,7797,Annual,Manual Payment,0,210397,767,Embedded Apps,1
+60.0,Female,Married,2,678610,Employed,3,Urban,Term Life,7+ months,2000000,15316,Monthly,Auto-Debit,0,115664,490,Direct,0
+47.0,Female,Unmarried,1,120000,Gig Work,0,Urban,Term Life,7+ months,5000000,90477,Monthly,Manual Payment,1,19390,637,Direct,1
+36.8,Male,Unmarried,4,404389,Employed,1,Urban,Supplemental Health Insurance,0-3 months,2000000,32281,Monthly,Manual Payment,1,45200,745,Agent Distribution,0
+34.3,Male,Married,0,160213,Gig Work,3,Urban,Term Life,0-3 months,10000000,148909,Quarterly,Manual Payment,0,215403,656,Direct,1
+36.1,Female,Unmarried,4,120000,Employed,0,Rural,Whole Life,7+ months,1000000,11102,Monthly,Manual Payment,0,141372,614,Agent Distribution,0
+45.8,Male,Married,2,312691,Gig Work,1,Rural,Whole Life,7+ months,5000000,44648,Monthly,Manual Payment,0,399715,715,Agent Distribution,1
+43.0,Male,Married,2,543959,Employed,4,Urban,Term Life,7+ months,2000000,39383,Monthly,Auto-Debit,0,379313,752,Direct,0
+54.9,Male,Unmarried,0,148529,Retired,2,Urban,Whole Life,4-6 months,1000000,16958,Half Yearly,Auto-Debit,1,75072,696,Agent Distribution,0
+43.2,Male,Unmarried,2,120000,Employed,1,Rural,Term Life,7+ months,2000000,19053,Half Yearly,Manual Payment,2,731308,615,Agent Distribution,1
+40.8,Female,Unmarried,2,251628,Employed,0,Urban,Term Life,0-3 months,500000,8856,Half Yearly,Auto-Debit,2,100668,716,Agent Distribution,0
+26.8,Female,Married,1,252406,Employed,0,Urban,Term Life,4-6 months,2000000,32767,Quarterly,Auto-Debit,0,45700,647,Embedded Apps,0
+29.0,Male,Married,2,393888,Employed,1,Urban,Supplemental Health Insurance,7+ months,1000000,9456,Annual,Auto-Debit,0,59461,739,Direct,0
+18.9,Male,Unmarried,5,521631,Employed,3,Rural,Term Life,4-6 months,1000000,11398,Annual,Manual Payment,1,16230,798,Embedded Apps,0
+18.2,Male,Married,2,257405,Retired,1,Rural,Whole Life,0-3 months,2000000,15578,Monthly,Auto-Debit,0,357044,471,Agent Distribution,1
+64.6,Female,Married,3,983479,Retired,2,Urban,Supplemental Health Insurance,4-6 months,2000000,13331,Monthly,Manual Payment,1,353560,688,Embedded Apps,0
+51.9,Female,Married,0,313942,Employed,3,Urban,Whole Life,0-3 months,1000000,15841,Quarterly,Manual Payment,1,43808,541,Direct,0
+49.7,Male,Unmarried,2,210554,Retired,1,Rural,Whole Life,7+ months,500000,4506,Monthly,Auto-Debit,3,82264,875,Agent Distribution,1
+65.4,Female,Married,0,120000,Employed,0,Rural,Whole Life,7+ months,1000000,17300,Quarterly,Auto-Debit,0,106562,642,Agent Distribution,1
+42.2,Female,Married,2,223270,Employed,2,Urban,Term Life,0-3 months,2000000,39868,Quarterly,Auto-Debit,0,45785,739,Embedded Apps,1
+57.6,Female,Unmarried,4,212039,Gig Work,3,Urban,Whole Life,0-3 months,5000000,30746,Quarterly,Auto-Debit,2,24243,677,Agent Distribution,0
+62.5,Female,Married,2,525556,Gig Work,3,Rural,Whole Life,0-3 months,5000000,60477,Monthly,Auto-Debit,1,83425,615,Agent Distribution,1
+18.5,Male,Married,0,370918,Retired,0,Urban,Supplemental Health Insurance,7+ months,1000000,17030,Quarterly,Auto-Debit,3,76354,606,Embedded Apps,0
+33.1,Female,Married,2,120000,Employed,2,Urban,Supplemental Health Insurance,0-3 months,2000000,33668,Annual,Manual Payment,0,72350,806,Agent Distribution,0
+56.2,Male,Married,2,302724,Gig Work,2,Urban,Supplemental Health Insurance,7+ months,1000000,16399,Monthly,Auto-Debit,1,117968,756,Direct,1
+22.7,Female,Married,2,429368,Employed,3,Urban,Supplemental Health Insurance,0-3 months,2000000,20469,Half Yearly,Manual Payment,1,309779,835,Agent Distribution,0
+39.4,Female,Married,3,782009,Employed,0,Rural,Whole Life,0-3 months,1000000,11807,Monthly,Auto-Debit,0,77460,684,Agent Distribution,0
+46.2,Female,Unmarried,3,499445,Employed,2,Urban,Whole Life,7+ months,1000000,13924,Monthly,Manual Payment,0,113136,703,Agent Distribution,1
+21.0,Female,Married,2,457070,Retired,3,Rural,Supplemental Health Insurance,7+ months,2000000,39218,Quarterly,Auto-Debit,1,176574,658,Agent Distribution,0
+29.1,Male,Unmarried,2,279864,Gig Work,1,Urban,Term Life,0-3 months,500000,4956,Monthly,Manual Payment,0,153785,657,Embedded Apps,0
+43.1,Female,Unmarried,1,352152,Gig Work,1,Urban,Supplemental Health Insurance,7+ months,2000000,37694,Monthly,Manual Payment,0,60382,596,Agent Distribution,0
+33.8,Do not wish to disclose,Married,0,643484,Employed,0,Urban,Term Life,7+ months,5000000,45201,Monthly,Manual Payment,1,106628,686,Direct,0
+54.7,Female,Unmarried,2,120000,Employed,1,Rural,Whole Life,7+ months,1000000,19836,Quarterly,Auto-Debit,0,152975,616,Direct,0
+39.0,Male,Married,2,210111,Employed,1,Rural,Whole Life,7+ months,1000000,15053,Half Yearly,Manual Payment,2,40027,715,Embedded Apps,0
+46.5,Male,Unmarried,2,156248,Employed,4,Urban,Supplemental Health Insurance,7+ months,5000000,59763,Monthly,Auto-Debit,0,271259,693,Agent Distribution,0
+31.8,Male,Married,2,349901,Employed,1,Rural,Term Life,7+ months,2000000,28401,Half Yearly,Auto-Debit,0,310292,703,Embedded Apps,0
+45.2,Female,Married,0,634857,Gig Work,1,Urban,Whole Life,0-3 months,1000000,9087,Monthly,Auto-Debit,5,55369,814,Agent Distribution,1
+22.7,Female,Unmarried,2,176683,Employed,2,Rural,Whole Life,7+ months,1000000,9112,Half Yearly,Auto-Debit,3,115258,676,Agent Distribution,1
+64.7,Male,Unmarried,1,120000,Employed,0,Urban,Term Life,7+ months,2000000,13406,Quarterly,Auto-Debit,0,165020,740,Agent Distribution,1
+47.9,Female,Unmarried,1,201077,Employed,1,Rural,Whole Life,0-3 months,2000000,13421,Half Yearly,Manual Payment,2,63800,844,Direct,0
+63.3,Female,Married,3,508607,Employed,2,Urban,Whole Life,0-3 months,500000,5107,Annual,Auto-Debit,0,145116,784,Agent Distribution,1
+22.0,Female,Unmarried,0,390952,Employed,3,Urban,Whole Life,0-3 months,1000000,16442,Annual,Auto-Debit,0,112488,772,Agent Distribution,1
+29.4,Female,Married,2,362119,Retired,2,Rural,Term Life,7+ months,5000000,70597,Monthly,Auto-Debit,0,30505,655,Agent Distribution,0
+33.5,Female,Married,1,220577,Employed,2,Urban,Whole Life,7+ months,2000000,13077,Annual,Manual Payment,0,142533,698,Embedded Apps,1
+43.9,Female,Married,3,120000,Gig Work,0,Urban,Whole Life,7+ months,10000000,177835,Monthly,Auto-Debit,2,40940,574,Embedded Apps,0
+43.9,Male,Unmarried,2,384887,Employed,4,Urban,Term Life,0-3 months,2000000,28041,Annual,Auto-Debit,1,209266,719,Embedded Apps,0
+65.6,Female,Married,1,149642,Employed,0,Rural,Term Life,7+ months,5000000,97064,Monthly,Manual Payment,5,57701,701,Embedded Apps,1
+38.2,Female,Married,2,1237826,Employed,2,Rural,Supplemental Health Insurance,7+ months,1000000,15052,Quarterly,Auto-Debit,1,86766,681,Agent Distribution,0
+56.6,Female,Unmarried,3,400054,Gig Work,1,Urban,Whole Life,4-6 months,2000000,15255,Monthly,Auto-Debit,0,295913,762,Agent Distribution,0
+53.3,Female,Married,4,178714,Gig Work,4,Rural,Whole Life,7+ months,500000,6053,Monthly,Auto-Debit,1,146840,583,Embedded Apps,0
+50.7,Female,Married,1,174910,Employed,2,Urban,Term Life,7+ months,2000000,29454,Half Yearly,Manual Payment,5,41623,810,Agent Distribution,1
+47.0,Male,Married,3,251434,Employed,2,Urban,Term Life,7+ months,1000000,5423,Annual,Manual Payment,1,43829,752,Direct,0
+54.4,Male,Unmarried,4,226919,Employed,1,Rural,Term Life,7+ months,1000000,5223,Half Yearly,Auto-Debit,1,61117,674,Agent Distribution,1
+40.4,Male,Married,4,586415,Employed,1,Urban,Term Life,7+ months,5000000,34705,Half Yearly,Auto-Debit,3,135362,668,Direct,0
+27.3,Male,Married,2,305740,Retired,2,Urban,Whole Life,4-6 months,5000000,43874,Half Yearly,Auto-Debit,0,131483,718,Agent Distribution,1
+22.5,Female,Unmarried,2,160790,Employed,2,Urban,Whole Life,7+ months,500000,5721,Monthly,Manual Payment,1,50287,801,Agent Distribution,0
+53.8,Do not wish to disclose,Unmarried,2,1007828,Employed,0,Rural,Whole Life,0-3 months,2000000,24623,Monthly,Manual Payment,2,38802,688,Direct,1
+51.3,Male,Married,3,277760,Employed,4,Urban,Term Life,4-6 months,1000000,7070,Monthly,Auto-Debit,4,123656,691,Embedded Apps,1
+48.4,Male,Unmarried,2,459634,Employed,3,Rural,Whole Life,0-3 months,1000000,15100,Quarterly,Auto-Debit,0,85349,681,Embedded Apps,1
+27.8,Female,Unmarried,2,175297,Employed,1,Rural,Term Life,7+ months,5000000,69710,Monthly,Manual Payment,0,554472,822,Embedded Apps,0
+36.5,Male,Unmarried,2,345995,Employed,3,Urban,Term Life,4-6 months,1000000,9416,Monthly,Manual Payment,1,101649,650,Agent Distribution,1
+49.5,Female,Married,3,333626,Gig Work,2,Rural,Supplemental Health Insurance,0-3 months,5000000,26024,Monthly,Manual Payment,0,421427,677,Embedded Apps,0
+19.0,Female,Unmarried,3,120000,Gig Work,1,Urban,Whole Life,0-3 months,500000,3082,Monthly,Manual Payment,1,38703,797,Embedded Apps,1
+22.1,Female,Married,0,1099859,Employed,1,Urban,Whole Life,7+ months,2000000,21750,Annual,Manual Payment,0,28041,691,Agent Distribution,1
+62.0,Male,Married,3,662284,Gig Work,2,Rural,Term Life,7+ months,2000000,14619,Monthly,Auto-Debit,0,40292,770,Embedded Apps,1
+21.0,Male,Married,2,203203,Employed,2,Rural,Supplemental Health Insurance,7+ months,1000000,10652,Quarterly,Auto-Debit,0,255583,607,Direct,0
+34.0,Female,Married,3,124046,Employed,1,Urban,Whole Life,7+ months,1000000,14422,Quarterly,Auto-Debit,0,402271,663,Embedded Apps,0
+41.6,Female,Married,2,342248,Employed,2,Urban,Whole Life,7+ months,5000000,66042,Quarterly,Manual Payment,0,52799,798,Agent Distribution,0
+33.4,Male,Unmarried,2,285126,Employed,2,Urban,Term Life,4-6 months,2000000,16935,Monthly,Auto-Debit,0,68291,625,Agent Distribution,1
+19.0,Female,Married,4,344196,Employed,2,Urban,Supplemental Health Insurance,7+ months,1000000,10157,Monthly,Auto-Debit,0,38747,667,Direct,1
+45.3,Male,Married,1,306846,Employed,0,Urban,Supplemental Health Insurance,0-3 months,1000000,14210,Monthly,Auto-Debit,0,23171,700,Agent Distribution,0
+49.8,Female,Married,3,382455,Employed,3,Urban,Supplemental Health Insurance,4-6 months,500000,8956,Quarterly,Auto-Debit,0,175383,600,Agent Distribution,1
+44.6,Male,Married,2,739044,Retired,1,Rural,Term Life,4-6 months,1000000,16298,Monthly,Manual Payment,0,117997,646,Embedded Apps,0
+37.5,Female,Unmarried,2,399381,Employed,1,Urban,Term Life,7+ months,1000000,13301,Quarterly,Auto-Debit,1,99547,689,Embedded Apps,0
+41.1,Male,Married,1,128700,Employed,1,Urban,Term Life,7+ months,500000,5217,Half Yearly,Auto-Debit,2,32207,683,Embedded Apps,0
+29.7,Male,Married,2,696479,Employed,1,Rural,Term Life,7+ months,5000000,52378,Quarterly,Manual Payment,0,366577,782,Agent Distribution,1
+52.7,Male,Married,1,846131,Employed,3,Rural,Supplemental Health Insurance,0-3 months,2000000,36382,Quarterly,Auto-Debit,0,65993,803,Embedded Apps,0
+50.7,Male,Married,0,2437393,Employed,1,Urban,Term Life,7+ months,5000000,27943,Quarterly,Manual Payment,1,151282,611,Agent Distribution,1
+50.4,Female,Married,1,122217,Gig Work,2,Urban,Term Life,0-3 months,2000000,39639,Annual,Manual Payment,0,30833,688,Embedded Apps,1
+60.7,Do not wish to disclose,Unmarried,0,318067,Employed,0,Rural,Term Life,0-3 months,5000000,74828,Monthly,Manual Payment,4,84760,733,Direct,0
+54.3,Male,Unmarried,5,120000,Employed,1,Urban,Term Life,0-3 months,2000000,30434,Half Yearly,Manual Payment,1,124629,801,Agent Distribution,1
+29.6,Male,Married,4,395222,Employed,4,Urban,Term Life,7+ months,2000000,11139,Half Yearly,Auto-Debit,0,128240,737,Embedded Apps,0
+20.1,Female,Unmarried,2,182820,Employed,2,Rural,Whole Life,4-6 months,10000000,140829,Quarterly,Auto-Debit,0,111716,703,Embedded Apps,0
+18.8,Female,Unmarried,3,1031383,Employed,1,Urban,Whole Life,7+ months,2000000,24543,Monthly,Auto-Debit,0,146622,733,Agent Distribution,1
+50.1,Female,Unmarried,1,156024,Employed,2,Urban,Term Life,7+ months,500000,3293,Quarterly,Auto-Debit,0,39957,733,Embedded Apps,1
+57.9,Male,Married,2,120000,Employed,1,Urban,Term Life,7+ months,2000000,18337,Monthly,Auto-Debit,0,115600,605,Direct,0
+27.7,Male,Married,3,192936,Employed,1,Urban,Term Life,7+ months,5000000,91773,Monthly,Auto-Debit,0,108120,695,Agent Distribution,0
+60.6,Female,Married,4,120000,Employed,3,Urban,Term Life,4-6 months,2000000,26499,Monthly,Manual Payment,2,118816,796,Agent Distribution,1
+61.5,Male,Unmarried,2,453962,Retired,2,Rural,Whole Life,4-6 months,2000000,22402,Monthly,Auto-Debit,0,104597,663,Direct,0
+46.7,Female,Unmarried,3,120000,Employed,1,Urban,Whole Life,7+ months,2000000,12180,Quarterly,Auto-Debit,0,35647,690,Direct,1
+30.6,Male,Married,1,273736,Gig Work,3,Urban,Whole Life,7+ months,10000000,157118,Annual,Auto-Debit,1,34398,660,Direct,1
+29.7,Female,Married,5,120000,Gig Work,2,Urban,Whole Life,7+ months,500000,7771,Monthly,Auto-Debit,0,16790,494,Agent Distribution,0
+48.7,Male,Unmarried,0,214441,Employed,1,Rural,Term Life,7+ months,2000000,28421,Annual,Manual Payment,0,189857,681,Direct,1
+64.0,Female,Unmarried,2,847770,Employed,2,Urban,Supplemental Health Insurance,0-3 months,1000000,12653,Annual,Auto-Debit,0,191401,704,Agent Distribution,1
+19.9,Female,Unmarried,2,345398,Employed,2,Urban,Supplemental Health Insurance,0-3 months,2000000,23013,Annual,Manual Payment,1,193850,639,Agent Distribution,1
+52.2,Female,Unmarried,2,146613,Gig Work,2,Rural,Supplemental Health Insurance,7+ months,2000000,27798,Annual,Auto-Debit,4,126175,587,Agent Distribution,0
+40.5,Male,Married,0,262539,Employed,1,Urban,Term Life,4-6 months,500000,4250,Quarterly,Auto-Debit,0,17916,609,Agent Distribution,1
+34.0,Female,Unmarried,4,271742,Gig Work,2,Urban,Supplemental Health Insurance,0-3 months,1000000,19118,Monthly,Auto-Debit,0,43418,741,Agent Distribution,0
+43.4,Female,Unmarried,1,373562,Retired,0,Urban,Supplemental Health Insurance,7+ months,2000000,27663,Quarterly,Manual Payment,0,113134,837,Agent Distribution,0
+25.4,Female,Married,2,120000,Gig Work,3,Urban,Supplemental Health Insurance,0-3 months,500000,4833,Quarterly,Auto-Debit,0,110019,790,Agent Distribution,1
+46.9,Female,Married,1,406279,Employed,2,Urban,Term Life,7+ months,1000000,11745,Annual,Auto-Debit,0,82603,572,Agent Distribution,0
+43.4,Female,Unmarried,1,120000,Employed,0,Rural,Whole Life,7+ months,5000000,85426,Annual,Auto-Debit,2,132605,748,Embedded Apps,0
+27.8,Female,Married,2,172660,Gig Work,2,Urban,Supplemental Health Insurance,7+ months,1000000,7424,Quarterly,Manual Payment,3,99640,626,Agent Distribution,1
+43.4,Male,Unmarried,2,190652,Employed,4,Urban,Whole Life,0-3 months,1000000,9392,Monthly,Manual Payment,0,108729,633,Direct,0
+51.5,Female,Unmarried,1,418038,Employed,4,Urban,Whole Life,0-3 months,5000000,75963,Monthly,Auto-Debit,0,59204,643,Agent Distribution,1
+58.2,Female,Unmarried,1,272622,Gig Work,1,Urban,Supplemental Health Insurance,7+ months,1000000,9732,Monthly,Auto-Debit,1,216556,736,Agent Distribution,1
+24.8,Male,Married,2,120000,Employed,0,Urban,Term Life,0-3 months,1000000,16887,Quarterly,Manual Payment,0,69939,756,Embedded Apps,1
+21.9,Male,Married,3,134659,Retired,2,Rural,Whole Life,4-6 months,2000000,13913,Quarterly,Manual Payment,0,34046,672,Agent Distribution,0
+62.4,Male,Unmarried,3,308376,Gig Work,0,Urban,Whole Life,4-6 months,2000000,32880,Annual,Manual Payment,0,53273,673,Agent Distribution,0
+28.5,Female,Married,0,253889,Employed,4,Rural,Supplemental Health Insurance,0-3 months,5000000,30126,Quarterly,Manual Payment,0,74699,717,Direct,1
+46.8,Female,Unmarried,2,178905,Retired,0,Urban,Term Life,0-3 months,5000000,25944,Annual,Manual Payment,0,218644,725,Agent Distribution,1
+53.2,Female,Unmarried,0,191648,Employed,1,Urban,Whole Life,7+ months,2000000,36946,Half Yearly,Auto-Debit,2,95433,774,Agent Distribution,0
+42.5,Female,Married,0,436837,Employed,1,Urban,Whole Life,0-3 months,1000000,13720,Annual,Manual Payment,1,85057,577,Embedded Apps,1
+38.8,Male,Married,2,186766,Employed,1,Urban,Whole Life,0-3 months,500000,5138,Monthly,Manual Payment,0,36354,681,Embedded Apps,1
+53.9,Male,Married,2,252290,Employed,3,Urban,Whole Life,7+ months,1000000,8488,Annual,Auto-Debit,0,185050,594,Agent Distribution,0
+27.8,Male,Married,1,1225617,Employed,1,Urban,Supplemental Health Insurance,7+ months,500000,7126,Half Yearly,Auto-Debit,3,58596,675,Embedded Apps,1
+54.9,Male,Unmarried,1,120000,Employed,0,Rural,Supplemental Health Insurance,4-6 months,2000000,25270,Monthly,Manual Payment,0,91124,661,Agent Distribution,1
+26.0,Male,Unmarried,0,120000,Employed,1,Urban,Term Life,0-3 months,2000000,39747,Monthly,Auto-Debit,2,322592,676,Embedded Apps,1
+41.2,Male,Unmarried,3,464405,Employed,2,Urban,Term Life,7+ months,500000,9874,Annual,Manual Payment,0,148302,616,Embedded Apps,0
+52.9,Female,Unmarried,5,166866,Gig Work,0,Urban,Term Life,7+ months,5000000,72626,Monthly,Auto-Debit,0,26833,561,Direct,0
+52.6,Female,Married,0,214750,Gig Work,2,Urban,Term Life,7+ months,1000000,11643,Quarterly,Auto-Debit,0,23966,512,Agent Distribution,0
+65.4,Do not wish to disclose,Unmarried,1,155311,Employed,2,Urban,Whole Life,7+ months,1000000,12367,Monthly,Auto-Debit,2,93765,669,Agent Distribution,1
+53.5,Female,Unmarried,3,223717,Employed,2,Urban,Supplemental Health Insurance,4-6 months,2000000,30474,Half Yearly,Auto-Debit,0,37414,645,Direct,0
+35.1,Female,Unmarried,4,821573,Employed,4,Urban,Supplemental Health Insurance,7+ months,1000000,6523,Annual,Auto-Debit,0,165849,625,Direct,0
+56.7,Male,Unmarried,2,470471,Employed,3,Rural,Term Life,0-3 months,1000000,9925,Quarterly,Auto-Debit,0,102110,785,Embedded Apps,1
+49.2,Female,Married,0,490684,Gig Work,4,Rural,Term Life,7+ months,500000,3064,Quarterly,Manual Payment,2,112680,611,Embedded Apps,0
+41.2,Female,Unmarried,0,120000,Gig Work,1,Urban,Whole Life,7+ months,1000000,6100,Annual,Manual Payment,3,56083,793,Embedded Apps,0
+40.4,Male,Married,2,120000,Employed,0,Urban,Whole Life,7+ months,2000000,15875,Half Yearly,Auto-Debit,5,397562,809,Embedded Apps,0
+50.0,Male,Married,2,120000,Employed,1,Rural,Term Life,4-6 months,5000000,61393,Annual,Auto-Debit,4,959411,523,Embedded Apps,0
+54.2,Female,Married,0,152273,Employed,3,Urban,Supplemental Health Insurance,0-3 months,1000000,16771,Quarterly,Auto-Debit,0,78994,687,Direct,0
+29.8,Male,Unmarried,2,524233,Employed,4,Urban,Supplemental Health Insurance,7+ months,1000000,12282,Monthly,Auto-Debit,0,130931,648,Direct,0
+30.7,Female,Unmarried,0,385332,Employed,3,Urban,Term Life,7+ months,2000000,20064,Quarterly,Auto-Debit,0,106716,447,Direct,1
+40.9,Female,Unmarried,3,229794,Retired,0,Urban,Supplemental Health Insurance,7+ months,5000000,31176,Half Yearly,Auto-Debit,0,80197,564,Direct,0
+42.3,Male,Unmarried,1,264181,Gig Work,4,Urban,Term Life,0-3 months,1000000,13254,Monthly,Auto-Debit,2,50733,741,Direct,1
+52.6,Male,Married,0,165674,Employed,1,Urban,Whole Life,4-6 months,1000000,9069,Monthly,Auto-Debit,3,41440,841,Agent Distribution,0
+58.9,Male,Unmarried,2,309691,Employed,0,Urban,Whole Life,7+ months,2000000,28448,Monthly,Auto-Debit,0,39796,752,Embedded Apps,0
+47.6,Male,Married,2,458683,Retired,1,Urban,Term Life,4-6 months,2000000,39315,Quarterly,Manual Payment,1,136515,705,Embedded Apps,0
+34.7,Male,Married,5,120000,Employed,0,Rural,Supplemental Health Insurance,7+ months,500000,3334,Annual,Auto-Debit,3,65137,678,Agent Distribution,1
+37.7,Female,Married,2,330960,Employed,2,Urban,Whole Life,7+ months,2000000,16363,Monthly,Manual Payment,0,12548,814,Embedded Apps,1
+65.7,Male,Unmarried,1,515403,Employed,1,Urban,Whole Life,7+ months,500000,6048,Half Yearly,Manual Payment,0,140911,851,Agent Distribution,1
+42.0,Female,Unmarried,3,200672,Gig Work,1,Urban,Term Life,7+ months,1000000,19529,Annual,Manual Payment,0,95739,633,Embedded Apps,0
+39.7,Male,Married,1,438226,Employed,2,Rural,Term Life,7+ months,1000000,16577,Monthly,Manual Payment,0,289913,520,Agent Distribution,0
+30.1,Female,Married,4,1924656,Gig Work,3,Rural,Term Life,4-6 months,5000000,92367,Half Yearly,Auto-Debit,1,133052,512,Direct,0
+36.1,Male,Unmarried,2,249436,Gig Work,2,Rural,Whole Life,7+ months,1000000,10005,Annual,Auto-Debit,0,30244,785,Embedded Apps,0
+53.6,Male,Married,2,353385,Gig Work,1,Urban,Whole Life,4-6 months,1000000,19880,Annual,Auto-Debit,0,16585,676,Agent Distribution,0
+29.5,Female,Unmarried,0,160068,Retired,3,Rural,Term Life,7+ months,1000000,6542,Monthly,Manual Payment,5,55515,694,Agent Distribution,0
+58.0,Female,Unmarried,2,304636,Employed,3,Rural,Whole Life,0-3 months,5000000,28972,Monthly,Manual Payment,0,59868,536,Agent Distribution,0
+36.3,Male,Married,3,370344,Employed,0,Urban,Whole Life,7+ months,500000,8917,Monthly,Manual Payment,0,209929,619,Agent Distribution,1
+29.1,Female,Married,3,307548,Gig Work,2,Urban,Whole Life,4-6 months,1000000,18908,Half Yearly,Auto-Debit,4,98017,656,Embedded Apps,1
+26.7,Male,Unmarried,1,131427,Gig Work,1,Urban,Whole Life,4-6 months,500000,3179,Half Yearly,Manual Payment,0,244495,696,Direct,1
+24.2,Female,Unmarried,1,310038,Employed,0,Rural,Supplemental Health Insurance,7+ months,2000000,13402,Half Yearly,Auto-Debit,0,34205,648,Embedded Apps,0
+45.5,Male,Married,3,746788,Employed,2,Urban,Whole Life,0-3 months,1000000,5497,Monthly,Auto-Debit,2,213675,597,Direct,0
+31.9,Male,Unmarried,4,367340,Gig Work,3,Urban,Whole Life,7+ months,1000000,6567,Monthly,Manual Payment,0,175745,617,Agent Distribution,1
+48.2,Female,Married,0,526175,Gig Work,0,Rural,Term Life,7+ months,1000000,8141,Quarterly,Auto-Debit,2,19641,776,Direct,0
+36.4,Female,Married,2,227314,Employed,3,Rural,Term Life,0-3 months,5000000,97755,Quarterly,Manual Payment,0,284387,699,Embedded Apps,0
+64.6,Male,Unmarried,1,453581,Employed,3,Rural,Term Life,7+ months,2000000,30035,Half Yearly,Auto-Debit,0,106379,728,Direct,0
+33.0,Female,Unmarried,3,326272,Employed,3,Rural,Whole Life,4-6 months,2000000,33356,Quarterly,Manual Payment,0,135081,608,Agent Distribution,1
+22.4,Female,Married,0,137910,Employed,1,Urban,Term Life,0-3 months,5000000,83210,Monthly,Auto-Debit,0,49418,443,Direct,0
+52.6,Male,Unmarried,1,335361,Employed,3,Rural,Term Life,4-6 months,5000000,65130,Monthly,Manual Payment,1,273812,638,Direct,1
+29.7,Female,Married,3,134029,Employed,1,Urban,Whole Life,7+ months,1000000,16962,Monthly,Manual Payment,1,38227,610,Embedded Apps,0
+42.3,Male,Married,0,172298,Employed,2,Rural,Term Life,0-3 months,10000000,139371,Monthly,Manual Payment,3,192081,707,Direct,1
+38.2,Female,Married,2,306364,Employed,0,Urban,Term Life,7+ months,500000,4859,Monthly,Auto-Debit,2,190324,900,Direct,1
+53.9,Female,Unmarried,2,330403,Gig Work,0,Rural,Term Life,7+ months,1000000,13416,Monthly,Manual Payment,0,45282,735,Direct,1
+40.2,Female,Married,1,120000,Gig Work,2,Urban,Whole Life,7+ months,5000000,65013,Monthly,Auto-Debit,2,482481,898,Agent Distribution,1
+34.0,Male,Married,2,561176,Employed,1,Rural,Term Life,0-3 months,1000000,17351,Monthly,Auto-Debit,1,118803,725,Agent Distribution,1
+56.3,Male,Married,2,400474,Employed,1,Urban,Whole Life,7+ months,1000000,19725,Half Yearly,Auto-Debit,1,166560,629,Direct,1
+62.7,Male,Unmarried,1,163847,Gig Work,0,Urban,Whole Life,7+ months,1000000,11165,Monthly,Manual Payment,2,29094,707,Direct,1
+59.3,Male,Unmarried,2,120000,Employed,2,Rural,Whole Life,7+ months,2000000,32901,Half Yearly,Auto-Debit,1,537231,822,Agent Distribution,0
+56.9,Male,Unmarried,3,242453,Retired,0,Urban,Whole Life,7+ months,1000000,6496,Half Yearly,Manual Payment,0,37062,826,Agent Distribution,0
+31.3,Female,Married,3,196386,Gig Work,3,Rural,Supplemental Health Insurance,7+ months,2000000,33304,Quarterly,Manual Payment,1,224113,633,Embedded Apps,0
+48.1,Male,Unmarried,1,290453,Employed,0,Urban,Term Life,0-3 months,5000000,52856,Annual,Auto-Debit,0,44541,700,Embedded Apps,0
+22.4,Male,Married,0,208109,Retired,0,Rural,Term Life,7+ months,2000000,11181,Monthly,Manual Payment,0,60162,565,Agent Distribution,1
+52.5,Female,Unmarried,1,120000,Employed,1,Urban,Term Life,4-6 months,1000000,10448,Half Yearly,Auto-Debit,1,185535,745,Agent Distribution,1
+40.6,Male,Unmarried,2,204466,Employed,1,Urban,Term Life,4-6 months,5000000,70798,Annual,Manual Payment,0,224592,804,Agent Distribution,1
+46.9,Female,Married,2,216656,Employed,1,Rural,Term Life,7+ months,1000000,6788,Annual,Auto-Debit,0,35702,683,Embedded Apps,0
+60.5,Male,Unmarried,2,418136,Employed,1,Urban,Term Life,4-6 months,500000,9430,Monthly,Auto-Debit,0,236186,626,Agent Distribution,0
+28.0,Female,Married,0,164597,Retired,4,Urban,Whole Life,4-6 months,500000,3082,Monthly,Auto-Debit,1,227745,708,Embedded Apps,0
+35.1,Male,Married,0,868977,Employed,2,Urban,Whole Life,7+ months,2000000,37900,Monthly,Auto-Debit,0,46613,713,Agent Distribution,0
+64.1,Male,Married,2,120000,Employed,0,Urban,Term Life,0-3 months,500000,7803,Half Yearly,Auto-Debit,1,354661,686,Agent Distribution,0
+29.7,Female,Married,2,671868,Employed,1,Urban,Whole Life,7+ months,500000,4972,Half Yearly,Auto-Debit,0,30776,694,Agent Distribution,0
+26.6,Male,Married,1,229343,Gig Work,3,Rural,Term Life,7+ months,1000000,10861,Monthly,Auto-Debit,0,59885,666,Agent Distribution,0
+27.3,Female,Unmarried,2,489778,Employed,1,Urban,Term Life,7+ months,1000000,16112,Quarterly,Auto-Debit,0,144813,759,Direct,0
+61.1,Male,Married,1,283753,Employed,0,Urban,Whole Life,7+ months,2000000,28044,Half Yearly,Auto-Debit,1,49868,738,Embedded Apps,0
+34.9,Male,Unmarried,3,595817,Gig Work,2,Urban,Term Life,4-6 months,5000000,75373,Quarterly,Manual Payment,0,121912,601,Embedded Apps,0
+55.7,Female,Married,3,204607,Employed,2,Urban,Term Life,4-6 months,2000000,21674,Annual,Auto-Debit,4,119714,599,Embedded Apps,1
+24.5,Male,Married,1,124363,Gig Work,2,Urban,Term Life,4-6 months,1000000,12317,Half Yearly,Manual Payment,3,84994,659,Agent Distribution,0
+63.2,Female,Unmarried,1,725308,Employed,0,Rural,Supplemental Health Insurance,4-6 months,1000000,19848,Monthly,Manual Payment,2,192128,738,Direct,1
+30.1,Trans,Married,2,247846,Gig Work,0,Rural,Whole Life,7+ months,10000000,82088,Half Yearly,Manual Payment,3,82232,691,Direct,0
+57.9,Female,Married,1,313354,Gig Work,2,Urban,Term Life,7+ months,500000,5633,Monthly,Manual Payment,0,118804,628,Agent Distribution,0
+59.5,Female,Unmarried,2,636873,Employed,1,Urban,Supplemental Health Insurance,0-3 months,5000000,46886,Quarterly,Auto-Debit,0,247008,700,Embedded Apps,1
+26.8,Male,Married,3,130304,Employed,2,Rural,Whole Life,0-3 months,500000,8238,Annual,Manual Payment,1,185822,653,Agent Distribution,1
+44.2,Male,Married,2,407112,Gig Work,2,Urban,Whole Life,4-6 months,5000000,82300,Annual,Auto-Debit,1,185130,750,Direct,0
+19.3,Male,Married,3,177561,Employed,1,Urban,Supplemental Health Insurance,0-3 months,1000000,9386,Quarterly,Manual Payment,3,39365,706,Embedded Apps,1
+22.1,Female,Unmarried,2,244624,Retired,4,Urban,Term Life,7+ months,1000000,6220,Monthly,Manual Payment,1,150216,654,Embedded Apps,1
+46.8,Do not wish to disclose,Unmarried,1,282263,Employed,3,Urban,Term Life,0-3 months,2000000,10342,Monthly,Auto-Debit,5,48883,698,Agent Distribution,0
+54.6,Male,Unmarried,3,120000,Employed,2,Rural,Whole Life,7+ months,2000000,22823,Quarterly,Manual Payment,0,35414,785,Agent Distribution,0
+55.9,Female,Unmarried,2,155564,Employed,0,Rural,Whole Life,0-3 months,1000000,11155,Monthly,Auto-Debit,2,93212,634,Embedded Apps,0
+37.0,Male,Married,2,690900,Retired,0,Urban,Whole Life,4-6 months,2000000,39651,Quarterly,Auto-Debit,1,47885,712,Agent Distribution,0
+25.3,Female,Married,1,498986,Employed,1,Urban,Whole Life,7+ months,2000000,24094,Monthly,Auto-Debit,1,185812,674,Embedded Apps,0
+65.5,Male,Unmarried,0,256825,Gig Work,0,Rural,Supplemental Health Insurance,7+ months,500000,4423,Monthly,Manual Payment,0,189402,714,Direct,0
+62.9,Trans,Married,5,318120,Gig Work,4,Rural,Supplemental Health Insurance,7+ months,500000,9184,Monthly,Manual Payment,2,21544,627,Agent Distribution,1
+18.1,Female,Married,1,218388,Employed,0,Urban,Supplemental Health Insurance,7+ months,1000000,12366,Annual,Manual Payment,3,50886,688,Agent Distribution,0
+39.1,Male,Married,5,693570,Employed,1,Rural,Supplemental Health Insurance,4-6 months,500000,6993,Half Yearly,Auto-Debit,0,30704,768,Embedded Apps,0
+35.0,Male,Married,5,233223,Gig Work,1,Urban,Supplemental Health Insurance,0-3 months,2000000,12870,Monthly,Auto-Debit,1,68179,605,Embedded Apps,1
+24.1,Male,Unmarried,3,315618,Employed,2,Rural,Term Life,7+ months,1000000,10743,Monthly,Manual Payment,0,142079,573,Embedded Apps,0
+42.9,Male,Married,2,598523,Gig Work,0,Rural,Term Life,7+ months,1000000,19163,Quarterly,Auto-Debit,5,81321,576,Agent Distribution,1
+62.6,Male,Married,2,155723,Employed,1,Urban,Whole Life,7+ months,500000,6921,Monthly,Manual Payment,0,61586,586,Embedded Apps,1
+21.8,Female,Married,3,799028,Employed,1,Rural,Supplemental Health Insurance,0-3 months,1000000,10167,Quarterly,Auto-Debit,0,279327,727,Agent Distribution,1
+53.7,Female,Unmarried,1,120000,Gig Work,3,Urban,Whole Life,7+ months,500000,7192,Annual,Auto-Debit,0,15616,567,Agent Distribution,1
+23.6,Female,Married,2,839657,Employed,0,Urban,Whole Life,4-6 months,500000,9328,Half Yearly,Auto-Debit,1,265533,656,Direct,1
+48.4,Male,Married,2,206721,Employed,3,Urban,Term Life,7+ months,500000,4554,Half Yearly,Manual Payment,0,63867,729,Embedded Apps,0
+36.9,Female,Unmarried,2,226411,Employed,3,Urban,Term Life,7+ months,10000000,125767,Quarterly,Auto-Debit,1,92736,713,Embedded Apps,1
+61.5,Female,Unmarried,2,120000,Employed,1,Urban,Whole Life,0-3 months,500000,9690,Annual,Auto-Debit,3,64738,649,Direct,0
+56.2,Male,Married,1,195173,Employed,3,Urban,Term Life,7+ months,2000000,15171,Annual,Auto-Debit,2,339188,695,Direct,1
+45.0,Female,Married,2,129590,Gig Work,0,Urban,Term Life,4-6 months,500000,7897,Quarterly,Auto-Debit,0,36872,688,Embedded Apps,1
+27.2,Female,Married,3,175368,Employed,4,Urban,Term Life,7+ months,500000,7108,Monthly,Auto-Debit,5,99646,662,Agent Distribution,1
+43.2,Male,Married,1,243746,Employed,2,Urban,Term Life,4-6 months,1000000,15195,Quarterly,Auto-Debit,1,150535,663,Embedded Apps,1
+36.8,Male,Married,4,524632,Gig Work,1,Urban,Whole Life,7+ months,1000000,10268,Monthly,Manual Payment,0,27206,858,Direct,0
+56.5,Female,Married,2,310308,Employed,1,Urban,Term Life,0-3 months,10000000,97081,Half Yearly,Auto-Debit,0,47291,744,Direct,0
+20.7,Male,Married,3,332825,Employed,0,Urban,Whole Life,7+ months,5000000,76315,Quarterly,Manual Payment,0,87680,878,Agent Distribution,0
+63.0,Female,Married,2,124633,Retired,4,Urban,Term Life,7+ months,2000000,16466,Monthly,Manual Payment,2,48565,640,Direct,0
+30.1,Female,Unmarried,3,144852,Gig Work,0,Rural,Supplemental Health Insurance,7+ months,2000000,22589,Monthly,Auto-Debit,0,51406,673,Direct,0
+45.9,Female,Unmarried,0,945158,Employed,2,Rural,Term Life,0-3 months,1000000,7822,Quarterly,Auto-Debit,0,74615,573,Direct,0
+37.5,Male,Unmarried,3,160389,Employed,1,Rural,Whole Life,7+ months,1000000,5124,Annual,Manual Payment,1,165987,615,Direct,0
+45.5,Male,Married,0,855418,Employed,4,Urban,Whole Life,0-3 months,5000000,97754,Quarterly,Auto-Debit,1,75043,832,Direct,0
+26.0,Female,Married,3,226354,Employed,1,Urban,Term Life,7+ months,2000000,22951,Half Yearly,Auto-Debit,2,233921,638,Embedded Apps,1
+58.5,Female,Unmarried,5,268767,Employed,2,Rural,Supplemental Health Insurance,4-6 months,2000000,39080,Monthly,Auto-Debit,1,44435,833,Direct,1
+56.4,Male,Married,1,567647,Employed,1,Urban,Whole Life,7+ months,1000000,7104,Quarterly,Manual Payment,0,36259,580,Agent Distribution,0
+18.5,Female,Married,1,653648,Employed,2,Urban,Term Life,0-3 months,500000,6905,Quarterly,Auto-Debit,3,460964,595,Embedded Apps,0
+20.0,Female,Unmarried,3,248309,Employed,0,Urban,Term Life,0-3 months,5000000,40073,Half Yearly,Manual Payment,0,58316,652,Agent Distribution,0
+30.4,Male,Unmarried,1,204480,Employed,0,Rural,Supplemental Health Insurance,0-3 months,1000000,16851,Monthly,Manual Payment,1,34588,674,Agent Distribution,1
+45.6,Male,Unmarried,3,258036,Retired,1,Urban,Whole Life,4-6 months,1000000,16755,Quarterly,Auto-Debit,1,24498,753,Agent Distribution,0
+42.1,Female,Married,0,339955,Employed,2,Rural,Term Life,0-3 months,500000,3344,Monthly,Auto-Debit,0,233300,716,Embedded Apps,0
+50.9,Male,Married,0,500775,Employed,0,Rural,Term Life,7+ months,5000000,93404,Monthly,Auto-Debit,4,75128,646,Embedded Apps,1
+55.7,Male,Unmarried,5,269132,Employed,2,Urban,Supplemental Health Insurance,7+ months,500000,3959,Annual,Auto-Debit,0,80582,669,Agent Distribution,0
+23.1,Male,Married,2,413834,Employed,1,Rural,Whole Life,7+ months,5000000,70973,Monthly,Auto-Debit,0,86910,654,Embedded Apps,0
+61.1,Male,Unmarried,3,844797,Gig Work,3,Urban,Whole Life,7+ months,500000,9892,Monthly,Auto-Debit,3,221982,606,Agent Distribution,1
+62.4,Female,Unmarried,1,350430,Employed,4,Rural,Term Life,0-3 months,5000000,91179,Quarterly,Auto-Debit,1,85508,608,Direct,1
+50.0,Female,Unmarried,2,333753,Employed,2,Urban,Whole Life,7+ months,2000000,38696,Annual,Auto-Debit,1,643864,762,Embedded Apps,1
+62.4,Male,Married,2,120000,Employed,1,Rural,Term Life,0-3 months,500000,5069,Quarterly,Auto-Debit,0,109865,533,Agent Distribution,1
+64.1,Female,Married,2,120000,Gig Work,1,Urban,Term Life,7+ months,2000000,13167,Half Yearly,Manual Payment,2,230827,809,Embedded Apps,1
+38.2,Female,Unmarried,2,352167,Employed,0,Rural,Whole Life,4-6 months,1000000,7825,Annual,Auto-Debit,0,187998,652,Direct,1
+34.0,Female,Unmarried,2,251104,Employed,1,Urban,Supplemental Health Insurance,4-6 months,500000,6253,Monthly,Manual Payment,0,95878,618,Agent Distribution,1
+38.7,Male,Unmarried,2,187147,Employed,2,Urban,Term Life,4-6 months,5000000,84492,Quarterly,Auto-Debit,0,61723,739,Embedded Apps,1
+28.6,Male,Married,1,318211,Employed,2,Rural,Whole Life,7+ months,1000000,7252,Quarterly,Auto-Debit,0,128742,798,Direct,1
+54.2,Do not wish to disclose,Married,3,257227,Employed,4,Rural,Whole Life,0-3 months,1000000,14895,Annual,Auto-Debit,1,148461,769,Embedded Apps,0
+53.0,Female,Unmarried,1,590926,Employed,1,Urban,Whole Life,7+ months,500000,4926,Monthly,Auto-Debit,0,62438,720,Embedded Apps,0
+52.8,Male,Unmarried,2,285009,Gig Work,2,Urban,Supplemental Health Insurance,0-3 months,1000000,10118,Monthly,Auto-Debit,0,112766,766,Embedded Apps,1
+36.6,Male,Unmarried,1,159078,Gig Work,1,Urban,Whole Life,7+ months,5000000,74643,Half Yearly,Manual Payment,0,265392,542,Agent Distribution,0
+37.0,Male,Married,2,536658,Employed,2,Rural,Term Life,7+ months,1000000,12004,Quarterly,Manual Payment,1,517082,638,Agent Distribution,1
+35.1,Female,Unmarried,3,230500,Employed,1,Rural,Supplemental Health Insurance,4-6 months,10000000,171804,Quarterly,Auto-Debit,2,195535,607,Embedded Apps,0
+64.4,Female,Unmarried,1,387928,Employed,1,Rural,Whole Life,7+ months,5000000,36693,Quarterly,Auto-Debit,0,438102,777,Embedded Apps,0
+58.3,Female,Unmarried,0,192107,Retired,1,Urban,Supplemental Health Insurance,7+ months,500000,8424,Monthly,Auto-Debit,1,59664,649,Agent Distribution,0
+31.6,Male,Married,0,170266,Employed,2,Urban,Whole Life,7+ months,500000,2981,Quarterly,Auto-Debit,0,173079,747,Embedded Apps,0
+32.0,Female,Married,2,284622,Gig Work,4,Rural,Supplemental Health Insurance,7+ months,5000000,39554,Quarterly,Auto-Debit,1,288028,722,Agent Distribution,1
+49.0,Female,Unmarried,3,270757,Employed,1,Rural,Term Life,7+ months,1000000,14842,Annual,Auto-Debit,0,48191,611,Embedded Apps,0
+18.6,Male,Married,0,375449,Employed,0,Urban,Term Life,7+ months,500000,8911,Monthly,Auto-Debit,0,66938,633,Direct,0
+21.0,Female,Married,3,222336,Employed,1,Rural,Supplemental Health Insurance,0-3 months,1000000,8790,Annual,Auto-Debit,1,396457,783,Direct,1
+33.5,Trans,Unmarried,1,120000,Employed,2,Urban,Term Life,7+ months,2000000,19815,Half Yearly,Auto-Debit,3,45248,617,Agent Distribution,0
+40.9,Male,Married,2,198205,Retired,0,Urban,Term Life,4-6 months,2000000,26113,Monthly,Auto-Debit,0,33762,689,Agent Distribution,0
+29.0,Female,Unmarried,4,467742,Retired,2,Urban,Whole Life,0-3 months,500000,4086,Half Yearly,Auto-Debit,1,335167,617,Embedded Apps,1
+29.4,Male,Married,1,217909,Employed,4,Urban,Supplemental Health Insurance,7+ months,500000,8583,Monthly,Manual Payment,1,257148,654,Direct,1
+27.9,Female,Unmarried,2,225828,Employed,4,Urban,Term Life,4-6 months,5000000,83022,Annual,Auto-Debit,3,139482,676,Embedded Apps,1
+49.2,Female,Unmarried,0,535236,Retired,0,Urban,Supplemental Health Insurance,0-3 months,2000000,14358,Annual,Manual Payment,0,95171,617,Agent Distribution,1
+33.6,Female,Married,0,163018,Gig Work,3,Urban,Whole Life,7+ months,2000000,23914,Monthly,Manual Payment,0,69506,603,Agent Distribution,1
+25.6,Female,Married,1,120000,Employed,2,Rural,Whole Life,7+ months,2000000,33244,Monthly,Manual Payment,2,123693,702,Direct,0
+55.9,Male,Married,0,239799,Employed,1,Urban,Supplemental Health Insurance,7+ months,1000000,10059,Quarterly,Manual Payment,0,349355,612,Agent Distribution,1
+29.2,Female,Married,2,191200,Employed,2,Urban,Term Life,7+ months,2000000,28993,Quarterly,Manual Payment,0,119473,615,Direct,0
+41.9,Female,Unmarried,2,136438,Employed,3,Urban,Term Life,7+ months,1000000,5753,Quarterly,Manual Payment,0,558811,604,Direct,1
+45.6,Male,Unmarried,2,237336,Employed,1,Urban,Term Life,0-3 months,1000000,14130,Monthly,Auto-Debit,2,48129,673,Agent Distribution,1
+25.1,Female,Married,1,378531,Employed,1,Rural,Whole Life,4-6 months,2000000,14579,Half Yearly,Auto-Debit,0,97173,755,Direct,0
+45.8,Female,Married,1,266598,Employed,1,Urban,Whole Life,7+ months,1000000,17458,Monthly,Manual Payment,2,73244,800,Direct,1
+53.5,Male,Married,2,332663,Employed,2,Rural,Supplemental Health Insurance,4-6 months,10000000,103317,Annual,Manual Payment,0,41435,621,Embedded Apps,1
+44.0,Female,Unmarried,4,954922,Employed,0,Urban,Whole Life,7+ months,1000000,9223,Annual,Manual Payment,0,87337,852,Direct,0
+25.7,Female,Married,0,211078,Gig Work,3,Urban,Whole Life,7+ months,5000000,88066,Quarterly,Manual Payment,0,137842,599,Agent Distribution,0
+45.9,Male,Unmarried,3,326062,Gig Work,2,Urban,Whole Life,4-6 months,5000000,28760,Annual,Manual Payment,0,150149,766,Direct,0
+45.6,Do not wish to disclose,Unmarried,2,187878,Employed,2,Urban,Term Life,7+ months,1000000,10949,Monthly,Manual Payment,1,560375,622,Agent Distribution,1
+54.5,Male,Unmarried,2,148382,Retired,0,Urban,Term Life,7+ months,2000000,21100,Monthly,Manual Payment,1,143139,610,Agent Distribution,1
+58.0,Male,Married,2,178182,Retired,2,Rural,Supplemental Health Insurance,7+ months,1000000,9272,Half Yearly,Auto-Debit,0,247733,620,Direct,1
+53.0,Male,Unmarried,0,191926,Employed,0,Urban,Term Life,7+ months,5000000,93381,Quarterly,Manual Payment,0,104075,675,Embedded Apps,1
+44.5,Female,Married,0,345115,Employed,0,Urban,Term Life,7+ months,1000000,16263,Quarterly,Manual Payment,1,377922,726,Embedded Apps,0
+34.1,Female,Married,2,1389359,Gig Work,2,Urban,Whole Life,0-3 months,2000000,11917,Annual,Manual Payment,2,672501,733,Direct,0
+26.3,Male,Unmarried,1,162554,Gig Work,1,Urban,Term Life,7+ months,1000000,15720,Annual,Manual Payment,1,150974,604,Embedded Apps,0
+50.6,Male,Unmarried,4,200458,Retired,2,Urban,Supplemental Health Insurance,7+ months,1000000,12909,Half Yearly,Auto-Debit,2,44617,600,Direct,0
+37.8,Female,Married,2,256738,Gig Work,0,Urban,Term Life,7+ months,500000,9256,Half Yearly,Auto-Debit,0,63637,606,Direct,1
+30.7,Male,Married,0,354002,Employed,1,Urban,Term Life,7+ months,1000000,9694,Monthly,Manual Payment,2,123691,671,Direct,0
+45.5,Female,Married,3,322702,Employed,0,Urban,Term Life,7+ months,2000000,27224,Monthly,Auto-Debit,0,142229,663,Agent Distribution,1
+65.5,Female,Married,1,659255,Employed,4,Rural,Whole Life,4-6 months,2000000,25022,Half Yearly,Auto-Debit,0,172601,603,Agent Distribution,0
+46.8,Female,Married,2,120000,Employed,2,Rural,Term Life,7+ months,2000000,24686,Quarterly,Auto-Debit,2,142651,701,Agent Distribution,1
+30.6,Trans,Married,2,120000,Employed,2,Urban,Whole Life,7+ months,1000000,11841,Quarterly,Manual Payment,3,99268,861,Embedded Apps,1
+63.4,Male,Married,4,189640,Employed,1,Urban,Supplemental Health Insurance,0-3 months,1000000,8084,Monthly,Manual Payment,1,59340,639,Agent Distribution,0
+52.7,Do not wish to disclose,Unmarried,3,578451,Employed,0,Rural,Supplemental Health Insurance,0-3 months,500000,8167,Half Yearly,Manual Payment,0,136068,645,Agent Distribution,0
+23.6,Female,Unmarried,2,120000,Gig Work,4,Urban,Term Life,7+ months,5000000,58850,Monthly,Manual Payment,0,435386,724,Agent Distribution,1
+35.0,Female,Unmarried,2,120000,Employed,1,Urban,Whole Life,7+ months,10000000,193777,Half Yearly,Auto-Debit,0,223226,635,Embedded Apps,1
+22.1,Male,Married,4,400242,Employed,1,Urban,Whole Life,7+ months,1000000,8912,Monthly,Auto-Debit,3,151412,733,Direct,1
+64.1,Female,Unmarried,1,318239,Employed,2,Urban,Supplemental Health Insurance,7+ months,500000,7620,Monthly,Auto-Debit,0,224954,622,Agent Distribution,1
+42.4,Male,Unmarried,0,125098,Employed,0,Urban,Supplemental Health Insurance,7+ months,500000,9555,Monthly,Manual Payment,2,73361,826,Agent Distribution,0
+19.2,Male,Unmarried,1,134608,Gig Work,3,Rural,Term Life,7+ months,2000000,29903,Monthly,Auto-Debit,0,65735,707,Agent Distribution,0
+27.2,Male,Unmarried,1,136104,Gig Work,2,Rural,Whole Life,7+ months,2000000,36138,Annual,Manual Payment,2,54272,630,Agent Distribution,0
+47.1,Female,Unmarried,2,289924,Retired,1,Rural,Term Life,0-3 months,2000000,34824,Monthly,Auto-Debit,3,89301,632,Agent Distribution,1
+62.6,Female,Married,2,173092,Employed,0,Rural,Term Life,7+ months,1000000,10401,Monthly,Auto-Debit,0,70431,638,Agent Distribution,1
+22.8,Female,Married,2,379209,Employed,0,Urban,Term Life,7+ months,2000000,28003,Quarterly,Manual Payment,0,259527,789,Agent Distribution,0
+50.0,Female,Unmarried,0,120000,Employed,3,Urban,Whole Life,7+ months,2000000,14687,Quarterly,Auto-Debit,2,67490,578,Agent Distribution,0
+18.3,Male,Unmarried,3,147296,Employed,2,Rural,Whole Life,7+ months,1000000,13032,Monthly,Manual Payment,0,51938,626,Direct,1
+35.1,Female,Unmarried,1,121998,Gig Work,1,Rural,Term Life,7+ months,1000000,8456,Monthly,Auto-Debit,1,466989,635,Agent Distribution,0
+49.7,Male,Married,2,224260,Gig Work,0,Urban,Whole Life,0-3 months,500000,8078,Annual,Auto-Debit,1,68795,678,Agent Distribution,0
+64.8,Female,Married,2,184124,Gig Work,2,Rural,Term Life,4-6 months,1000000,12920,Half Yearly,Auto-Debit,0,111616,658,Agent Distribution,1
+28.4,Female,Married,1,469062,Employed,2,Urban,Whole Life,0-3 months,5000000,55842,Quarterly,Auto-Debit,2,141642,560,Embedded Apps,1
+38.2,Female,Unmarried,0,120000,Gig Work,1,Urban,Term Life,0-3 months,1000000,9031,Quarterly,Manual Payment,0,39761,648,Agent Distribution,1
+43.8,Female,Unmarried,0,277019,Employed,1,Urban,Term Life,7+ months,5000000,99902,Monthly,Auto-Debit,3,265239,672,Direct,1
+42.4,Male,Married,3,396660,Gig Work,1,Urban,Term Life,0-3 months,2000000,12151,Monthly,Auto-Debit,0,164340,629,Agent Distribution,1
+39.5,Male,Married,4,984267,Employed,2,Urban,Term Life,4-6 months,500000,2826,Half Yearly,Auto-Debit,1,343419,734,Embedded Apps,0
+44.2,Female,Married,2,191523,Employed,4,Urban,Whole Life,7+ months,2000000,16517,Annual,Manual Payment,0,57332,753,Embedded Apps,0
+30.1,Male,Unmarried,0,336758,Employed,0,Urban,Term Life,7+ months,1000000,19566,Monthly,Manual Payment,0,106862,673,Agent Distribution,0
+50.1,Male,Unmarried,2,120000,Retired,2,Urban,Whole Life,0-3 months,1000000,19688,Annual,Auto-Debit,0,101873,698,Direct,0
+51.5,Female,Unmarried,3,120000,Employed,1,Urban,Term Life,7+ months,500000,7411,Monthly,Auto-Debit,1,121918,507,Agent Distribution,1
+58.9,Female,Married,3,484727,Employed,1,Rural,Whole Life,7+ months,1000000,18201,Monthly,Manual Payment,1,30831,646,Agent Distribution,1
+52.6,Male,Unmarried,0,267294,Gig Work,1,Urban,Whole Life,0-3 months,500000,4104,Monthly,Manual Payment,2,107868,760,Embedded Apps,1
+18.2,Male,Married,0,612288,Employed,3,Urban,Term Life,4-6 months,500000,9790,Monthly,Auto-Debit,0,31534,646,Agent Distribution,1
+38.1,Female,Unmarried,3,120000,Employed,1,Urban,Whole Life,7+ months,1000000,7141,Annual,Manual Payment,1,131487,621,Agent Distribution,1
+65.8,Female,Married,2,386130,Employed,2,Urban,Term Life,7+ months,1000000,6516,Quarterly,Manual Payment,1,17981,862,Agent Distribution,0
+24.0,Male,Married,1,992688,Employed,1,Rural,Whole Life,7+ months,5000000,33415,Monthly,Manual Payment,0,22442,825,Agent Distribution,0
+45.2,Male,Unmarried,0,359976,Retired,0,Urban,Term Life,0-3 months,1000000,13596,Annual,Manual Payment,0,190011,717,Embedded Apps,1
+34.7,Male,Unmarried,2,325659,Gig Work,0,Rural,Whole Life,4-6 months,2000000,33429,Annual,Manual Payment,0,63737,771,Agent Distribution,1
+22.4,Male,Married,3,269949,Employed,2,Urban,Whole Life,7+ months,1000000,10500,Half Yearly,Auto-Debit,0,44788,501,Embedded Apps,0
+48.7,Male,Unmarried,4,120000,Retired,0,Urban,Supplemental Health Insurance,0-3 months,2000000,39336,Annual,Manual Payment,0,272849,616,Agent Distribution,1
+22.2,Female,Married,2,693080,Employed,2,Urban,Whole Life,4-6 months,1000000,11516,Monthly,Auto-Debit,1,128296,642,Direct,1
+55.0,Female,Married,2,174975,Employed,1,Urban,Whole Life,7+ months,5000000,36283,Annual,Manual Payment,0,198326,661,Agent Distribution,1
+20.4,Female,Married,0,381985,Employed,1,Urban,Term Life,4-6 months,1000000,11989,Half Yearly,Auto-Debit,1,86422,640,Direct,0
+40.4,Male,Married,2,120000,Employed,1,Urban,Supplemental Health Insurance,7+ months,5000000,75927,Annual,Auto-Debit,3,842141,475,Direct,0
+54.9,Female,Married,2,120000,Employed,1,Urban,Whole Life,7+ months,1000000,17483,Half Yearly,Manual Payment,1,60863,710,Agent Distribution,0
+54.8,Male,Married,2,732750,Retired,0,Urban,Term Life,4-6 months,500000,5940,Monthly,Manual Payment,1,398553,723,Agent Distribution,1
+27.8,Trans,Married,2,210425,Gig Work,1,Rural,Supplemental Health Insurance,7+ months,2000000,27808,Half Yearly,Auto-Debit,0,93986,808,Agent Distribution,0
+27.0,Female,Unmarried,1,742139,Employed,2,Urban,Term Life,0-3 months,500000,4505,Monthly,Auto-Debit,2,26275,616,Direct,1
+36.7,Male,Married,0,254037,Employed,2,Urban,Supplemental Health Insurance,7+ months,1000000,14688,Monthly,Auto-Debit,0,145259,610,Agent Distribution,1
+34.7,Female,Unmarried,1,120000,Gig Work,1,Urban,Supplemental Health Insurance,0-3 months,500000,9894,Monthly,Manual Payment,1,126983,465,Agent Distribution,1
+38.6,Male,Married,0,501043,Retired,1,Urban,Term Life,0-3 months,2000000,11471,Annual,Manual Payment,4,42571,656,Embedded Apps,1
+31.1,Female,Unmarried,1,177562,Gig Work,0,Urban,Whole Life,7+ months,10000000,182979,Monthly,Auto-Debit,1,47203,752,Agent Distribution,0
+26.2,Male,Married,5,437609,Employed,1,Rural,Term Life,7+ months,1000000,13434,Quarterly,Manual Payment,1,96784,631,Agent Distribution,0
+63.2,Male,Married,2,273114,Gig Work,0,Rural,Term Life,7+ months,5000000,43907,Quarterly,Manual Payment,0,130587,851,Direct,0
+18.4,Female,Married,2,120000,Employed,3,Urban,Term Life,4-6 months,1000000,19323,Annual,Auto-Debit,0,13676,659,Embedded Apps,0
+62.3,Male,Married,3,301042,Employed,1,Urban,Whole Life,4-6 months,1000000,12250,Monthly,Manual Payment,2,229233,691,Agent Distribution,1
+30.8,Female,Married,5,1248378,Employed,1,Urban,Term Life,7+ months,5000000,49876,Half Yearly,Auto-Debit,0,66463,570,Embedded Apps,0
+21.0,Male,Unmarried,2,378923,Employed,1,Rural,Term Life,7+ months,5000000,38612,Annual,Manual Payment,1,34016,702,Direct,0
+18.2,Female,Unmarried,3,257747,Employed,0,Urban,Whole Life,4-6 months,2000000,17333,Quarterly,Auto-Debit,0,209578,521,Agent Distribution,0
+57.1,Female,Unmarried,1,569628,Employed,2,Urban,Term Life,7+ months,1000000,17492,Quarterly,Auto-Debit,2,96868,735,Agent Distribution,1
+49.5,Female,Unmarried,1,310975,Employed,0,Urban,Term Life,7+ months,1000000,14216,Half Yearly,Auto-Debit,0,261171,737,Direct,1
+51.1,Male,Married,2,310728,Gig Work,0,Rural,Term Life,7+ months,1000000,18698,Annual,Auto-Debit,0,140135,788,Agent Distribution,1
+45.5,Male,Married,2,124974,Employed,2,Urban,Term Life,7+ months,1000000,8479,Half Yearly,Manual Payment,1,98596,598,Embedded Apps,0
+49.0,Male,Married,2,316061,Employed,1,Urban,Whole Life,4-6 months,1000000,6817,Monthly,Auto-Debit,0,87362,692,Agent Distribution,1
+25.5,Male,Married,1,553939,Employed,2,Rural,Term Life,7+ months,5000000,25456,Annual,Auto-Debit,0,145243,725,Embedded Apps,1
+56.1,Female,Married,0,149455,Retired,2,Urban,Supplemental Health Insurance,4-6 months,5000000,63089,Quarterly,Manual Payment,0,70910,715,Direct,1
+43.9,Female,Married,2,727338,Employed,1,Rural,Whole Life,7+ months,1000000,19974,Quarterly,Auto-Debit,0,49908,610,Agent Distribution,0
+51.1,Female,Married,0,251652,Employed,2,Urban,Term Life,7+ months,500000,7712,Annual,Auto-Debit,0,160801,488,Agent Distribution,1
+20.0,Female,Married,2,144143,Employed,0,Rural,Term Life,7+ months,5000000,48129,Monthly,Manual Payment,0,87939,707,Agent Distribution,1
+29.4,Female,Unmarried,2,539469,Gig Work,2,Rural,Term Life,7+ months,500000,9076,Half Yearly,Manual Payment,1,101402,667,Embedded Apps,1
+18.6,Female,Unmarried,3,219529,Retired,1,Urban,Whole Life,7+ months,2000000,33451,Quarterly,Auto-Debit,0,235980,634,Direct,0
+61.6,Male,Married,3,456644,Employed,1,Rural,Term Life,7+ months,500000,2615,Annual,Auto-Debit,5,90120,741,Embedded Apps,0
+22.7,Female,Unmarried,3,218768,Employed,2,Urban,Term Life,7+ months,1000000,17252,Monthly,Manual Payment,0,99910,676,Agent Distribution,1
+47.6,Female,Unmarried,2,257331,Retired,3,Rural,Supplemental Health Insurance,7+ months,10000000,95079,Quarterly,Auto-Debit,0,61100,574,Direct,0
+47.9,Female,Married,3,379076,Employed,4,Urban,Term Life,7+ months,500000,3622,Annual,Auto-Debit,0,139328,525,Embedded Apps,1
+34.6,Male,Married,2,328939,Employed,2,Rural,Term Life,4-6 months,1000000,8394,Monthly,Auto-Debit,2,130595,589,Agent Distribution,0
+65.0,Male,Married,1,120000,Employed,1,Urban,Supplemental Health Insurance,4-6 months,1000000,12028,Monthly,Auto-Debit,0,202930,871,Embedded Apps,1
+64.5,Male,Unmarried,0,122409,Employed,1,Rural,Whole Life,0-3 months,5000000,56865,Annual,Manual Payment,1,62112,737,Agent Distribution,0
+40.9,Female,Unmarried,1,514312,Employed,1,Urban,Term Life,7+ months,5000000,46666,Monthly,Manual Payment,0,68442,695,Embedded Apps,0
+32.6,Female,Married,2,244630,Employed,1,Rural,Whole Life,7+ months,1000000,7583,Annual,Manual Payment,0,186038,665,Agent Distribution,0
+54.3,Male,Married,2,185978,Gig Work,1,Rural,Term Life,7+ months,500000,8216,Monthly,Manual Payment,2,120785,660,Direct,0
+38.9,Trans,Married,3,120000,Retired,3,Urban,Whole Life,7+ months,2000000,39703,Quarterly,Auto-Debit,0,47811,773,Agent Distribution,1
+31.2,Male,Married,1,126018,Employed,1,Rural,Whole Life,7+ months,1000000,16666,Half Yearly,Auto-Debit,0,280756,640,Direct,1
+19.2,Male,Married,0,120000,Gig Work,1,Rural,Supplemental Health Insurance,0-3 months,2000000,18878,Half Yearly,Manual Payment,2,25367,726,Agent Distribution,1
+28.6,Male,Unmarried,4,249971,Employed,1,Urban,Supplemental Health Insurance,4-6 months,500000,4336,Quarterly,Auto-Debit,1,184873,652,Direct,1
+56.6,Female,Unmarried,0,176503,Employed,3,Urban,Supplemental Health Insurance,4-6 months,500000,4132,Quarterly,Auto-Debit,3,35876,835,Direct,0
+55.2,Female,Unmarried,2,136405,Employed,2,Urban,Supplemental Health Insurance,4-6 months,2000000,14100,Annual,Manual Payment,1,446248,739,Direct,1
+51.8,Male,Unmarried,2,255841,Retired,2,Urban,Whole Life,7+ months,1000000,13269,Monthly,Auto-Debit,1,28690,779,Agent Distribution,0
+55.7,Female,Unmarried,2,346202,Gig Work,1,Urban,Term Life,7+ months,5000000,70405,Quarterly,Auto-Debit,2,248152,633,Agent Distribution,1
+51.9,Male,Married,0,1161518,Gig Work,3,Urban,Whole Life,7+ months,500000,7791,Monthly,Manual Payment,0,92474,764,Agent Distribution,1
+35.9,Female,Unmarried,0,120000,Gig Work,0,Urban,Whole Life,7+ months,1000000,15203,Quarterly,Manual Payment,2,73623,654,Direct,0
+47.3,Female,Married,0,604143,Employed,3,Urban,Supplemental Health Insurance,7+ months,10000000,93849,Monthly,Auto-Debit,1,114498,688,Agent Distribution,1
+32.5,Female,Unmarried,2,530285,Retired,2,Urban,Term Life,0-3 months,1000000,9954,Monthly,Manual Payment,0,163655,810,Agent Distribution,1
+44.1,Male,Married,2,155536,Gig Work,1,Rural,Supplemental Health Insurance,7+ months,2000000,30445,Quarterly,Auto-Debit,0,47881,596,Agent Distribution,0
+51.0,Trans,Unmarried,1,309361,Retired,1,Rural,Supplemental Health Insurance,4-6 months,500000,5120,Monthly,Auto-Debit,0,51398,696,Embedded Apps,0
+55.8,Female,Married,2,194785,Employed,2,Urban,Supplemental Health Insurance,4-6 months,2000000,16378,Monthly,Manual Payment,1,165990,715,Agent Distribution,0
+50.6,Male,Married,3,305584,Employed,0,Rural,Supplemental Health Insurance,0-3 months,2000000,21230,Half Yearly,Manual Payment,0,25188,721,Agent Distribution,0
+41.8,Female,Married,0,771731,Employed,3,Rural,Term Life,7+ months,1000000,9081,Quarterly,Auto-Debit,4,61859,643,Direct,1
+32.3,Male,Married,2,410004,Employed,1,Rural,Term Life,4-6 months,5000000,31623,Annual,Auto-Debit,0,1124163,846,Direct,0
+47.7,Female,Unmarried,2,383090,Employed,1,Urban,Term Life,4-6 months,2000000,34904,Half Yearly,Auto-Debit,1,45505,576,Embedded Apps,1
+59.6,Male,Unmarried,1,198547,Employed,0,Urban,Term Life,7+ months,1000000,17796,Monthly,Auto-Debit,0,247271,796,Embedded Apps,0
+34.5,Female,Married,1,120000,Employed,1,Rural,Whole Life,7+ months,2000000,16592,Half Yearly,Auto-Debit,1,61774,777,Direct,1
+22.2,Female,Married,2,231902,Employed,1,Rural,Supplemental Health Insurance,0-3 months,2000000,11943,Monthly,Auto-Debit,1,148336,832,Agent Distribution,1
+46.1,Male,Married,3,624449,Employed,1,Rural,Supplemental Health Insurance,0-3 months,500000,8041,Half Yearly,Auto-Debit,1,166622,552,Agent Distribution,0
+21.2,Male,Married,3,120000,Employed,2,Rural,Whole Life,7+ months,1000000,8172,Annual,Auto-Debit,2,243571,610,Agent Distribution,1
+27.1,Male,Married,2,128211,Retired,1,Urban,Term Life,0-3 months,1000000,10901,Quarterly,Auto-Debit,2,84102,799,Embedded Apps,1
+34.4,Male,Unmarried,3,293134,Employed,4,Urban,Term Life,7+ months,1000000,5962,Half Yearly,Manual Payment,0,484613,529,Direct,0
+27.2,Male,Married,2,134691,Employed,2,Urban,Term Life,7+ months,2000000,16788,Monthly,Auto-Debit,0,61606,551,Agent Distribution,0
+34.8,Female,Married,2,154080,Gig Work,3,Urban,Term Life,4-6 months,1000000,16893,Quarterly,Auto-Debit,1,119059,640,Direct,0
+37.2,Male,Married,2,199482,Employed,0,Rural,Whole Life,0-3 months,5000000,85329,Annual,Manual Payment,0,120116,695,Agent Distribution,0
+41.2,Male,Married,1,120000,Employed,1,Urban,Term Life,0-3 months,1000000,8106,Monthly,Manual Payment,0,40232,807,Direct,1
+22.4,Female,Married,3,135688,Employed,1,Urban,Term Life,0-3 months,1000000,10038,Monthly,Auto-Debit,1,78535,665,Embedded Apps,0
+51.4,Male,Unmarried,2,439063,Employed,2,Rural,Term Life,0-3 months,2000000,14027,Quarterly,Auto-Debit,0,112331,631,Agent Distribution,0
+23.5,Female,Married,2,120000,Retired,3,Urban,Whole Life,7+ months,1000000,6112,Half Yearly,Manual Payment,0,69863,704,Embedded Apps,1
+19.7,Female,Married,4,120000,Employed,0,Rural,Whole Life,0-3 months,1000000,19882,Quarterly,Auto-Debit,2,695745,717,Direct,0
+31.0,Female,Married,0,172643,Employed,0,Rural,Whole Life,7+ months,500000,7416,Annual,Manual Payment,0,50468,715,Direct,1
+60.0,Female,Married,1,447919,Employed,3,Urban,Term Life,7+ months,1000000,13131,Monthly,Auto-Debit,0,253606,665,Direct,1
+60.6,Female,Married,0,233784,Employed,1,Urban,Supplemental Health Insurance,4-6 months,1000000,16482,Quarterly,Auto-Debit,0,195862,523,Agent Distribution,1
+65.8,Male,Unmarried,3,193840,Gig Work,2,Urban,Term Life,0-3 months,10000000,176011,Half Yearly,Auto-Debit,2,97627,606,Embedded Apps,1
+28.6,Male,Unmarried,3,276800,Employed,2,Urban,Whole Life,0-3 months,1000000,17100,Monthly,Manual Payment,4,49406,793,Agent Distribution,1
+64.2,Male,Married,1,120000,Employed,3,Urban,Whole Life,0-3 months,5000000,26240,Half Yearly,Manual Payment,1,53390,694,Direct,0
+40.3,Female,Married,2,379380,Employed,0,Urban,Whole Life,7+ months,2000000,15604,Monthly,Auto-Debit,0,65226,654,Direct,1
+33.4,Male,Married,2,350951,Employed,0,Rural,Supplemental Health Insurance,4-6 months,1000000,14823,Monthly,Auto-Debit,3,23656,769,Direct,0
+48.3,Female,Married,3,201487,Employed,2,Urban,Term Life,7+ months,1000000,10636,Monthly,Auto-Debit,1,44233,589,Embedded Apps,0
+28.5,Do not wish to disclose,Unmarried,2,542610,Gig Work,4,Rural,Whole Life,4-6 months,5000000,98686,Annual,Auto-Debit,2,30152,661,Agent Distribution,0
+33.5,Female,Unmarried,2,121875,Gig Work,1,Urban,Term Life,7+ months,5000000,74905,Quarterly,Manual Payment,1,289728,691,Agent Distribution,1
+26.0,Female,Married,4,590979,Retired,1,Urban,Whole Life,7+ months,500000,9674,Half Yearly,Auto-Debit,0,161905,644,Agent Distribution,1
+21.2,Male,Married,1,298984,Gig Work,2,Rural,Term Life,7+ months,1000000,8021,Monthly,Manual Payment,0,185123,688,Direct,0
+57.5,Female,Married,0,212015,Gig Work,4,Urban,Term Life,4-6 months,1000000,17959,Quarterly,Manual Payment,0,158113,664,Direct,0
+21.3,Female,Unmarried,2,264630,Employed,3,Urban,Whole Life,0-3 months,500000,4910,Quarterly,Manual Payment,0,112822,568,Embedded Apps,0
+42.4,Male,Unmarried,4,248926,Gig Work,4,Rural,Whole Life,7+ months,2000000,39686,Annual,Manual Payment,2,317598,694,Agent Distribution,1
+20.3,Male,Married,2,630455,Gig Work,0,Rural,Term Life,4-6 months,5000000,36826,Half Yearly,Auto-Debit,3,60559,573,Agent Distribution,0
+49.8,Female,Married,0,126288,Gig Work,0,Rural,Whole Life,4-6 months,1000000,12745,Half Yearly,Auto-Debit,1,107509,693,Direct,0
+21.0,Female,Unmarried,1,157351,Employed,2,Urban,Whole Life,7+ months,2000000,33785,Monthly,Auto-Debit,0,179449,789,Direct,1
+44.9,Female,Married,2,554272,Employed,3,Urban,Term Life,7+ months,2000000,22979,Quarterly,Auto-Debit,0,34304,657,Direct,0
+46.3,Female,Married,1,176862,Gig Work,1,Rural,Whole Life,7+ months,1000000,12021,Quarterly,Auto-Debit,0,1175578,586,Direct,0
+49.0,Female,Married,2,504020,Gig Work,1,Rural,Whole Life,7+ months,500000,9897,Annual,Auto-Debit,0,100997,669,Direct,1
+36.7,Female,Unmarried,5,881698,Retired,3,Urban,Whole Life,7+ months,2000000,22759,Monthly,Manual Payment,0,110590,613,Agent Distribution,0
+38.2,Male,Married,2,202550,Employed,0,Rural,Term Life,7+ months,5000000,70305,Monthly,Auto-Debit,1,269817,727,Direct,0
+23.0,Male,Married,2,432333,Employed,1,Urban,Term Life,7+ months,2000000,11636,Quarterly,Manual Payment,0,205245,668,Direct,0
+35.6,Male,Unmarried,2,120000,Employed,2,Urban,Whole Life,7+ months,500000,8816,Monthly,Manual Payment,5,101769,816,Embedded Apps,0
+45.1,Female,Married,0,455118,Gig Work,2,Urban,Supplemental Health Insurance,7+ months,1000000,14722,Monthly,Manual Payment,0,109546,773,Agent Distribution,1
+59.6,Female,Married,3,308536,Employed,2,Urban,Whole Life,4-6 months,500000,5530,Annual,Auto-Debit,2,29634,667,Embedded Apps,0
+39.7,Female,Married,2,373669,Employed,1,Urban,Term Life,4-6 months,2000000,10485,Quarterly,Auto-Debit,0,63248,737,Agent Distribution,0
+38.9,Male,Married,2,170774,Retired,2,Urban,Whole Life,7+ months,2000000,27750,Annual,Auto-Debit,0,149308,648,Agent Distribution,1
+23.5,Female,Unmarried,2,120000,Employed,2,Urban,Supplemental Health Insurance,7+ months,500000,2594,Annual,Auto-Debit,2,140802,682,Direct,1
+18.9,Female,Married,2,381656,Gig Work,2,Rural,Term Life,0-3 months,5000000,25090,Monthly,Auto-Debit,1,262218,651,Agent Distribution,0
+22.9,Female,Married,2,120000,Employed,2,Rural,Supplemental Health Insurance,7+ months,2000000,28482,Quarterly,Manual Payment,0,89643,741,Direct,0
+58.2,Female,Married,0,214884,Gig Work,1,Rural,Supplemental Health Insurance,0-3 months,2000000,15670,Monthly,Auto-Debit,0,32538,794,Direct,1
+29.9,Male,Unmarried,3,518568,Employed,0,Rural,Term Life,7+ months,10000000,78783,Annual,Auto-Debit,0,229896,743,Embedded Apps,1
+43.3,Female,Unmarried,4,306915,Retired,0,Urban,Supplemental Health Insurance,7+ months,500000,7399,Quarterly,Manual Payment,1,311411,753,Agent Distribution,0
+63.7,Male,Married,2,1049516,Retired,1,Urban,Term Life,7+ months,5000000,29027,Quarterly,Auto-Debit,3,202520,753,Embedded Apps,1
+51.0,Male,Married,4,549946,Employed,2,Rural,Supplemental Health Insurance,0-3 months,500000,4850,Monthly,Auto-Debit,0,86603,724,Agent Distribution,1
+31.2,Female,Unmarried,1,169782,Employed,3,Urban,Term Life,7+ months,1000000,7241,Quarterly,Manual Payment,0,227637,588,Agent Distribution,0
+43.6,Female,Married,2,273517,Employed,2,Urban,Term Life,4-6 months,5000000,68513,Monthly,Auto-Debit,3,1533599,816,Agent Distribution,0
+62.9,Female,Unmarried,2,259585,Gig Work,3,Urban,Whole Life,4-6 months,5000000,74632,Quarterly,Manual Payment,0,108241,824,Agent Distribution,0
+44.1,Female,Unmarried,2,120000,Gig Work,1,Rural,Whole Life,0-3 months,1000000,15817,Half Yearly,Auto-Debit,1,34565,661,Agent Distribution,1
+26.0,Female,Unmarried,2,138929,Employed,1,Urban,Term Life,7+ months,2000000,17656,Annual,Manual Payment,0,61757,650,Embedded Apps,0
+43.3,Female,Married,1,181220,Employed,1,Rural,Whole Life,7+ months,2000000,12677,Monthly,Auto-Debit,1,162816,728,Direct,0
+64.8,Female,Married,0,120000,Employed,0,Urban,Term Life,0-3 months,5000000,30901,Quarterly,Auto-Debit,0,27341,724,Agent Distribution,0
+39.5,Male,Unmarried,2,277408,Gig Work,0,Rural,Term Life,7+ months,500000,5696,Annual,Auto-Debit,0,113042,663,Agent Distribution,1
+65.0,Male,Married,1,225404,Retired,2,Rural,Term Life,7+ months,5000000,95938,Monthly,Auto-Debit,0,133822,579,Direct,0
+47.0,Male,Married,3,120000,Employed,4,Rural,Whole Life,7+ months,1000000,8265,Annual,Auto-Debit,1,337087,704,Agent Distribution,0
+60.0,Male,Unmarried,1,356093,Employed,0,Urban,Term Life,7+ months,1000000,8851,Monthly,Auto-Debit,1,281575,724,Agent Distribution,0
+65.2,Male,Unmarried,0,442905,Employed,0,Urban,Term Life,4-6 months,1000000,6513,Half Yearly,Auto-Debit,1,197139,738,Direct,0
+34.0,Male,Married,2,314558,Employed,2,Rural,Term Life,7+ months,1000000,14083,Quarterly,Auto-Debit,1,17498,707,Direct,1
+43.1,Male,Married,2,213876,Employed,1,Urban,Term Life,7+ months,5000000,75990,Quarterly,Auto-Debit,0,206249,658,Agent Distribution,1
+53.8,Trans,Married,3,405959,Employed,3,Urban,Whole Life,4-6 months,1000000,14643,Annual,Auto-Debit,0,173582,759,Agent Distribution,0
+18.7,Male,Unmarried,2,431988,Employed,2,Urban,Supplemental Health Insurance,0-3 months,10000000,179169,Monthly,Manual Payment,2,121146,685,Agent Distribution,0
+25.3,Female,Unmarried,1,332761,Employed,4,Rural,Term Life,4-6 months,500000,6148,Monthly,Auto-Debit,0,24731,642,Direct,0
+52.4,Male,Married,3,150658,Employed,1,Urban,Supplemental Health Insurance,4-6 months,2000000,14033,Quarterly,Auto-Debit,0,53028,665,Direct,0
+32.1,Female,Married,2,325663,Employed,2,Rural,Whole Life,7+ months,5000000,46705,Annual,Manual Payment,0,38814,540,Embedded Apps,0
+64.6,Male,Unmarried,0,619604,Employed,1,Urban,Whole Life,7+ months,2000000,29872,Monthly,Manual Payment,0,19692,665,Embedded Apps,1
+40.0,Male,Married,2,176726,Gig Work,2,Urban,Whole Life,7+ months,2000000,28393,Annual,Auto-Debit,0,98485,735,Agent Distribution,0
+31.5,Female,Married,4,1165379,Gig Work,1,Rural,Supplemental Health Insurance,7+ months,2000000,25930,Quarterly,Auto-Debit,2,52142,707,Embedded Apps,0
+43.6,Male,Unmarried,2,185731,Employed,0,Urban,Term Life,0-3 months,5000000,76222,Monthly,Auto-Debit,3,806326,801,Agent Distribution,1
+45.3,Male,Married,1,274494,Employed,2,Urban,Whole Life,7+ months,5000000,72804,Half Yearly,Auto-Debit,3,86248,658,Direct,0
+40.8,Male,Unmarried,0,167587,Gig Work,2,Rural,Whole Life,4-6 months,500000,9109,Monthly,Manual Payment,3,277896,718,Direct,0
+31.5,Male,Married,1,313730,Retired,3,Rural,Whole Life,7+ months,5000000,68951,Quarterly,Auto-Debit,3,28133,743,Embedded Apps,0
+41.8,Male,Married,2,120000,Employed,2,Urban,Supplemental Health Insurance,0-3 months,1000000,16679,Monthly,Manual Payment,0,64597,867,Agent Distribution,0
+19.8,Male,Unmarried,2,183096,Employed,2,Rural,Term Life,7+ months,1000000,8730,Quarterly,Auto-Debit,0,106672,691,Embedded Apps,0
+62.8,Female,Married,0,124930,Employed,0,Rural,Whole Life,0-3 months,5000000,75863,Half Yearly,Auto-Debit,2,47737,596,Embedded Apps,1
+43.2,Female,Unmarried,4,295001,Employed,2,Rural,Whole Life,0-3 months,1000000,18532,Quarterly,Manual Payment,0,70420,747,Agent Distribution,1
+31.6,Female,Married,3,538268,Employed,2,Urban,Term Life,0-3 months,5000000,53929,Quarterly,Auto-Debit,0,82920,829,Direct,1
+24.4,Male,Married,2,421765,Employed,3,Urban,Term Life,7+ months,1000000,16686,Quarterly,Auto-Debit,0,81868,654,Direct,0
+20.1,Female,Married,3,120000,Gig Work,3,Rural,Whole Life,7+ months,500000,7935,Monthly,Manual Payment,0,435432,747,Direct,1
+65.0,Male,Married,0,1120682,Employed,0,Rural,Supplemental Health Insurance,4-6 months,1000000,5892,Quarterly,Manual Payment,0,133596,778,Direct,0
+40.9,Male,Married,2,329949,Employed,3,Urban,Whole Life,7+ months,500000,6861,Annual,Manual Payment,0,144872,761,Agent Distribution,1
+64.0,Female,Married,2,155819,Employed,0,Urban,Supplemental Health Insurance,7+ months,2000000,13905,Annual,Auto-Debit,0,152013,690,Direct,0
+60.2,Male,Married,3,299535,Employed,1,Urban,Term Life,7+ months,1000000,19509,Monthly,Auto-Debit,2,161151,624,Direct,0
+64.4,Male,Married,3,303559,Employed,2,Urban,Term Life,7+ months,1000000,17171,Monthly,Manual Payment,1,92382,673,Agent Distribution,0
+62.5,Female,Unmarried,1,168249,Employed,0,Urban,Term Life,4-6 months,500000,3322,Annual,Auto-Debit,2,76374,716,Agent Distribution,1
+35.7,Female,Unmarried,4,308211,Gig Work,2,Urban,Term Life,4-6 months,1000000,6826,Quarterly,Manual Payment,0,112809,752,Agent Distribution,0
+55.1,Female,Unmarried,0,175390,Employed,0,Rural,Term Life,7+ months,2000000,27834,Quarterly,Auto-Debit,0,249058,706,Agent Distribution,0
+52.3,Female,Married,3,202186,Gig Work,0,Urban,Term Life,7+ months,500000,5086,Half Yearly,Auto-Debit,1,243042,649,Agent Distribution,1
+32.6,Do not wish to disclose,Married,5,165977,Retired,2,Rural,Whole Life,7+ months,2000000,11047,Monthly,Manual Payment,0,81444,724,Embedded Apps,1
+43.0,Male,Unmarried,1,120000,Employed,2,Urban,Whole Life,7+ months,5000000,65623,Quarterly,Auto-Debit,1,182457,748,Direct,1
+54.9,Male,Married,3,297177,Employed,3,Urban,Term Life,0-3 months,2000000,21635,Annual,Auto-Debit,2,84485,710,Direct,0
+45.8,Male,Married,0,404217,Employed,2,Urban,Term Life,7+ months,5000000,32580,Half Yearly,Auto-Debit,1,101427,613,Embedded Apps,1
+28.0,Male,Unmarried,2,384776,Gig Work,2,Urban,Term Life,4-6 months,500000,8514,Monthly,Auto-Debit,3,67587,665,Agent Distribution,1
+56.6,Male,Unmarried,2,476368,Retired,1,Rural,Whole Life,7+ months,1000000,18726,Monthly,Auto-Debit,0,85364,755,Embedded Apps,0
+34.4,Female,Married,2,336730,Gig Work,0,Rural,Term Life,7+ months,5000000,81744,Monthly,Auto-Debit,0,288677,569,Direct,0
+56.1,Female,Married,4,184811,Employed,0,Urban,Term Life,7+ months,2000000,34672,Half Yearly,Auto-Debit,1,106291,512,Embedded Apps,0
+39.8,Female,Unmarried,2,482996,Gig Work,2,Urban,Supplemental Health Insurance,7+ months,2000000,16494,Monthly,Manual Payment,0,109998,800,Embedded Apps,0
+43.0,Male,Unmarried,2,120000,Employed,2,Urban,Supplemental Health Insurance,4-6 months,2000000,17907,Monthly,Auto-Debit,0,31014,720,Agent Distribution,1
+61.6,Female,Unmarried,3,142847,Employed,1,Rural,Term Life,0-3 months,1000000,8127,Annual,Manual Payment,0,77080,728,Direct,1
+43.0,Female,Unmarried,4,136633,Employed,2,Rural,Term Life,7+ months,500000,8237,Monthly,Auto-Debit,0,81385,593,Embedded Apps,1
+34.1,Female,Unmarried,0,571511,Employed,2,Urban,Term Life,7+ months,2000000,38437,Monthly,Auto-Debit,0,50852,739,Embedded Apps,1
+30.4,Male,Married,5,519151,Gig Work,0,Rural,Whole Life,0-3 months,2000000,31505,Monthly,Auto-Debit,0,100441,702,Embedded Apps,1
+37.1,Female,Married,0,377419,Employed,0,Rural,Whole Life,7+ months,1000000,18222,Monthly,Manual Payment,1,70028,553,Direct,0
+42.5,Male,Unmarried,3,568269,Employed,3,Urban,Term Life,7+ months,5000000,72902,Quarterly,Manual Payment,1,105239,793,Embedded Apps,1
+21.3,Male,Unmarried,1,145001,Employed,2,Urban,Whole Life,4-6 months,1000000,10814,Annual,Manual Payment,1,108793,692,Direct,0
+27.3,Male,Unmarried,0,342496,Gig Work,3,Rural,Term Life,4-6 months,1000000,11386,Annual,Auto-Debit,1,45954,648,Direct,1
+20.7,Female,Married,2,245825,Gig Work,0,Rural,Term Life,7+ months,5000000,30649,Quarterly,Auto-Debit,0,71756,649,Agent Distribution,0
+58.3,Female,Married,2,485443,Employed,4,Urban,Term Life,7+ months,2000000,10943,Quarterly,Manual Payment,0,105019,518,Direct,0
+63.0,Male,Unmarried,2,247543,Employed,1,Urban,Whole Life,7+ months,1000000,15432,Quarterly,Manual Payment,0,254597,727,Agent Distribution,1
+35.6,Male,Unmarried,0,204953,Employed,0,Urban,Term Life,7+ months,500000,5788,Monthly,Manual Payment,2,121221,700,Agent Distribution,0
+64.2,Male,Unmarried,2,391850,Retired,4,Urban,Term Life,0-3 months,1000000,13283,Monthly,Auto-Debit,1,58130,664,Direct,1
+53.9,Male,Unmarried,4,495497,Employed,1,Rural,Term Life,7+ months,2000000,26729,Annual,Manual Payment,0,135836,782,Agent Distribution,0
+64.7,Male,Unmarried,2,168073,Employed,2,Urban,Term Life,0-3 months,1000000,9160,Monthly,Auto-Debit,0,386945,569,Embedded Apps,0
+39.8,Male,Unmarried,1,257106,Employed,0,Rural,Whole Life,0-3 months,5000000,60691,Monthly,Auto-Debit,4,205533,632,Direct,0
+51.7,Female,Unmarried,2,127911,Employed,2,Rural,Term Life,7+ months,5000000,60307,Quarterly,Auto-Debit,1,152973,611,Agent Distribution,1
+64.5,Male,Married,0,120000,Gig Work,3,Urban,Term Life,7+ months,5000000,54132,Quarterly,Auto-Debit,2,176393,657,Agent Distribution,0
+25.7,Male,Unmarried,3,308760,Employed,1,Urban,Whole Life,4-6 months,1000000,17310,Monthly,Manual Payment,0,312376,685,Agent Distribution,0
+57.3,Male,Married,3,410952,Employed,2,Urban,Whole Life,0-3 months,2000000,23534,Monthly,Manual Payment,0,233398,714,Direct,0
+61.7,Female,Married,2,322367,Employed,0,Rural,Supplemental Health Insurance,7+ months,1000000,14054,Quarterly,Manual Payment,2,155345,652,Agent Distribution,0
+36.4,Female,Unmarried,2,120000,Employed,2,Urban,Whole Life,7+ months,500000,9216,Half Yearly,Manual Payment,1,232097,609,Direct,1
+59.6,Female,Married,3,209903,Retired,1,Rural,Term Life,7+ months,500000,8996,Monthly,Auto-Debit,1,41551,814,Embedded Apps,0
+58.0,Male,Married,2,120000,Employed,1,Rural,Whole Life,7+ months,1000000,18356,Quarterly,Manual Payment,1,29678,872,Agent Distribution,1
+54.1,Female,Married,3,699968,Gig Work,1,Urban,Whole Life,7+ months,5000000,45250,Quarterly,Auto-Debit,1,111935,691,Agent Distribution,0
+23.1,Male,Married,2,125462,Gig Work,0,Rural,Term Life,7+ months,1000000,5524,Annual,Manual Payment,1,104291,619,Agent Distribution,0
+43.6,Female,Married,3,646147,Employed,3,Rural,Supplemental Health Insurance,0-3 months,1000000,8916,Monthly,Manual Payment,0,63887,798,Agent Distribution,0
+52.0,Female,Married,2,520272,Employed,1,Urban,Term Life,4-6 months,10000000,91806,Monthly,Manual Payment,0,191124,564,Agent Distribution,1
+62.8,Female,Unmarried,2,142855,Employed,1,Urban,Supplemental Health Insurance,4-6 months,500000,9320,Quarterly,Auto-Debit,2,22241,653,Agent Distribution,1
+23.0,Female,Married,4,121424,Gig Work,1,Rural,Supplemental Health Insurance,7+ months,2000000,29477,Half Yearly,Manual Payment,0,64355,624,Agent Distribution,0
+54.3,Female,Married,2,342922,Employed,1,Rural,Whole Life,7+ months,1000000,6225,Monthly,Auto-Debit,0,66972,587,Direct,0
+50.7,Male,Married,2,148594,Employed,2,Urban,Supplemental Health Insurance,7+ months,500000,3515,Quarterly,Auto-Debit,1,26661,657,Direct,0
+39.2,Female,Unmarried,1,288294,Employed,4,Urban,Whole Life,0-3 months,5000000,36675,Monthly,Manual Payment,5,326369,610,Agent Distribution,1
+38.8,Male,Married,2,191380,Gig Work,1,Urban,Term Life,0-3 months,500000,7228,Monthly,Auto-Debit,0,33277,681,Embedded Apps,1
+23.0,Female,Unmarried,2,120000,Employed,3,Rural,Term Life,4-6 months,2000000,32062,Quarterly,Manual Payment,0,61656,682,Direct,1
+23.9,Male,Unmarried,1,120000,Employed,2,Urban,Term Life,4-6 months,1000000,17894,Monthly,Auto-Debit,2,204103,630,Direct,0
+65.0,Male,Unmarried,0,314481,Employed,0,Urban,Term Life,7+ months,500000,9554,Annual,Auto-Debit,2,165518,650,Direct,0
+21.8,Male,Married,2,181119,Employed,2,Rural,Whole Life,7+ months,500000,4012,Half Yearly,Manual Payment,1,40678,661,Embedded Apps,0
+47.9,Male,Unmarried,3,182195,Gig Work,2,Urban,Term Life,7+ months,500000,4823,Quarterly,Auto-Debit,0,170414,744,Embedded Apps,0
+28.1,Female,Married,2,436744,Employed,2,Urban,Term Life,7+ months,500000,4302,Quarterly,Auto-Debit,0,124470,668,Agent Distribution,0
+47.9,Female,Unmarried,1,610119,Gig Work,3,Urban,Whole Life,7+ months,2000000,20762,Quarterly,Auto-Debit,1,638213,745,Embedded Apps,0
+48.9,Male,Unmarried,2,221730,Gig Work,1,Rural,Supplemental Health Insurance,7+ months,1000000,18719,Monthly,Auto-Debit,2,136373,726,Agent Distribution,1
+41.3,Male,Married,0,211415,Employed,3,Urban,Term Life,0-3 months,1000000,13626,Annual,Manual Payment,2,88168,725,Embedded Apps,1
+26.0,Female,Married,2,380826,Gig Work,2,Rural,Term Life,7+ months,1000000,16072,Annual,Auto-Debit,0,49751,791,Direct,1
+20.6,Male,Married,1,120000,Employed,1,Rural,Term Life,7+ months,5000000,61758,Monthly,Manual Payment,0,54426,590,Direct,1
+48.2,Female,Unmarried,1,313704,Employed,2,Urban,Whole Life,7+ months,5000000,27164,Monthly,Manual Payment,0,50989,642,Agent Distribution,1
+57.4,Female,Married,1,394873,Gig Work,1,Urban,Term Life,0-3 months,2000000,11925,Monthly,Auto-Debit,4,295634,821,Agent Distribution,1
+54.6,Female,Unmarried,2,431991,Employed,4,Urban,Whole Life,4-6 months,5000000,65344,Half Yearly,Manual Payment,1,100145,659,Agent Distribution,1
+53.9,Female,Married,0,120000,Employed,2,Urban,Term Life,4-6 months,1000000,15781,Half Yearly,Manual Payment,0,155157,454,Agent Distribution,1
+41.4,Male,Unmarried,2,157479,Employed,0,Rural,Term Life,7+ months,1000000,8229,Annual,Auto-Debit,0,331504,663,Agent Distribution,0
+48.9,Female,Unmarried,2,145105,Retired,1,Rural,Supplemental Health Insurance,4-6 months,2000000,31657,Half Yearly,Auto-Debit,1,14961,690,Direct,1
+23.1,Male,Unmarried,2,287771,Employed,2,Urban,Term Life,7+ months,2000000,34319,Quarterly,Auto-Debit,0,274607,470,Direct,1
+19.2,Male,Unmarried,2,375690,Employed,0,Urban,Term Life,7+ months,1000000,11178,Half Yearly,Manual Payment,2,103188,786,Embedded Apps,0
+37.4,Female,Married,3,765050,Employed,0,Urban,Term Life,4-6 months,1000000,16196,Half Yearly,Manual Payment,1,139809,622,Embedded Apps,0
+45.6,Male,Married,0,189761,Gig Work,1,Rural,Whole Life,7+ months,10000000,110604,Quarterly,Auto-Debit,0,50882,706,Embedded Apps,0
+28.7,Female,Unmarried,2,189415,Gig Work,1,Urban,Whole Life,7+ months,5000000,75876,Quarterly,Manual Payment,0,53954,661,Agent Distribution,1
+21.4,Female,Married,0,600051,Employed,1,Urban,Term Life,7+ months,1000000,16459,Half Yearly,Manual Payment,3,145958,576,Agent Distribution,1
+32.8,Female,Married,0,330249,Gig Work,1,Urban,Term Life,7+ months,2000000,39757,Quarterly,Manual Payment,0,665090,594,Agent Distribution,0
+23.8,Female,Married,2,651710,Employed,0,Urban,Term Life,0-3 months,1000000,10180,Half Yearly,Manual Payment,0,220279,605,Direct,1
+47.8,Male,Married,2,328440,Employed,2,Urban,Whole Life,0-3 months,500000,5582,Half Yearly,Auto-Debit,3,271690,766,Direct,0
+55.0,Male,Married,3,120000,Gig Work,2,Urban,Whole Life,7+ months,1000000,7484,Half Yearly,Manual Payment,2,84660,668,Direct,1
+19.5,Female,Unmarried,2,120000,Gig Work,1,Urban,Whole Life,7+ months,1000000,8061,Half Yearly,Manual Payment,2,61073,638,Embedded Apps,0
+32.3,Male,Married,4,120000,Gig Work,1,Rural,Whole Life,7+ months,500000,7700,Quarterly,Manual Payment,0,52857,605,Direct,1
+28.7,Female,Married,0,426529,Gig Work,2,Urban,Term Life,7+ months,5000000,93778,Half Yearly,Auto-Debit,0,66794,775,Embedded Apps,1
+25.2,Female,Married,0,616625,Employed,0,Urban,Term Life,7+ months,1000000,10919,Quarterly,Auto-Debit,0,19106,797,Agent Distribution,1
+43.2,Female,Unmarried,0,979261,Gig Work,0,Urban,Term Life,7+ months,2000000,15395,Monthly,Auto-Debit,0,55274,774,Agent Distribution,1
+62.7,Male,Married,1,484161,Employed,0,Urban,Term Life,7+ months,500000,4638,Monthly,Auto-Debit,2,63052,719,Direct,0
+61.9,Male,Unmarried,2,605607,Employed,3,Urban,Term Life,7+ months,500000,5912,Quarterly,Manual Payment,0,85794,703,Direct,0
+23.0,Male,Unmarried,2,178793,Employed,2,Urban,Whole Life,4-6 months,5000000,46798,Quarterly,Auto-Debit,1,109688,582,Embedded Apps,0
+24.0,Male,Married,0,120000,Employed,2,Urban,Whole Life,7+ months,2000000,17007,Annual,Manual Payment,0,131921,660,Direct,0
+43.7,Female,Unmarried,4,486530,Employed,2,Urban,Supplemental Health Insurance,4-6 months,10000000,160397,Quarterly,Manual Payment,0,97544,625,Direct,1
+21.4,Male,Unmarried,3,359466,Employed,2,Urban,Term Life,7+ months,10000000,51176,Quarterly,Manual Payment,5,61997,533,Direct,0
+36.8,Male,Unmarried,1,289297,Employed,1,Urban,Whole Life,4-6 months,1000000,13088,Monthly,Auto-Debit,0,20523,764,Direct,0
+37.7,Male,Unmarried,0,351920,Employed,2,Rural,Supplemental Health Insurance,7+ months,1000000,16906,Monthly,Manual Payment,0,62302,624,Direct,0

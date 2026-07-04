@@ -1,0 +1,36 @@
+END USER LICENSE AGREEMENT (EULA)
+
+EDA Dashboard - Insurance Churn Analysis
+Version 1.0
+
+This End User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and BI Analytics for the EDA Dashboard software product.
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. LICENSE GRANT
+BI Analytics grants you a non-exclusive, non-transferable license to use the EDA Dashboard on a single computer.
+
+2. RESTRICTIONS
+You may NOT:
+- Reverse engineer, decompile, or disassemble the Software
+- Rent, lease, or lend the Software
+- Copy or redistribute the Software
+- Modify or create derivative works based on the Software
+- Use the Software for any illegal purpose
+
+3. OWNERSHIP
+The Software is licensed, not sold. BI Analytics retains all right, title, and interest in and to the Software.
+
+4. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term of this Agreement.
+
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL BI ANALYTICS BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE.
+
+7. SUPPORT
+For support or questions, please contact the developer.
+
+Copyright © 2025 BI Analytics. All rights reserved.

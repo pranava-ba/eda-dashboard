@@ -1,0 +1,9 @@
+# EDA Dashboard v3 — PyQt6 + WebEngine edition
+PyQt6>=6.6
+PyQt6-WebEngine>=6.6
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+openpyxl>=3.1.0
+xlrd>=2.0.0
+pyinstaller>=6.6.0

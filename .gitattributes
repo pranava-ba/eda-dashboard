@@ -1,0 +1,9 @@
+# Normalise line endings across platforms
+* text=auto eol=lf
+
+# Treat these as binary
+*.xlsx binary
+*.xls  binary
+*.png  binary
+*.jpg  binary
+*.ico  binary
