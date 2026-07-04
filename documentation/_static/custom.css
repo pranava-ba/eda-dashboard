@@ -1,0 +1,9 @@
+/* Minimal, readability-safe accents on top of the default Furo theme.
+   Uses Furo's own theme variables, so it adapts to light/dark automatically
+   and never reduces text contrast. */
+
+/* A subtle divider under the top-level heading. */
+h1 {
+  border-bottom: 2px solid var(--color-background-border);
+  padding-bottom: 0.3em;
+}
