@@ -7,8 +7,8 @@ churn example, but works with any Excel/CSV). It ships **two ways from one codeb
 - **🌐 Live web demo** — the same UI running entirely in the browser via
   [Pyodide](https://pyodide.org) (Python compiled to WebAssembly). No server, no install.
 
-> **Live demo:** `https://<your-username>.github.io/<your-repo>/`
-> *(update this after enabling GitHub Pages — see below)*
+> **🌐 Live demo:** https://pranava-ba.github.io/eda-dashboard/
+> *(goes live once GitHub Pages is enabled — Settings → Pages → `main` / `/docs`)*
 
 ## Features
 
